@@ -4,7 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
-| [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | book knowledge base app | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault) |
+| [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | bookmark knowledge base app | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault) |
 
 ---
 
