@@ -36,7 +36,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Drift](https://github.com/Cenius-ai/drift-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
+| [Drift](https://github.com/Cenius-ai/drift-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/drift) |
 
 ## Finance
 
@@ -54,7 +54,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
+| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms) |
 
 ## Social & Community
 
@@ -64,7 +64,7 @@ _Social feeds, forums, chat and community platforms._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
+| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen) |
 
 ## Education & Learning
 
