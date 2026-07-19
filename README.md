@@ -24,9 +24,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
+**[Open source productivity apps →](categories/productivity.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault) |
 
 ## Data & Dashboards
 
