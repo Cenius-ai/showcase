@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Nook](https://github.com/Cenius-ai/nook-vlang) | knowledge base app | V | [GIF](https://github.com/Cenius-ai/nook-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook) |
 | [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | bookmark knowledge base app | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault) |
 
 ---
