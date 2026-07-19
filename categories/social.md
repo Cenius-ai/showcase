@@ -4,7 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
-| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | social network app | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace) |
+| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | social network app | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen) |
 
 ---
 
