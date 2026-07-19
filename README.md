@@ -32,9 +32,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
+**[Open source dashboard software →](categories/dashboards.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Drift](https://github.com/Cenius-ai/drift-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
 
 ## Finance
 
@@ -48,17 +50,21 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
+**[Open source CMS and media apps →](categories/content-media.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
 
 ## Social & Community
 
 _Social feeds, forums, chat and community platforms._
 
+**[Open source social network software →](categories/social.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [marketplace](https://cenius.ai/marketplace) |
 
 ## Education & Learning
 
