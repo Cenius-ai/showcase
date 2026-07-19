@@ -4,7 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
-| [Drift](https://github.com/Cenius-ai/drift-phoenix) | log monitoring dashboard | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace) |
+| [Drift](https://github.com/Cenius-ai/drift-phoenix) | log monitoring dashboard | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/drift) |
 
 ---
 
