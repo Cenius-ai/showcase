@@ -1,6 +1,6 @@
 # Open source finance software
 
-Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is MIT-licensed — clone it, run it, or remix it with full rebrand rights.
+Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is Apache-2.0-licensed — clone it, run it, or remix it with full rebrand rights.
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
