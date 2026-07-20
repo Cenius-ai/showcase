@@ -1,6 +1,6 @@
 # Cenius showcase — every published app, indexed
 
-A curated index of complete, MIT-licensed applications generated on [cenius.ai](https://cenius.ai). Each entry links to its repo (full source + demo media) and its marketplace page, where you can remix it with full rebrand rights over your derivative.
+A curated index of complete, Apache-2.0-licensed applications generated on [cenius.ai](https://cenius.ai). Each entry links to its repo (full source + demo media) and its marketplace page, where you can remix it with full rebrand rights over your derivative.
 
 > **What lands here:** only builds that pass curation — real multi-screen previews, clean security scan, distinct design, complete presentation (README + demo GIF + screenshots). Steady cadence, no bulk dumps.
 
