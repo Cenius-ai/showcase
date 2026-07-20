@@ -1,6 +1,6 @@
 # Open source social network software
 
-Feeds, forums and chat platforms — run your own community, own your data. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is MIT-licensed — clone it, run it, or remix it with full rebrand rights.
+Feeds, forums and chat platforms — run your own community, own your data. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is Apache-2.0-licensed — clone it, run it, or remix it with full rebrand rights.
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
