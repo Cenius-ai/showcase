@@ -28,8 +28,8 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Nook](https://github.com/Cenius-ai/nook-vlang) | V | [GIF](https://github.com/Cenius-ai/nook-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook) |
-| [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault) |
+| [Nook](https://github.com/Cenius-ai/nook-vlang) | V | [GIF](https://github.com/Cenius-ai/nook-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook?ref=gh&utm_campaign=nook-vlang) |
+| [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault?ref=gh&utm_campaign=linkvault-clojure) |
 
 ## Data & Dashboards
 
@@ -39,7 +39,7 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Drift](https://github.com/Cenius-ai/drift-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/drift) |
+| [Drift](https://github.com/Cenius-ai/drift-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/drift-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/drift?ref=gh&utm_campaign=drift-phoenix) |
 
 ## Finance
 
@@ -49,7 +49,7 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Haven](https://github.com/Cenius-ai/haven-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven) |
+| [Haven](https://github.com/Cenius-ai/haven-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang) |
 
 ## Content & Media
 
@@ -59,7 +59,7 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms) |
+| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro) |
 
 ## Social & Community
 
@@ -69,7 +69,7 @@ _Social feeds, forums, chat and community platforms._
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen) |
+| [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal) |
 
 ## Education & Learning
 
