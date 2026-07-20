@@ -1,6 +1,6 @@
 # Open source CMS and media apps
 
-Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is MIT-licensed — clone it, run it, or remix it with full rebrand rights.
+Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Every app below was generated end-to-end on [cenius.ai](https://cenius.ai) and is Apache-2.0-licensed — clone it, run it, or remix it with full rebrand rights.
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
