@@ -4,7 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
-| [Haven](https://github.com/Cenius-ai/haven-golang) | personal finance tracker | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven) |
+| [Haven](https://github.com/Cenius-ai/haven-golang) | personal finance tracker | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang) |
 
 ---
 
