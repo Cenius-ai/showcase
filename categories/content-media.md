@@ -4,7 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
-| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | blog platform | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms) |
+| [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | blog platform | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro) |
 
 ---
 
