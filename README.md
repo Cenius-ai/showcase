@@ -8,9 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
+**[Open source business software →](categories/business-tools.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Book Library](https://github.com/Cenius-ai/book-library-flask) | Flask | [GIF](https://github.com/Cenius-ai/book-library-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-library?ref=gh&utm_campaign=book-library-flask) |
 
 ## E-commerce & Marketplaces
 
