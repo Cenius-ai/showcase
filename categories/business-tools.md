@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app?ref=gh&utm_campaign=book-catalog-web-app-scala) |
 | [Book Library](https://github.com/Cenius-ai/book-library-flask) | book web application | Flask | [GIF](https://github.com/Cenius-ai/book-library-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-library?ref=gh&utm_campaign=book-library-flask) |
 
 ---
