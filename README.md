@@ -16,9 +16,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Nimbus – Local Services Marketplace](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-local-services-marketplace?ref=gh&utm_campaign=nimbus-local-services-marketplace-crystal) |
 
 ## Productivity & Organization
 
@@ -55,10 +57,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (1 app)
+**[Open source CMS and media apps →](categories/content-media.md)** (2 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Next.js Markdown Blog](https://github.com/Cenius-ai/next-js-markdown-blog-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-markdown-blog-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-markdown-blog?ref=gh&utm_campaign=next-js-markdown-blog-vlang) |
 | [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro) |
 
 ## Social & Community
