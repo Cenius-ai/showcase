@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Fable](https://github.com/Cenius-ai/fable-astro) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/fable-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable?ref=gh&utm_campaign=fable-astro) |
 | [Warehouse Inventory Manager](https://github.com/Cenius-ai/warehouse-inventory-manager-fastapi) | monitoring dashboard | FastAPI | [GIF](https://github.com/Cenius-ai/warehouse-inventory-manager-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warehouse-inventory-manager?ref=gh&utm_campaign=warehouse-inventory-manager-fastapi) |
 | [Inventory Web App](https://github.com/Cenius-ai/inventory-web-app-spring-boot) | monitoring dashboard | Spring Boot | [GIF](https://github.com/Cenius-ai/inventory-web-app-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inventory-web-app?ref=gh&utm_campaign=inventory-web-app-spring-boot) |
 | [Reef](https://github.com/Cenius-ai/reef-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/reef-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reef?ref=gh&utm_campaign=reef-webapp) |
