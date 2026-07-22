@@ -58,10 +58,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (1 app)
+**[Open source finance software →](categories/finance.md)** (2 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Opal](https://github.com/Cenius-ai/opal-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/opal-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal-2?ref=gh&utm_campaign=opal-phoenix) |
 | [Haven](https://github.com/Cenius-ai/haven-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang) |
 
 ## Content & Media
