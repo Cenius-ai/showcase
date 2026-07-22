@@ -46,10 +46,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (4 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Fable](https://github.com/Cenius-ai/fable-astro) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable?ref=gh&utm_campaign=fable-astro) |
 | [Warehouse Inventory Manager](https://github.com/Cenius-ai/warehouse-inventory-manager-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/warehouse-inventory-manager-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warehouse-inventory-manager?ref=gh&utm_campaign=warehouse-inventory-manager-fastapi) |
 | [Inventory Web App](https://github.com/Cenius-ai/inventory-web-app-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/inventory-web-app-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inventory-web-app?ref=gh&utm_campaign=inventory-web-app-spring-boot) |
 | [Reef](https://github.com/Cenius-ai/reef-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/reef-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reef?ref=gh&utm_campaign=reef-webapp) |
