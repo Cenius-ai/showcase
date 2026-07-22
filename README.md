@@ -31,10 +31,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (3 apps)
+**[Open source productivity apps →](categories/productivity.md)** (4 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Sage](https://github.com/Cenius-ai/sage-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/sage-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage?ref=gh&utm_campaign=sage-crystal) |
 | [Sage — Developer's Code Snippet Manager](https://github.com/Cenius-ai/sage-developer-s-code-snippet-manager-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/sage-developer-s-code-snippet-manager-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-developer-s-code-snippet-manager?ref=gh&utm_campaign=sage-developer-s-code-snippet-manager-crystal) |
 | [Nook](https://github.com/Cenius-ai/nook-vlang) | V | [GIF](https://github.com/Cenius-ai/nook-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook?ref=gh&utm_campaign=nook-vlang) |
 | [LinkVault](https://github.com/Cenius-ai/linkvault-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/linkvault-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkvault?ref=gh&utm_campaign=linkvault-clojure) |
