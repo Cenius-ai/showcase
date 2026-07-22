@@ -81,10 +81,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (1 app)
+**[Open source social network software →](categories/social.md)** (2 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Beacon](https://github.com/Cenius-ai/beacon-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/beacon-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi) |
 | [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal) |
 
 ## Education & Learning
