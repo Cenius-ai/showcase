@@ -68,10 +68,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (2 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Site](https://github.com/Cenius-ai/recipe-site-django) | Django | [GIF](https://github.com/Cenius-ai/recipe-site-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-site?ref=gh&utm_campaign=recipe-site-django) |
 | [Next.js Markdown Blog](https://github.com/Cenius-ai/next-js-markdown-blog-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-markdown-blog-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-markdown-blog?ref=gh&utm_campaign=next-js-markdown-blog-vlang) |
 | [Orbit CMS](https://github.com/Cenius-ai/orbit-cms-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-cms-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-cms?ref=gh&utm_campaign=orbit-cms-astro) |
 
