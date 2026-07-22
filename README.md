@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (2 apps)
+**[Open source business software →](categories/business-tools.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Nova - Feature Flag Manager](https://github.com/Cenius-ai/nova-feature-flag-manager-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/nova-feature-flag-manager-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nova---feature-flag-manager?ref=gh&utm_campaign=nova-feature-flag-manager-crystal) |
 | [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app?ref=gh&utm_campaign=book-catalog-web-app-scala) |
 | [Book Library](https://github.com/Cenius-ai/book-library-flask) | Flask | [GIF](https://github.com/Cenius-ai/book-library-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-library?ref=gh&utm_campaign=book-library-flask) |
 
