@@ -21,10 +21,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (4 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Onyx Remote Job Board](https://github.com/Cenius-ai/onyx-remote-job-board-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/onyx-remote-job-board-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-remote-job-board?ref=gh&utm_campaign=onyx-remote-job-board-spring-boot) |
 | [Simple E-Commerce Storefront](https://github.com/Cenius-ai/simple-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/simple-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-e-commerce-storefront?ref=gh&utm_campaign=simple-e-commerce-storefront-vlang) |
 | [Larch – Design Job Board](https://github.com/Cenius-ai/larch-design-job-board-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/larch-design-job-board-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-design-job-board?ref=gh&utm_campaign=larch-design-job-board-spring-boot) |
 | [Ceramics Studio Online Store](https://github.com/Cenius-ai/ceramics-studio-online-store-vlang) | V | [GIF](https://github.com/Cenius-ai/ceramics-studio-online-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ceramics-studio-online-store?ref=gh&utm_campaign=ceramics-studio-online-store-vlang) |
