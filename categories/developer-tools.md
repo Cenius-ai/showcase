@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) | book software library | Flask | [GIF](https://github.com/Cenius-ai/flask-books-catalog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog) |
 | [Library Catalog Web App](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot) | book software library | Spring Boot | [GIF](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/library-catalog-web-app?ref=gh&utm_campaign=library-catalog-web-app-spring-boot) |
 
 ---
