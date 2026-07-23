@@ -21,10 +21,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (3 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (4 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Simple E-Commerce Storefront](https://github.com/Cenius-ai/simple-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/simple-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-e-commerce-storefront?ref=gh&utm_campaign=simple-e-commerce-storefront-vlang) |
 | [Larch – Design Job Board](https://github.com/Cenius-ai/larch-design-job-board-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/larch-design-job-board-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-design-job-board?ref=gh&utm_campaign=larch-design-job-board-spring-boot) |
 | [Ceramics Studio Online Store](https://github.com/Cenius-ai/ceramics-studio-online-store-vlang) | V | [GIF](https://github.com/Cenius-ai/ceramics-studio-online-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ceramics-studio-online-store?ref=gh&utm_campaign=ceramics-studio-online-store-vlang) |
 | [Nimbus – Local Services Marketplace](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/nimbus-local-services-marketplace-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-local-services-marketplace?ref=gh&utm_campaign=nimbus-local-services-marketplace-crystal) |
