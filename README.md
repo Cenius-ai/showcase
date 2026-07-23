@@ -76,10 +76,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (5 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (6 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Docs Site](https://github.com/Cenius-ai/recipe-docs-site-vlang) | V | [GIF](https://github.com/Cenius-ai/recipe-docs-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-docs-site?ref=gh&utm_campaign=recipe-docs-site-vlang) |
 | [Recipe Book](https://github.com/Cenius-ai/recipe-book-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipe-book-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-book?ref=gh&utm_campaign=recipe-book-flask) |
 | [Slate](https://github.com/Cenius-ai/slate-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/slate-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate?ref=gh&utm_campaign=slate-nodejs) |
 | [Recipe Site](https://github.com/Cenius-ai/recipe-site-django) | Django | [GIF](https://github.com/Cenius-ai/recipe-site-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-site?ref=gh&utm_campaign=recipe-site-django) |
