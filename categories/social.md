@@ -4,6 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Jade Forum — Production MVP Implementation Plan](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi) | social network app | FastAPI | [GIF](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade-forum-production-mvp-implementation-plan?ref=gh&utm_campaign=jade-forum-production-mvp-implementation-plan-fastapi) |
 | [Beacon](https://github.com/Cenius-ai/beacon-fastapi) | photography social network app | FastAPI | [GIF](https://github.com/Cenius-ai/beacon-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi) |
 | [Lumen](https://github.com/Cenius-ai/lumen-crystal) | social network app | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal) |
 
