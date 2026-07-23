@@ -86,10 +86,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (2 apps)
+**[Open source social network software →](categories/social.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Jade Forum — Production MVP Implementation Plan](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade-forum-production-mvp-implementation-plan?ref=gh&utm_campaign=jade-forum-production-mvp-implementation-plan-fastapi) |
 | [Beacon](https://github.com/Cenius-ai/beacon-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/beacon-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi) |
 | [Lumen](https://github.com/Cenius-ai/lumen-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/lumen-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen?ref=gh&utm_campaign=lumen-crystal) |
 
