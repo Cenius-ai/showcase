@@ -104,9 +104,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
+**[Open source learning platforms →](categories/education.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) | Go | [GIF](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang) |
 
 ## Games & Interactive
 
