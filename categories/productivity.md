@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Django Knowledge Base CMS](https://github.com/Cenius-ai/django-knowledge-base-cms) | knowledge base app | Django | [GIF](https://github.com/Cenius-ai/django-knowledge-base-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-knowledge-base-cms?ref=gh&utm_campaign=django-knowledge-base-cms) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-nodejs) | bookmark knowledge base app | Node.js | [GIF](https://github.com/Cenius-ai/bookmarks-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-2?ref=gh&utm_campaign=bookmarks-manager-nodejs) |
 | [Sage](https://github.com/Cenius-ai/sage-crystal) | pet knowledge base app | Crystal | [GIF](https://github.com/Cenius-ai/sage-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage?ref=gh&utm_campaign=sage-crystal) |
 | [Sage — Developer's Code Snippet Manager](https://github.com/Cenius-ai/sage-developer-s-code-snippet-manager-crystal) | pet knowledge base app | Crystal | [GIF](https://github.com/Cenius-ai/sage-developer-s-code-snippet-manager-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-developer-s-code-snippet-manager?ref=gh&utm_campaign=sage-developer-s-code-snippet-manager-crystal) |
