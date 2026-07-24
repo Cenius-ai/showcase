@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Django Blog/CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp) | blog platform | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms-mvp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-mvp?ref=gh&utm_campaign=django-blog-cms-mvp) |
 | [Recipe Docs Site](https://github.com/Cenius-ai/recipe-docs-site-vlang) | recipe manager | V | [GIF](https://github.com/Cenius-ai/recipe-docs-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-docs-site?ref=gh&utm_campaign=recipe-docs-site-vlang) |
 | [Recipe Book](https://github.com/Cenius-ai/recipe-book-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/recipe-book-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-book?ref=gh&utm_campaign=recipe-book-flask) |
 | [Slate](https://github.com/Cenius-ai/slate-nodejs) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/slate-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate?ref=gh&utm_campaign=slate-nodejs) |
