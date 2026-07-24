@@ -92,10 +92,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (4 apps)
+**[Open source social network software →](categories/social.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Opal - Tech News Aggregator](https://github.com/Cenius-ai/opal-tech-news-aggregator-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/opal-tech-news-aggregator-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal---tech-news-aggregator?ref=gh&utm_campaign=opal-tech-news-aggregator-rails) |
 | [Aster - Photographer's Social Network](https://github.com/Cenius-ai/aster-photographer-s-social-network-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/aster-photographer-s-social-network-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster---photographer-s-social-network?ref=gh&utm_campaign=aster-photographer-s-social-network-kotlin) |
 | [Jade Forum — Production MVP Implementation Plan](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/jade-forum-production-mvp-implementation-plan-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade-forum-production-mvp-implementation-plan?ref=gh&utm_campaign=jade-forum-production-mvp-implementation-plan-fastapi) |
 | [Beacon](https://github.com/Cenius-ai/beacon-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/beacon-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon?ref=gh&utm_campaign=beacon-fastapi) |
