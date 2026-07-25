@@ -53,10 +53,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (7 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Haven](https://github.com/Cenius-ai/haven-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/haven-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-2?ref=gh&utm_campaign=haven-spring-boot) |
 | [Inventory Manager](https://github.com/Cenius-ai/inventory-manager-django) | Django | [GIF](https://github.com/Cenius-ai/inventory-manager-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inventory-manager?ref=gh&utm_campaign=inventory-manager-django) |
 | [Tide: Code Snippet Manager & Pastebin](https://github.com/Cenius-ai/tide-code-snippet-manager-pastebin-flask) | Flask | [GIF](https://github.com/Cenius-ai/tide-code-snippet-manager-pastebin-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide-code-snippet-manager-pastebin?ref=gh&utm_campaign=tide-code-snippet-manager-pastebin-flask) |
 | [Fable](https://github.com/Cenius-ai/fable-astro) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable?ref=gh&utm_campaign=fable-astro) |
