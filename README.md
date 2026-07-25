@@ -127,10 +127,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (2 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/personal-book-library-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails) |
 | [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) | Flask | [GIF](https://github.com/Cenius-ai/flask-books-catalog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog) |
 | [Library Catalog Web App](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/library-catalog-web-app-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/library-catalog-web-app?ref=gh&utm_campaign=library-catalog-web-app-spring-boot) |
 
