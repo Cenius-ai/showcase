@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) | recipe manager | Crystal | [GIF](https://github.com/Cenius-ai/recipes-web-app-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal) |
 | [Blog CMS MVP](https://github.com/Cenius-ai/blog-cms-mvp-rails) | blog platform | Ruby on Rails | [GIF](https://github.com/Cenius-ai/blog-cms-mvp-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blog-cms-mvp?ref=gh&utm_campaign=blog-cms-mvp-rails) |
 | [Django Blog/CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp) | blog platform | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms-mvp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-mvp?ref=gh&utm_campaign=django-blog-cms-mvp) |
 | [Recipe Docs Site](https://github.com/Cenius-ai/recipe-docs-site-vlang) | recipe manager | V | [GIF](https://github.com/Cenius-ai/recipe-docs-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-docs-site?ref=gh&utm_campaign=recipe-docs-site-vlang) |
