@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) | landing page | Python | [GIF](https://github.com/Cenius-ai/saas-landing-page-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) |
 | [Nook](https://github.com/Cenius-ai/nook-spring-boot) | recipe manager | Spring Boot | [GIF](https://github.com/Cenius-ai/nook-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-2?ref=gh&utm_campaign=nook-spring-boot) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) | recipe manager | Crystal | [GIF](https://github.com/Cenius-ai/recipes-web-app-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal) |
 | [Blog CMS MVP](https://github.com/Cenius-ai/blog-cms-mvp-rails) | blog platform | Ruby on Rails | [GIF](https://github.com/Cenius-ai/blog-cms-mvp-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blog-cms-mvp?ref=gh&utm_campaign=blog-cms-mvp-rails) |
