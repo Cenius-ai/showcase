@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Cove Status Page](https://github.com/Cenius-ai/cove-status-page-spring-boot) | monitoring dashboard | Spring Boot | [GIF](https://github.com/Cenius-ai/cove-status-page-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove-status-page?ref=gh&utm_campaign=cove-status-page-spring-boot) |
 | [Nova Smart Home Dashboard](https://github.com/Cenius-ai/nova-smart-home-dashboard-clojure) | monitoring dashboard | Clojure | [GIF](https://github.com/Cenius-ai/nova-smart-home-dashboard-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nova-smart-home-dashboard?ref=gh&utm_campaign=nova-smart-home-dashboard-clojure) |
 | [Article Search Engine](https://github.com/Cenius-ai/article-search-engine-clojure) | search engine app | Clojure | [GIF](https://github.com/Cenius-ai/article-search-engine-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/article-search-engine?ref=gh&utm_campaign=article-search-engine-clojure) |
 | [Haven](https://github.com/Cenius-ai/haven-spring-boot) | monitoring dashboard | Spring Boot | [GIF](https://github.com/Cenius-ai/haven-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-2?ref=gh&utm_campaign=haven-spring-boot) |
