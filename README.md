@@ -23,10 +23,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (8 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (9 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cove](https://github.com/Cenius-ai/cove-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/cove-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove?ref=gh&utm_campaign=cove-spring-boot) |
 | [Opal — Restaurant Reservations](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal-restaurant-reservations?ref=gh&utm_campaign=opal-restaurant-reservations-spring-boot) |
 | [Echo](https://github.com/Cenius-ai/echo-django) | Django | [GIF](https://github.com/Cenius-ai/echo-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo?ref=gh&utm_campaign=echo-django) |
 | [Peak Coffee Roaster E-Commerce Storefront](https://github.com/Cenius-ai/peak-coffee-roaster-e-commerce-storefront-scala) | Scala | [GIF](https://github.com/Cenius-ai/peak-coffee-roaster-e-commerce-storefront-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak-coffee-roaster-e-commerce-storefront?ref=gh&utm_campaign=peak-coffee-roaster-e-commerce-storefront-scala) |
