@@ -86,10 +86,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (10 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (11 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) | Python | [GIF](https://github.com/Cenius-ai/saas-landing-page-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) |
 | [Nook](https://github.com/Cenius-ai/nook-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/nook-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-2?ref=gh&utm_campaign=nook-spring-boot) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/recipes-web-app-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal) |
 | [Blog CMS MVP](https://github.com/Cenius-ai/blog-cms-mvp-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/blog-cms-mvp-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blog-cms-mvp?ref=gh&utm_campaign=blog-cms-mvp-rails) |
