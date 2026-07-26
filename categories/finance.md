@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Knox](https://github.com/Cenius-ai/knox-spring-boot) | personal finance tracker | Spring Boot | [GIF](https://github.com/Cenius-ai/knox-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-2?ref=gh&utm_campaign=knox-spring-boot) |
 | [Opal](https://github.com/Cenius-ai/opal-phoenix) | personal finance tracker | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/opal-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal-2?ref=gh&utm_campaign=opal-phoenix) |
 | [Haven](https://github.com/Cenius-ai/haven-golang) | personal finance tracker | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang) |
 
