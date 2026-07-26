@@ -74,10 +74,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (3 apps)
+**[Open source finance software →](categories/finance.md)** (4 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Expense Tracker Web](https://github.com/Cenius-ai/expense-tracker-web-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/expense-tracker-web-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker-web?ref=gh&utm_campaign=expense-tracker-web-spring-boot) |
 | [Knox](https://github.com/Cenius-ai/knox-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/knox-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-2?ref=gh&utm_campaign=knox-spring-boot) |
 | [Opal](https://github.com/Cenius-ai/opal-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/opal-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal-2?ref=gh&utm_campaign=opal-phoenix) |
 | [Haven](https://github.com/Cenius-ai/haven-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven?ref=gh&utm_campaign=haven-golang) |
