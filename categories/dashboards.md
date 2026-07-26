@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Article Search Engine](https://github.com/Cenius-ai/article-search-engine-clojure) | search engine app | Clojure | [GIF](https://github.com/Cenius-ai/article-search-engine-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/article-search-engine?ref=gh&utm_campaign=article-search-engine-clojure) |
 | [Haven](https://github.com/Cenius-ai/haven-spring-boot) | monitoring dashboard | Spring Boot | [GIF](https://github.com/Cenius-ai/haven-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-2?ref=gh&utm_campaign=haven-spring-boot) |
 | [Inventory Manager](https://github.com/Cenius-ai/inventory-manager-django) | monitoring dashboard | Django | [GIF](https://github.com/Cenius-ai/inventory-manager-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inventory-manager?ref=gh&utm_campaign=inventory-manager-django) |
 | [Tide: Code Snippet Manager & Pastebin](https://github.com/Cenius-ai/tide-code-snippet-manager-pastebin-flask) | pet monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/tide-code-snippet-manager-pastebin-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide-code-snippet-manager-pastebin?ref=gh&utm_campaign=tide-code-snippet-manager-pastebin-flask) |
