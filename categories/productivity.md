@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [FocusFlow](https://github.com/Cenius-ai/focusflow-python) | to-do list app | Python | [GIF](https://github.com/Cenius-ai/focusflow-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/focusflow?ref=gh&utm_campaign=focusflow-python) |
 | [Bookshelf](https://github.com/Cenius-ai/bookshelf-clojure) | book to-do list app | Clojure | [GIF](https://github.com/Cenius-ai/bookshelf-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf?ref=gh&utm_campaign=bookshelf-clojure) |
 | [Book Club Manager](https://github.com/Cenius-ai/book-club-manager-spring-boot) | book to-do list app | Spring Boot | [GIF](https://github.com/Cenius-ai/book-club-manager-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-club-manager?ref=gh&utm_campaign=book-club-manager-spring-boot) |
 | [Django Knowledge Base CMS](https://github.com/Cenius-ai/django-knowledge-base-cms) | knowledge base app | Django | [GIF](https://github.com/Cenius-ai/django-knowledge-base-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-knowledge-base-cms?ref=gh&utm_campaign=django-knowledge-base-cms) |
