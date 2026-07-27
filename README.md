@@ -92,10 +92,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (11 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (12 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Box](https://github.com/Cenius-ai/recipe-box-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/recipe-box-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box?ref=gh&utm_campaign=recipe-box-spring-boot) |
 | [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) | Python | [GIF](https://github.com/Cenius-ai/saas-landing-page-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) |
 | [Nook](https://github.com/Cenius-ai/nook-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/nook-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-2?ref=gh&utm_campaign=nook-spring-boot) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/recipes-web-app-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app?ref=gh&utm_campaign=recipes-web-app-crystal) |
