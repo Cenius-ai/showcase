@@ -41,10 +41,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (7 apps)
+**[Open source productivity apps →](categories/productivity.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookshelf](https://github.com/Cenius-ai/bookshelf-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/bookshelf-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf?ref=gh&utm_campaign=bookshelf-clojure) |
 | [Book Club Manager](https://github.com/Cenius-ai/book-club-manager-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/book-club-manager-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-club-manager?ref=gh&utm_campaign=book-club-manager-spring-boot) |
 | [Django Knowledge Base CMS](https://github.com/Cenius-ai/django-knowledge-base-cms) | Django | [GIF](https://github.com/Cenius-ai/django-knowledge-base-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-knowledge-base-cms?ref=gh&utm_campaign=django-knowledge-base-cms) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookmarks-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-2?ref=gh&utm_campaign=bookmarks-manager-nodejs) |
