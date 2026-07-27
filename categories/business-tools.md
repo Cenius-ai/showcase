@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Maple Helpdesk](https://github.com/Cenius-ai/maple-helpdesk-dotnet) | CRM system | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-helpdesk-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple-helpdesk?ref=gh&utm_campaign=maple-helpdesk-dotnet) |
 | [OrbitDodge](https://github.com/Cenius-ai/orbitdodge-python) | web application | Python | [GIF](https://github.com/Cenius-ai/orbitdodge-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbitdodge?ref=gh&utm_campaign=orbitdodge-python) |
 | [Brick Breaker Arcade](https://github.com/Cenius-ai/brick-breaker-arcade-python) | web application | Python | [GIF](https://github.com/Cenius-ai/brick-breaker-arcade-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brick-breaker-arcade?ref=gh&utm_campaign=brick-breaker-arcade-python) |
 | [NoteAPI-Lite](https://github.com/Cenius-ai/noteapi-lite-vlang) | web application | V | [GIF](https://github.com/Cenius-ai/noteapi-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/noteapi-lite?ref=gh&utm_campaign=noteapi-lite-vlang) |
