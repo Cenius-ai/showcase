@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (7 apps)
+**[Open source business software →](categories/business-tools.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [ShelfKeeper](https://github.com/Cenius-ai/shelfkeeper-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/shelfkeeper-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfkeeper?ref=gh&utm_campaign=shelfkeeper-rails) |
 | [Maple Helpdesk](https://github.com/Cenius-ai/maple-helpdesk-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-helpdesk-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple-helpdesk?ref=gh&utm_campaign=maple-helpdesk-dotnet) |
 | [OrbitDodge](https://github.com/Cenius-ai/orbitdodge-python) | Python | [GIF](https://github.com/Cenius-ai/orbitdodge-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbitdodge?ref=gh&utm_campaign=orbitdodge-python) |
 | [Brick Breaker Arcade](https://github.com/Cenius-ai/brick-breaker-arcade-python) | Python | [GIF](https://github.com/Cenius-ai/brick-breaker-arcade-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brick-breaker-arcade?ref=gh&utm_campaign=brick-breaker-arcade-python) |
