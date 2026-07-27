@@ -94,10 +94,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (13 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (14 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Rails Blog](https://github.com/Cenius-ai/rails-blog) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog?ref=gh&utm_campaign=rails-blog) |
 | [Flux](https://github.com/Cenius-ai/flux-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/flux-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux?ref=gh&utm_campaign=flux-rails) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/recipe-box-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box?ref=gh&utm_campaign=recipe-box-spring-boot) |
 | [SaaS Landing Page](https://github.com/Cenius-ai/saas-landing-page-python) | Python | [GIF](https://github.com/Cenius-ai/saas-landing-page-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-landing-page?ref=gh&utm_campaign=saas-landing-page-python) |
