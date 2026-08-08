@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (9 apps)
+**[Open source business software →](categories/business-tools.md)** (10 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala) | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-2?ref=gh&utm_campaign=lumen-scala) |
 | [ShelfKeeper](https://github.com/Cenius-ai/shelfkeeper-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/shelfkeeper-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfkeeper?ref=gh&utm_campaign=shelfkeeper-rails) |
 | [Maple Helpdesk](https://github.com/Cenius-ai/maple-helpdesk-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-helpdesk-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple-helpdesk?ref=gh&utm_campaign=maple-helpdesk-dotnet) |
