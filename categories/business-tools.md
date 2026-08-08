@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala) | web application | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-2?ref=gh&utm_campaign=lumen-scala) |
 | [ShelfKeeper](https://github.com/Cenius-ai/shelfkeeper-rails) | book admin panel | Ruby on Rails | [GIF](https://github.com/Cenius-ai/shelfkeeper-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfkeeper?ref=gh&utm_campaign=shelfkeeper-rails) |
 | [Maple Helpdesk](https://github.com/Cenius-ai/maple-helpdesk-dotnet) | CRM system | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-helpdesk-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple-helpdesk?ref=gh&utm_campaign=maple-helpdesk-dotnet) |
