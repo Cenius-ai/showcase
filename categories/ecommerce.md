@@ -4,6 +4,7 @@ Storefronts, marketplaces and booking platforms — full source, ready to self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Lumen](https://github.com/Cenius-ai/lumen-phoenix) | restaurant e-commerce storefront | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/lumen-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-3?ref=gh&utm_campaign=lumen-phoenix) |
 | [Cove](https://github.com/Cenius-ai/cove-spring-boot) | salon marketplace platform | Spring Boot | [GIF](https://github.com/Cenius-ai/cove-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove?ref=gh&utm_campaign=cove-spring-boot) |
 | [Opal — Restaurant Reservations](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot) | restaurant appointment scheduling system | Spring Boot | [GIF](https://github.com/Cenius-ai/opal-restaurant-reservations-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal-restaurant-reservations?ref=gh&utm_campaign=opal-restaurant-reservations-spring-boot) |
 | [Echo](https://github.com/Cenius-ai/echo-django) | marketplace platform | Django | [GIF](https://github.com/Cenius-ai/echo-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo?ref=gh&utm_campaign=echo-django) |
