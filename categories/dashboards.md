@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Vertex](https://github.com/Cenius-ai/vertex-scala) | monitoring dashboard | Scala | [GIF](https://github.com/Cenius-ai/vertex-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala) |
 | [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) | search engine app | Flask | [GIF](https://github.com/Cenius-ai/zephyr-remote-job-board-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask) |
 | [Loom Inventory Manager](https://github.com/Cenius-ai/loom-inventory-manager-clojure) | monitoring dashboard | Clojure | [GIF](https://github.com/Cenius-ai/loom-inventory-manager-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-inventory-manager?ref=gh&utm_campaign=loom-inventory-manager-clojure) |
 | [Cove Status Page](https://github.com/Cenius-ai/cove-status-page-spring-boot) | monitoring dashboard | Spring Boot | [GIF](https://github.com/Cenius-ai/cove-status-page-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove-status-page?ref=gh&utm_campaign=cove-status-page-spring-boot) |
