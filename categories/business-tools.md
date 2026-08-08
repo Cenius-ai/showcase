@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) | medical CRM system | Scala | [GIF](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala) |
 | [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala) | web application | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-2?ref=gh&utm_campaign=lumen-scala) |
 | [ShelfKeeper](https://github.com/Cenius-ai/shelfkeeper-rails) | book admin panel | Ruby on Rails | [GIF](https://github.com/Cenius-ai/shelfkeeper-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfkeeper?ref=gh&utm_campaign=shelfkeeper-rails) |
