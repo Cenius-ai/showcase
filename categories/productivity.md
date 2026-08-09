@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
 | [BugTracker](https://github.com/Cenius-ai/bugtracker-django) | to-do list app | Django | [GIF](https://github.com/Cenius-ai/bugtracker-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django) |
 | [Cedar — Developer Q&A Forum](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi) | knowledge base app | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-developer-q-a-forum?ref=gh&utm_campaign=cedar-developer-q-a-forum-fastapi) |
 | [FaqForge](https://github.com/Cenius-ai/faqforge-php) | knowledge base app | PHP | [GIF](https://github.com/Cenius-ai/faqforge-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/faqforge?ref=gh&utm_campaign=faqforge-php) |
