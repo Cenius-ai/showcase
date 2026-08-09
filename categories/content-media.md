@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Django Blog CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp-2) | blog platform | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms-mvp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-mvp-2?ref=gh&utm_campaign=django-blog-cms-mvp-2) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) | recipe manager | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/recipe-box-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix) |
 | [Vela Recipe Manager & Meal Planner](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix) | recipe manager | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-recipe-manager-meal-planner?ref=gh&utm_campaign=vela-recipe-manager-meal-planner-phoenix) |
 | [Iris — Food Blog CMS](https://github.com/Cenius-ai/iris-food-blog-cms-flask) | blog platform | Flask | [GIF](https://github.com/Cenius-ai/iris-food-blog-cms-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-food-blog-cms?ref=gh&utm_campaign=iris-food-blog-cms-flask) |
