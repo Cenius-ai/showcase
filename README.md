@@ -28,10 +28,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (12 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (13 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Peak - Remote Tech Job Board](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---remote-tech-job-board?ref=gh&utm_campaign=peak-remote-tech-job-board-phoenix) |
 | [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/halo-salon-booking-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix) |
 | [Flux](https://github.com/Cenius-ai/flux-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-2?ref=gh&utm_campaign=flux-kotlin) |
 | [Lumen](https://github.com/Cenius-ai/lumen-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/lumen-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-3?ref=gh&utm_campaign=lumen-phoenix) |
