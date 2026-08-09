@@ -106,10 +106,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (16 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/recipe-box-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix) |
 | [Vela Recipe Manager & Meal Planner](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-recipe-manager-meal-planner?ref=gh&utm_campaign=vela-recipe-manager-meal-planner-phoenix) |
 | [Iris — Food Blog CMS](https://github.com/Cenius-ai/iris-food-blog-cms-flask) | Flask | [GIF](https://github.com/Cenius-ai/iris-food-blog-cms-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-food-blog-cms?ref=gh&utm_campaign=iris-food-blog-cms-flask) |
 | [Rails Blog](https://github.com/Cenius-ai/rails-blog) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog?ref=gh&utm_campaign=rails-blog) |
