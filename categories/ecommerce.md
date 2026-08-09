@@ -4,6 +4,7 @@ Storefronts, marketplaces and booking platforms — full source, ready to self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) | salon appointment scheduling system | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/halo-salon-booking-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix) |
 | [Flux](https://github.com/Cenius-ai/flux-kotlin) | e-commerce storefront | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-2?ref=gh&utm_campaign=flux-kotlin) |
 | [Lumen](https://github.com/Cenius-ai/lumen-phoenix) | restaurant e-commerce storefront | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/lumen-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-3?ref=gh&utm_campaign=lumen-phoenix) |
 | [Cove](https://github.com/Cenius-ai/cove-spring-boot) | salon marketplace platform | Spring Boot | [GIF](https://github.com/Cenius-ai/cove-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove?ref=gh&utm_campaign=cove-spring-boot) |
