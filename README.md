@@ -51,10 +51,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (12 apps)
+**[Open source productivity apps →](categories/productivity.md)** (13 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
 | [BugTracker](https://github.com/Cenius-ai/bugtracker-django) | Django | [GIF](https://github.com/Cenius-ai/bugtracker-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django) |
 | [Cedar — Developer Q&A Forum](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-developer-q-a-forum?ref=gh&utm_campaign=cedar-developer-q-a-forum-fastapi) |
 | [FaqForge](https://github.com/Cenius-ai/faqforge-php) | PHP | [GIF](https://github.com/Cenius-ai/faqforge-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/faqforge?ref=gh&utm_campaign=faqforge-php) |
