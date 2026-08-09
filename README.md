@@ -128,10 +128,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (7 apps)
+**[Open source social network software →](categories/social.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/terra-survey-builder-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix) |
 | [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) | Go | [GIF](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang) |
 | [Willow](https://github.com/Cenius-ai/willow-django) | Django | [GIF](https://github.com/Cenius-ai/willow-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow?ref=gh&utm_campaign=willow-django) |
 | [Opal - Tech News Aggregator](https://github.com/Cenius-ai/opal-tech-news-aggregator-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/opal-tech-news-aggregator-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opal---tech-news-aggregator?ref=gh&utm_campaign=opal-tech-news-aggregator-rails) |
