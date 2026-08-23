@@ -4,6 +4,8 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | recipe manager | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
+| [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) | recipe manager | Go | [GIF](https://github.com/Cenius-ai/recipeshelf-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang) |
 | [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) | recipe manager | Django | [GIF](https://github.com/Cenius-ai/copy-of-recipe-community-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django) |
 | [Cedar - Recipe Manager & Meal Planner](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar---recipe-manager-meal-planner?ref=gh&utm_campaign=cedar-recipe-manager-meal-planner-flask) |
 | [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/recipebox-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask) |
