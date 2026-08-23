@@ -29,10 +29,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (16 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quarkus-product-catalog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp) |
 | [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-bookstore/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore) |
 | [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang) |
 | [Rails E-Commerce Storefront](https://github.com/Cenius-ai/rails-e-commerce-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-e-commerce-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-e-commerce-storefront?ref=gh&utm_campaign=rails-e-commerce-storefront) |
@@ -117,10 +118,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (21 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (23 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
+| [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) | Go | [GIF](https://github.com/Cenius-ai/recipeshelf-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang) |
 | [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) | Django | [GIF](https://github.com/Cenius-ai/copy-of-recipe-community-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django) |
 | [Cedar - Recipe Manager & Meal Planner](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask) | Flask | [GIF](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar---recipe-manager-meal-planner?ref=gh&utm_campaign=cedar-recipe-manager-meal-planner-flask) |
 | [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipebox-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask) |
