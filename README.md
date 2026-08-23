@@ -52,10 +52,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (13 apps)
+**[Open source productivity apps →](categories/productivity.md)** (14 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
 | [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
 | [BugTracker](https://github.com/Cenius-ai/bugtracker-django) | Django | [GIF](https://github.com/Cenius-ai/bugtracker-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django) |
 | [Cedar — Developer Q&A Forum](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-developer-q-a-forum-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-developer-q-a-forum?ref=gh&utm_campaign=cedar-developer-q-a-forum-fastapi) |
@@ -74,10 +75,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (14 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (15 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro) |
 | [Vertex](https://github.com/Cenius-ai/vertex-scala) | Scala | [GIF](https://github.com/Cenius-ai/vertex-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala) |
 | [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) | Flask | [GIF](https://github.com/Cenius-ai/zephyr-remote-job-board-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask) |
 | [Loom Inventory Manager](https://github.com/Cenius-ai/loom-inventory-manager-clojure) | Clojure | [GIF](https://github.com/Cenius-ai/loom-inventory-manager-clojure/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-inventory-manager?ref=gh&utm_campaign=loom-inventory-manager-clojure) |
@@ -111,10 +113,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (18 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipebox-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask) |
 | [Django Blog CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp-2) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms-mvp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-mvp-2?ref=gh&utm_campaign=django-blog-cms-mvp-2) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/recipe-box-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix) |
 | [Vela Recipe Manager & Meal Planner](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/vela-recipe-manager-meal-planner-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-recipe-manager-meal-planner?ref=gh&utm_campaign=vela-recipe-manager-meal-planner-phoenix) |
