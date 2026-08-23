@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
 | [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro) |
 | [Vertex](https://github.com/Cenius-ai/vertex-scala) | monitoring dashboard | Scala | [GIF](https://github.com/Cenius-ai/vertex-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala) |
 | [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) | search engine app | Flask | [GIF](https://github.com/Cenius-ai/zephyr-remote-job-board-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask) |
