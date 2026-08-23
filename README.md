@@ -29,10 +29,12 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (14 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-bookstore/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore) |
+| [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang) |
 | [Rails E-Commerce Storefront](https://github.com/Cenius-ai/rails-e-commerce-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-e-commerce-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-e-commerce-storefront?ref=gh&utm_campaign=rails-e-commerce-storefront) |
 | [Peak - Remote Tech Job Board](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/peak-remote-tech-job-board-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---remote-tech-job-board?ref=gh&utm_campaign=peak-remote-tech-job-board-phoenix) |
 | [Halo Salon Booking](https://github.com/Cenius-ai/halo-salon-booking-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/halo-salon-booking-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-salon-booking?ref=gh&utm_campaign=halo-salon-booking-phoenix) |
@@ -75,10 +77,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (16 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/partsroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask) |
 | [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
 | [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro) |
 | [Vertex](https://github.com/Cenius-ai/vertex-scala) | Scala | [GIF](https://github.com/Cenius-ai/vertex-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala) |
