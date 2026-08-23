@@ -75,10 +75,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (15 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
 | [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro) |
 | [Vertex](https://github.com/Cenius-ai/vertex-scala) | Scala | [GIF](https://github.com/Cenius-ai/vertex-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex?ref=gh&utm_campaign=vertex-scala) |
 | [Zephyr Remote Job Board](https://github.com/Cenius-ai/zephyr-remote-job-board-flask) | Flask | [GIF](https://github.com/Cenius-ai/zephyr-remote-job-board-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-remote-job-board?ref=gh&utm_campaign=zephyr-remote-job-board-flask) |
@@ -113,10 +114,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (19 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (21 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) | Django | [GIF](https://github.com/Cenius-ai/copy-of-recipe-community-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django) |
+| [Cedar - Recipe Manager & Meal Planner](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask) | Flask | [GIF](https://github.com/Cenius-ai/cedar-recipe-manager-meal-planner-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar---recipe-manager-meal-planner?ref=gh&utm_campaign=cedar-recipe-manager-meal-planner-flask) |
 | [RecipeBox](https://github.com/Cenius-ai/recipebox-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipebox-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipebox?ref=gh&utm_campaign=recipebox-flask) |
 | [Django Blog CMS MVP](https://github.com/Cenius-ai/django-blog-cms-mvp-2) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms-mvp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-mvp-2?ref=gh&utm_campaign=django-blog-cms-mvp-2) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/recipe-box-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-2?ref=gh&utm_campaign=recipe-box-phoenix) |
