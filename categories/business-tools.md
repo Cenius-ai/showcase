@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) | pet web application | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-code-snippet-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala) |
 | [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/loom-conference-event-listings-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) | bookmark web application | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookmarks-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails) |
