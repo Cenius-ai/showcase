@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) | blog platform | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms) |
 | [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) | blog platform | Django | [GIF](https://github.com/Cenius-ai/clean-minimal-blog-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django) |
 | [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | recipe manager | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
 | [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | recipe manager | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
