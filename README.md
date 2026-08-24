@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (15 apps)
+**[Open source business software →](categories/business-tools.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-code-snippet-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala) |
 | [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/loom-conference-event-listings-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookmarks-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails) |
@@ -58,10 +59,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (15 apps)
+**[Open source productivity apps →](categories/productivity.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
 | [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
 | [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
 | [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
@@ -122,10 +124,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (25 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (26 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms) |
 | [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) | Django | [GIF](https://github.com/Cenius-ai/clean-minimal-blog-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django) |
 | [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
 | [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
