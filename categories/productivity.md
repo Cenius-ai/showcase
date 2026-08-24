@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | knowledge base app | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
 | [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | to-do list app | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
 | [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
 | [BugTracker](https://github.com/Cenius-ai/bugtracker-django) | to-do list app | Django | [GIF](https://github.com/Cenius-ai/bugtracker-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django) |
