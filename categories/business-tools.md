@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) | bookmark web application | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookmarks-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails) |
 | [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) | admin panel | Node.js | [GIF](https://github.com/Cenius-ai/event-management-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs) |
 | [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) | medical CRM system | Scala | [GIF](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala) |
 | [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala) |
