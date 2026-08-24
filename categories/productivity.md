@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
 | [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | knowledge base app | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
 | [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | knowledge base app | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
 | [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | to-do list app | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
