@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (13 apps)
+**[Open source business software →](categories/business-tools.md)** (15 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala) |
+| [Loom - Conference Event Listings](https://github.com/Cenius-ai/loom-conference-event-listings-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/loom-conference-event-listings-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom---conference-event-listings?ref=gh&utm_campaign=loom-conference-event-listings-webapp) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookmarks-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails) |
 | [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/event-management-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs) |
 | [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) | Scala | [GIF](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala) |
@@ -120,10 +122,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (24 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (25 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) | Django | [GIF](https://github.com/Cenius-ai/clean-minimal-blog-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django) |
 | [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
 | [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
 | [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) | Go | [GIF](https://github.com/Cenius-ai/recipeshelf-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang) |
