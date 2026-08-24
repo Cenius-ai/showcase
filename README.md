@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (12 apps)
+**[Open source business software →](categories/business-tools.md)** (13 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookmarks-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-3?ref=gh&utm_campaign=bookmarks-manager-rails) |
 | [Event Management App](https://github.com/Cenius-ai/event-management-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/event-management-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app?ref=gh&utm_campaign=event-management-app-nodejs) |
 | [Cobalt – Personal Health Records MVP](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala) | Scala | [GIF](https://github.com/Cenius-ai/cobalt-personal-health-records-mvp-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-personal-health-records-mvp?ref=gh&utm_campaign=cobalt-personal-health-records-mvp-scala) |
 | [Book Catalog App](https://github.com/Cenius-ai/book-catalog-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-app?ref=gh&utm_campaign=book-catalog-app-scala) |
@@ -55,10 +56,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (14 apps)
+**[Open source productivity apps →](categories/productivity.md)** (15 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
 | [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
 | [Task Manager Demo with Authentication](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/task-manager-demo-with-authentication-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-demo-with-authentication?ref=gh&utm_campaign=task-manager-demo-with-authentication-nodejs) |
 | [BugTracker](https://github.com/Cenius-ai/bugtracker-django) | Django | [GIF](https://github.com/Cenius-ai/bugtracker-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bugtracker?ref=gh&utm_campaign=bugtracker-django) |
@@ -118,10 +120,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (23 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (24 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
 | [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
 | [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) | Go | [GIF](https://github.com/Cenius-ai/recipeshelf-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang) |
 | [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) | Django | [GIF](https://github.com/Cenius-ai/copy-of-recipe-community-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django) |
