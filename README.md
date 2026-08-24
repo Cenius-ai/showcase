@@ -59,10 +59,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (16 apps)
+**[Open source productivity apps →](categories/productivity.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
 | [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
 | [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
 | [Cenius Help-Desk Prototype](https://github.com/Cenius-ai/cenius-help-desk-prototype-django) | Django | [GIF](https://github.com/Cenius-ai/cenius-help-desk-prototype-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-help-desk-prototype?ref=gh&utm_campaign=cenius-help-desk-prototype-django) |
@@ -84,10 +85,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (17 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Halo](https://github.com/Cenius-ai/halo-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails) |
 | [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/partsroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask) |
 | [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
 | [Echo Smart-Home Dashboard](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/echo-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/echo-smart-home-dashboard?ref=gh&utm_campaign=echo-smart-home-dashboard-astro) |
@@ -124,10 +126,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (26 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (27 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) | Django | [GIF](https://github.com/Cenius-ai/blogify-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django) |
 | [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms) |
 | [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) | Django | [GIF](https://github.com/Cenius-ai/clean-minimal-blog-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django) |
 | [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
