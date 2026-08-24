@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipe Manager SPA](https://github.com/Cenius-ai/recipe-manager-spa-vite) | recipe manager | Vite | [GIF](https://github.com/Cenius-ai/recipe-manager-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager-spa?ref=gh&utm_campaign=recipe-manager-spa-vite) |
 | [Recipe Manager](https://github.com/Cenius-ai/recipe-manager-vlang) | recipe manager | V | [GIF](https://github.com/Cenius-ai/recipe-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-manager?ref=gh&utm_campaign=recipe-manager-vlang) |
 | [RecipeShelf](https://github.com/Cenius-ai/recipeshelf-golang) | recipe manager | Go | [GIF](https://github.com/Cenius-ai/recipeshelf-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshelf?ref=gh&utm_campaign=recipeshelf-golang) |
 | [Copy of Recipe Community](https://github.com/Cenius-ai/copy-of-recipe-community-django) | recipe manager | Django | [GIF](https://github.com/Cenius-ai/copy-of-recipe-community-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/copy-of-recipe-community?ref=gh&utm_campaign=copy-of-recipe-community-django) |
