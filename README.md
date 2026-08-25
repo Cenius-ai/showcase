@@ -34,10 +34,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (18 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/brewmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang) |
 | [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront) |
 | [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quarkus-product-catalog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp) |
 | [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-bookstore/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore) |
@@ -89,10 +90,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (18 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) | Django | [GIF](https://github.com/Cenius-ai/deskdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django) |
 | [Halo](https://github.com/Cenius-ai/halo-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails) |
 | [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/partsroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask) |
 | [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
@@ -187,10 +189,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (2 apps)
+**[Open source learning platforms →](categories/education.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/terra-course-catalog-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal) |
 | [Aster](https://github.com/Cenius-ai/aster-golang) | Go | [GIF](https://github.com/Cenius-ai/aster-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang) |
 | [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) | Go | [GIF](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang) |
 
