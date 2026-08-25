@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Pulse](https://github.com/Cenius-ai/pulse-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
 | [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | book monitoring dashboard | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
 | [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) | monitoring dashboard | ASP.NET Core | [GIF](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet) |
 | [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) | monitoring dashboard | Django | [GIF](https://github.com/Cenius-ai/deskdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django) |
