@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
 | [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) | to-do list app | Django | [GIF](https://github.com/Cenius-ai/coursetrack-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django) |
 | [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/event-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs) |
