@@ -33,10 +33,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (17 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront) |
 | [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quarkus-product-catalog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp) |
 | [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-bookstore/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore) |
 | [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang) |
@@ -59,10 +60,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (17 apps)
+**[Open source productivity apps →](categories/productivity.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [NoteNest](https://github.com/Cenius-ai/notenest-vite) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite) |
 | [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
 | [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
 | [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
@@ -126,10 +128,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (27 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (28 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Guestbook](https://github.com/Cenius-ai/guestbook-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook?ref=gh&utm_campaign=guestbook-flask) |
 | [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) | Django | [GIF](https://github.com/Cenius-ai/blogify-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django) |
 | [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms) |
 | [Clean Minimal Blog CMS](https://github.com/Cenius-ai/clean-minimal-blog-cms-django) | Django | [GIF](https://github.com/Cenius-ai/clean-minimal-blog-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clean-minimal-blog-cms?ref=gh&utm_campaign=clean-minimal-blog-cms-django) |
