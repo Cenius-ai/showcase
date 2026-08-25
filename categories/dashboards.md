@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) | monitoring dashboard | Django | [GIF](https://github.com/Cenius-ai/deskdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django) |
 | [Halo](https://github.com/Cenius-ai/halo-rails) | monitoring dashboard | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails) |
 | [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/partsroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask) |
 | [Grove — Smart-Home Dashboard](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/grove-smart-home-dashboard-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove-smart-home-dashboard?ref=gh&utm_campaign=grove-smart-home-dashboard-astro) |
