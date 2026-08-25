@@ -4,6 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Django Forum](https://github.com/Cenius-ai/django-forum) | social network app | Django | [GIF](https://github.com/Cenius-ai/django-forum/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum) |
 | [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) | chat application | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/terra-survey-builder-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix) |
 | [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) | social network app | Go | [GIF](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang) |
 | [Willow](https://github.com/Cenius-ai/willow-django) | social network app | Django | [GIF](https://github.com/Cenius-ai/willow-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow?ref=gh&utm_campaign=willow-django) |
