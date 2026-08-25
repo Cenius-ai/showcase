@@ -4,6 +4,7 @@ Storefronts, marketplaces and booking platforms — full source, ready to self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) | e-commerce storefront | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront) |
 | [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) | e-commerce storefront | Full-stack app | [GIF](https://github.com/Cenius-ai/quarkus-product-catalog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp) |
 | [Rails Bookstore](https://github.com/Cenius-ai/rails-bookstore) | book e-commerce storefront | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-bookstore/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-bookstore?ref=gh&utm_campaign=rails-bookstore) |
 | [Haven - Coffee Roaster Storefront](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang) | e-commerce storefront | Go | [GIF](https://github.com/Cenius-ai/haven-coffee-roaster-storefront-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven---coffee-roaster-storefront?ref=gh&utm_campaign=haven-coffee-roaster-storefront-golang) |
