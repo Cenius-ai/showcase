@@ -95,10 +95,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (21 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (22 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Pulse](https://github.com/Cenius-ai/pulse-flask) | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
 | [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
 | [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet) |
 | [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) | Django | [GIF](https://github.com/Cenius-ai/deskdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django) |
@@ -139,10 +140,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (31 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (32 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs) |
 | [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms) |
 | [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) | Django | [GIF](https://github.com/Cenius-ai/warm-community-blog-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django) |
 | [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) | V | [GIF](https://github.com/Cenius-ai/markdown-blog-admin-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang) |
@@ -197,10 +199,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (4 apps)
+**[Open source learning platforms →](categories/education.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Ember](https://github.com/Cenius-ai/ember-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ember-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp) |
 | [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/harbor-language-lms-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal) |
 | [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/terra-course-catalog-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal) |
 | [Aster](https://github.com/Cenius-ai/aster-golang) | Go | [GIF](https://github.com/Cenius-ai/aster-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang) |
