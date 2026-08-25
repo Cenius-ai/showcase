@@ -60,10 +60,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (18 apps)
+**[Open source productivity apps →](categories/productivity.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/event-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite) |
 | [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
 | [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
@@ -128,10 +129,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (28 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) | V | [GIF](https://github.com/Cenius-ai/markdown-blog-admin-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang) |
 | [Guestbook](https://github.com/Cenius-ai/guestbook-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook?ref=gh&utm_campaign=guestbook-flask) |
 | [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) | Django | [GIF](https://github.com/Cenius-ai/blogify-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django) |
 | [Django Blog CMS](https://github.com/Cenius-ai/django-blog-cms) | Django | [GIF](https://github.com/Cenius-ai/django-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-blog-cms-2?ref=gh&utm_campaign=django-blog-cms) |
@@ -182,10 +184,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (1 app)
+**[Open source learning platforms →](categories/education.md)** (2 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Aster](https://github.com/Cenius-ai/aster-golang) | Go | [GIF](https://github.com/Cenius-ai/aster-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang) |
 | [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) | Go | [GIF](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang) |
 
 ## Games & Interactive
