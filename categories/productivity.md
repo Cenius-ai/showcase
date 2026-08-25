@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [NoteNest](https://github.com/Cenius-ai/notenest-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite) |
 | [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
 | [Cedar](https://github.com/Cenius-ai/cedar-fastapi) | knowledge base app | FastAPI | [GIF](https://github.com/Cenius-ai/cedar-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-3?ref=gh&utm_campaign=cedar-fastapi) |
 | [Knox Engineering Wiki](https://github.com/Cenius-ai/knox-engineering-wiki-golang) | knowledge base app | Go | [GIF](https://github.com/Cenius-ai/knox-engineering-wiki-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knox-engineering-wiki?ref=gh&utm_campaign=knox-engineering-wiki-golang) |
