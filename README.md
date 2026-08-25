@@ -63,10 +63,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (22 apps)
+**[Open source productivity apps →](categories/productivity.md)** (23 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask) |
 | [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
 | [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) | Django | [GIF](https://github.com/Cenius-ai/coursetrack-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django) |
@@ -94,10 +95,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (19 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (21 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
+| [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet) |
 | [DeskDesk](https://github.com/Cenius-ai/deskdesk-django) | Django | [GIF](https://github.com/Cenius-ai/deskdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deskdesk?ref=gh&utm_campaign=deskdesk-django) |
 | [Halo](https://github.com/Cenius-ai/halo-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo?ref=gh&utm_campaign=halo-rails) |
 | [PartsRoom](https://github.com/Cenius-ai/partsroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/partsroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/partsroom?ref=gh&utm_campaign=partsroom-flask) |
