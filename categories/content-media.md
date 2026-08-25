@@ -4,6 +4,8 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) | blog platform | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms) |
+| [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) | blog platform | Django | [GIF](https://github.com/Cenius-ai/warm-community-blog-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django) |
 | [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) | blog platform | V | [GIF](https://github.com/Cenius-ai/markdown-blog-admin-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang) |
 | [Guestbook](https://github.com/Cenius-ai/guestbook-flask) | book blog platform | Flask | [GIF](https://github.com/Cenius-ai/guestbook-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook?ref=gh&utm_campaign=guestbook-flask) |
 | [Blogify CMS](https://github.com/Cenius-ai/blogify-cms-django) | blog platform | Django | [GIF](https://github.com/Cenius-ai/blogify-cms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/blogify-cms?ref=gh&utm_campaign=blogify-cms-django) |
