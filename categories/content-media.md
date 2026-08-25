@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) | photo gallery app | Node.js | [GIF](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs) |
 | [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) | blog platform | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms) |
 | [Warm Community Blog](https://github.com/Cenius-ai/warm-community-blog-django) | blog platform | Django | [GIF](https://github.com/Cenius-ai/warm-community-blog-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warm-community-blog?ref=gh&utm_campaign=warm-community-blog-django) |
 | [Markdown Blog & Admin](https://github.com/Cenius-ai/markdown-blog-admin-vlang) | blog platform | V | [GIF](https://github.com/Cenius-ai/markdown-blog-admin-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/markdown-blog-admin?ref=gh&utm_campaign=markdown-blog-admin-vlang) |
