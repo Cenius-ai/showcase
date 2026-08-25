@@ -62,10 +62,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (19 apps)
+**[Open source productivity apps →](categories/productivity.md)** (21 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
+| [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) | Django | [GIF](https://github.com/Cenius-ai/coursetrack-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django) |
 | [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/event-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest?ref=gh&utm_campaign=notenest-vite) |
 | [TaskBoard](https://github.com/Cenius-ai/taskboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskboard?ref=gh&utm_campaign=taskboard-vite) |
@@ -189,10 +191,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (3 apps)
+**[Open source learning platforms →](categories/education.md)** (4 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/harbor-language-lms-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal) |
 | [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/terra-course-catalog-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal) |
 | [Aster](https://github.com/Cenius-ai/aster-golang) | Go | [GIF](https://github.com/Cenius-ai/aster-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-2?ref=gh&utm_campaign=aster-golang) |
 | [Cedar — Video Tutorial Library](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang) | Go | [GIF](https://github.com/Cenius-ai/cedar-video-tutorial-library-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cedar-video-tutorial-library?ref=gh&utm_campaign=cedar-video-tutorial-library-golang) |
