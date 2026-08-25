@@ -34,10 +34,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (19 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (20 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/beanmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang) |
 | [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/brewmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang) |
 | [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront) |
 | [Quarkus Product Catalog](https://github.com/Cenius-ai/quarkus-product-catalog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quarkus-product-catalog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quarkus-product-catalog?ref=gh&utm_campaign=quarkus-product-catalog-webapp) |
@@ -62,10 +63,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (21 apps)
+**[Open source productivity apps →](categories/productivity.md)** (22 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
 | [CourseTrack](https://github.com/Cenius-ai/coursetrack-django) | Django | [GIF](https://github.com/Cenius-ai/coursetrack-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coursetrack?ref=gh&utm_campaign=coursetrack-django) |
 | [Event Planner](https://github.com/Cenius-ai/event-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/event-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-planner?ref=gh&utm_campaign=event-planner-nodejs) |
@@ -174,10 +176,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (8 apps)
+**[Open source social network software →](categories/social.md)** (9 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Django Forum](https://github.com/Cenius-ai/django-forum) | Django | [GIF](https://github.com/Cenius-ai/django-forum/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum) |
 | [Terra - Survey Builder](https://github.com/Cenius-ai/terra-survey-builder-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/terra-survey-builder-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra---survey-builder?ref=gh&utm_campaign=terra-survey-builder-phoenix) |
 | [Pulse — Tech News Aggregator](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang) | Go | [GIF](https://github.com/Cenius-ai/pulse-tech-news-aggregator-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-tech-news-aggregator?ref=gh&utm_campaign=pulse-tech-news-aggregator-golang) |
 | [Willow](https://github.com/Cenius-ai/willow-django) | Django | [GIF](https://github.com/Cenius-ai/willow-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow?ref=gh&utm_campaign=willow-django) |
