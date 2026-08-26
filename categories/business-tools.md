@@ -4,6 +4,8 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | admin panel | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
+| [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-team-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp) |
 | [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) | CRM system | V | [GIF](https://github.com/Cenius-ai/sales-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang) |
 | [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) | pet web application | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-code-snippet-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) | book web application | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala) |
