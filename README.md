@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (19 apps)
+**[Open source business software →](categories/business-tools.md)** (20 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-developer-portal-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet) |
 | [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
 | [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-team-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp) |
 | [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/sales-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang) |
@@ -103,10 +104,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (27 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) | Scala | [GIF](https://github.com/Cenius-ai/prism-cafe-pos-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala) |
+| [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) | V | [GIF](https://github.com/Cenius-ai/larch-pos-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang) |
 | [Mist](https://github.com/Cenius-ai/mist-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/mist-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails) |
 | [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp) |
 | [StockRoom](https://github.com/Cenius-ai/stockroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/stockroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask) |
