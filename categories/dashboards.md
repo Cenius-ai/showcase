@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Mist](https://github.com/Cenius-ai/mist-rails) | monitoring dashboard | Ruby on Rails | [GIF](https://github.com/Cenius-ai/mist-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails) |
 | [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp) |
 | [StockRoom](https://github.com/Cenius-ai/stockroom-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/stockroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask) |
 | [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) | monitoring dashboard | Node.js | [GIF](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs) |
