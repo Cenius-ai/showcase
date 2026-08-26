@@ -98,10 +98,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (26 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (27 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Mist](https://github.com/Cenius-ai/mist-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/mist-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails) |
 | [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp) |
 | [StockRoom](https://github.com/Cenius-ai/stockroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/stockroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask) |
 | [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs) |
@@ -149,10 +150,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (37 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (39 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
+| [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-documentation-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang) |
 | [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) | Crystal | [GIF](https://github.com/Cenius-ai/crystal-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog) |
 | [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipe-box-web-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
