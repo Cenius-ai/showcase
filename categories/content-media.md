@@ -4,6 +4,8 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
+| [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) | documentation site | V | [GIF](https://github.com/Cenius-ai/next-js-documentation-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang) |
 | [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) | blog platform | Crystal | [GIF](https://github.com/Cenius-ai/crystal-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog) |
 | [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/recipe-box-web-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
