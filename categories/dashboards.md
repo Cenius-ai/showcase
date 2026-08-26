@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) | monitoring dashboard | Node.js | [GIF](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs) |
 | [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite) |
 | [Pulse](https://github.com/Cenius-ai/pulse-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
 | [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | book monitoring dashboard | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
