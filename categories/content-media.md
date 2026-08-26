@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Harbor](https://github.com/Cenius-ai/harbor-vlang) | photography photo gallery app | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
 | [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
 | [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) | documentation site | V | [GIF](https://github.com/Cenius-ai/next-js-documentation-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang) |
 | [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) | blog platform | Crystal | [GIF](https://github.com/Cenius-ai/crystal-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog) |
