@@ -4,6 +4,8 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
+| [LensBox](https://github.com/Cenius-ai/lensbox-vlang) | photo gallery app | V | [GIF](https://github.com/Cenius-ai/lensbox-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang) |
 | [Arc](https://github.com/Cenius-ai/arc-django) | photo gallery app | Django | [GIF](https://github.com/Cenius-ai/arc-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django) |
 | [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) | photo gallery app | Node.js | [GIF](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs) |
 | [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) | blog platform | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms) |
