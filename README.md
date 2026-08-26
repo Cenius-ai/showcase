@@ -96,10 +96,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (22 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (23 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) | Vite | [GIF](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite) |
 | [Pulse](https://github.com/Cenius-ai/pulse-flask) | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
 | [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
 | [Vela Smart Home Dashboard](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/vela-smart-home-dashboard-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela-smart-home-dashboard?ref=gh&utm_campaign=vela-smart-home-dashboard-dotnet) |
@@ -127,10 +128,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (6 apps)
+**[Open source finance software →](categories/finance.md)** (7 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/warrantybox-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet) |
 | [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) | Go | [GIF](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang) |
 | [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/billsplit-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix) |
 | [Expense Tracker Web](https://github.com/Cenius-ai/expense-tracker-web-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/expense-tracker-web-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker-web?ref=gh&utm_campaign=expense-tracker-web-spring-boot) |
@@ -142,10 +144,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (35 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (36 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipe-box-web-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
 | [LensBox](https://github.com/Cenius-ai/lensbox-vlang) | V | [GIF](https://github.com/Cenius-ai/lensbox-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang) |
 | [Arc](https://github.com/Cenius-ai/arc-django) | Django | [GIF](https://github.com/Cenius-ai/arc-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django) |
