@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/recipe-box-web-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
 | [LensBox](https://github.com/Cenius-ai/lensbox-vlang) | photo gallery app | V | [GIF](https://github.com/Cenius-ai/lensbox-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang) |
 | [Arc](https://github.com/Cenius-ai/arc-django) | photo gallery app | Django | [GIF](https://github.com/Cenius-ai/arc-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django) |
