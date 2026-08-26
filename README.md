@@ -63,10 +63,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (24 apps)
+**[Open source productivity apps →](categories/productivity.md)** (25 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) | Flask | [GIF](https://github.com/Cenius-ai/flask-notes-app/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app) |
 | [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) | Vite | [GIF](https://github.com/Cenius-ai/linkdeck-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite) |
 | [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask) |
 | [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
@@ -96,10 +97,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (23 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (24 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs) |
 | [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) | Vite | [GIF](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite) |
 | [Pulse](https://github.com/Cenius-ai/pulse-flask) | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
 | [Event Booking Web App](https://github.com/Cenius-ai/event-booking-web-app-django) | Django | [GIF](https://github.com/Cenius-ai/event-booking-web-app-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-booking-web-app?ref=gh&utm_campaign=event-booking-web-app-django) |
@@ -144,10 +146,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (36 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (37 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) | Crystal | [GIF](https://github.com/Cenius-ai/crystal-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog) |
 | [Recipe Box Web App](https://github.com/Cenius-ai/recipe-box-web-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/recipe-box-web-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-web-app?ref=gh&utm_campaign=recipe-box-web-app-flask) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
 | [LensBox](https://github.com/Cenius-ai/lensbox-vlang) | V | [GIF](https://github.com/Cenius-ai/lensbox-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang) |
