@@ -63,10 +63,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (25 apps)
+**[Open source productivity apps →](categories/productivity.md)** (26 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Zephyr](https://github.com/Cenius-ai/zephyr-django) | Django | [GIF](https://github.com/Cenius-ai/zephyr-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django) |
 | [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) | Flask | [GIF](https://github.com/Cenius-ai/flask-notes-app/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app) |
 | [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) | Vite | [GIF](https://github.com/Cenius-ai/linkdeck-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite) |
 | [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask) |
@@ -97,10 +98,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (24 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (26 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cobalt Portfolio Tracker](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-portfolio-tracker-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt-portfolio-tracker?ref=gh&utm_campaign=cobalt-portfolio-tracker-webapp) |
+| [StockRoom](https://github.com/Cenius-ai/stockroom-flask) | Flask | [GIF](https://github.com/Cenius-ai/stockroom-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stockroom?ref=gh&utm_campaign=stockroom-flask) |
 | [Bloom - SaaS Status Page](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bloom-saas-status-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom---saas-status-page?ref=gh&utm_campaign=bloom-saas-status-page-nodejs) |
 | [Ridge - Feature Flag & Config Service](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite) | Vite | [GIF](https://github.com/Cenius-ai/ridge-feature-flag-config-service-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge---feature-flag-config-service?ref=gh&utm_campaign=ridge-feature-flag-config-service-vite) |
 | [Pulse](https://github.com/Cenius-ai/pulse-flask) | Flask | [GIF](https://github.com/Cenius-ai/pulse-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse?ref=gh&utm_campaign=pulse-flask) |
