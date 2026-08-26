@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) | bookmark knowledge base app | Vite | [GIF](https://github.com/Cenius-ai/linkdeck-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite) |
 | [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) | knowledge base app | Flask | [GIF](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask) |
 | [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
