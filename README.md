@@ -34,10 +34,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (20 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (21 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs) |
 | [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/beanmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang) |
 | [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/brewmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang) |
 | [Rails Storefront](https://github.com/Cenius-ai/rails-storefront) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-storefront/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-storefront?ref=gh&utm_campaign=rails-storefront) |
@@ -63,10 +64,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (26 apps)
+**[Open source productivity apps →](categories/productivity.md)** (27 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite) |
 | [Zephyr](https://github.com/Cenius-ai/zephyr-django) | Django | [GIF](https://github.com/Cenius-ai/zephyr-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django) |
 | [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) | Flask | [GIF](https://github.com/Cenius-ai/flask-notes-app/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app) |
 | [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) | Vite | [GIF](https://github.com/Cenius-ai/linkdeck-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite) |
@@ -239,10 +241,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (4 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
 | [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot) |
 | [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/personal-book-library-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails) |
 | [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) | Flask | [GIF](https://github.com/Cenius-ai/flask-books-catalog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog) |
