@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (17 apps)
+**[Open source business software →](categories/business-tools.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
+| [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-team-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp) |
 | [Sales CRM](https://github.com/Cenius-ai/sales-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/sales-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-crm?ref=gh&utm_campaign=sales-crm-vlang) |
 | [Halo — Code Snippet Manager](https://github.com/Cenius-ai/halo-code-snippet-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/halo-code-snippet-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/halo-code-snippet-manager?ref=gh&utm_campaign=halo-code-snippet-manager-rails) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-scala) | Scala | [GIF](https://github.com/Cenius-ai/book-catalog-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog?ref=gh&utm_campaign=book-catalog-scala) |
@@ -153,10 +155,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (39 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (40 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Harbor](https://github.com/Cenius-ai/harbor-vlang) | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
 | [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
 | [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-documentation-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang) |
 | [Crystal Blog](https://github.com/Cenius-ai/crystal-blog) | Crystal | [GIF](https://github.com/Cenius-ai/crystal-blog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crystal-blog?ref=gh&utm_campaign=crystal-blog) |
