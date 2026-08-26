@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang) |
 | [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite) |
 | [Zephyr](https://github.com/Cenius-ai/zephyr-django) | podcast knowledge base app | Django | [GIF](https://github.com/Cenius-ai/zephyr-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django) |
 | [Flask Notes App](https://github.com/Cenius-ai/flask-notes-app) | to-do list app | Flask | [GIF](https://github.com/Cenius-ai/flask-notes-app/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-notes-app?ref=gh&utm_campaign=flask-notes-app) |
