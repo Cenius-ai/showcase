@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | retrieval-augmented search app | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
 | [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) | book microservice | Spring Boot | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot) |
 | [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) | book software library | Ruby on Rails | [GIF](https://github.com/Cenius-ai/personal-book-library-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails) |
 | [Flask Books Catalog](https://github.com/Cenius-ai/flask-books-catalog) | book software library | Flask | [GIF](https://github.com/Cenius-ai/flask-books-catalog/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-books-catalog?ref=gh&utm_campaign=flask-books-catalog) |
