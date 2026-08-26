@@ -63,10 +63,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (23 apps)
+**[Open source productivity apps →](categories/productivity.md)** (24 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [LinkDeck](https://github.com/Cenius-ai/linkdeck-vite) | Vite | [GIF](https://github.com/Cenius-ai/linkdeck-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkdeck?ref=gh&utm_campaign=linkdeck-vite) |
 | [Personal Notes App with JWT Authentication](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-notes-app-with-jwt-authentication-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-notes-app-with-jwt-authentication?ref=gh&utm_campaign=personal-notes-app-with-jwt-authentication-flask) |
 | [Remix Notes App](https://github.com/Cenius-ai/remix-notes-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/remix-notes-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/remix-notes-app?ref=gh&utm_campaign=remix-notes-app-vite) |
 | [NoteNest](https://github.com/Cenius-ai/notenest-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/notenest-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notenest-2?ref=gh&utm_campaign=notenest-vite-2) |
@@ -141,10 +142,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (33 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (35 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-2?ref=gh&utm_campaign=recipes-web-app-nodejs) |
+| [LensBox](https://github.com/Cenius-ai/lensbox-vlang) | V | [GIF](https://github.com/Cenius-ai/lensbox-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lensbox?ref=gh&utm_campaign=lensbox-vlang) |
 | [Arc](https://github.com/Cenius-ai/arc-django) | Django | [GIF](https://github.com/Cenius-ai/arc-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc?ref=gh&utm_campaign=arc-django) |
 | [Nimbus – Designer Photo Gallery Portfolio](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/nimbus-designer-photo-gallery-portfolio-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus-designer-photo-gallery-portfolio?ref=gh&utm_campaign=nimbus-designer-photo-gallery-portfolio-nodejs) |
 | [Rails Blog CMS](https://github.com/Cenius-ai/rails-blog-cms) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/rails-blog-cms/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rails-blog-cms?ref=gh&utm_campaign=rails-blog-cms) |
