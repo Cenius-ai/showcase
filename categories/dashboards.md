@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
 | [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/saas-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite) |
 | [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) | restaurant monitoring dashboard | Scala | [GIF](https://github.com/Cenius-ai/prism-cafe-pos-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala) |
 | [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) | restaurant monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/larch-pos-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang) |
