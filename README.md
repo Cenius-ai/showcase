@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (24 apps)
+**[Open source business software →](categories/business-tools.md)** (25 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) | V | [GIF](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
 | [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
 | [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/crm-lite-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp) |
@@ -41,10 +42,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (23 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (24 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp) |
 | [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) | Flask | [GIF](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask) |
 | [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fable-indie-bookstore-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp) |
 | [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs) |
@@ -73,10 +75,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (34 apps)
+**[Open source productivity apps →](categories/productivity.md)** (35 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin) |
 | [DailyLog](https://github.com/Cenius-ai/dailylog-golang) | Go | [GIF](https://github.com/Cenius-ai/dailylog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang) |
 | [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/multi-page-kanban-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs) |
