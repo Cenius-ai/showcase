@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Willow](https://github.com/Cenius-ai/willow-nodejs) | music player app | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs) |
 | [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) | blog platform | Astro | [GIF](https://github.com/Cenius-ai/personal-blog-with-astro-mdx/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx) |
 | [Harbor](https://github.com/Cenius-ai/harbor-vlang) | photography photo gallery app | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
 | [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | recipe manager | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
