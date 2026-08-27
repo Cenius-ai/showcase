@@ -4,6 +4,7 @@ Storefronts, marketplaces and booking platforms — full source, ready to self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) | book e-commerce storefront | Full-stack app | [GIF](https://github.com/Cenius-ai/fable-indie-bookstore-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp) |
 | [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) | e-commerce storefront | Node.js | [GIF](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs) |
 | [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) | e-commerce storefront | V | [GIF](https://github.com/Cenius-ai/beanmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang) |
 | [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) | e-commerce storefront | V | [GIF](https://github.com/Cenius-ai/brewmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang) |
