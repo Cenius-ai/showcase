@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) | web application | V | [GIF](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
 | [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | web application | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
 | [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/crm-lite-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp) |
