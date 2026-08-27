@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (20 apps)
+**[Open source business software →](categories/business-tools.md)** (21 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) | Flask | [GIF](https://github.com/Cenius-ai/quickpoll-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask) |
 | [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-developer-portal-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet) |
 | [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
 | [Sales Team CRM](https://github.com/Cenius-ai/sales-team-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-team-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-team-crm?ref=gh&utm_campaign=sales-team-crm-webapp) |
@@ -37,10 +38,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (21 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (22 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fable-indie-bookstore-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp) |
 | [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs) |
 | [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/beanmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang) |
 | [BrewMarket](https://github.com/Cenius-ai/brewmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/brewmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewmarket?ref=gh&utm_campaign=brewmarket-vlang) |
@@ -227,10 +229,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (5 apps)
+**[Open source learning platforms →](categories/education.md)** (6 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Slate](https://github.com/Cenius-ai/slate-astro) | Astro | [GIF](https://github.com/Cenius-ai/slate-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro) |
 | [Ember](https://github.com/Cenius-ai/ember-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ember-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp) |
 | [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/harbor-language-lms-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal) |
 | [Terra Course Catalog](https://github.com/Cenius-ai/terra-course-catalog-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/terra-course-catalog-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/terra-course-catalog?ref=gh&utm_campaign=terra-course-catalog-crystal) |
