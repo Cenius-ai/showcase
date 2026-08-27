@@ -38,10 +38,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (22 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (23 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) | Flask | [GIF](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask) |
 | [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fable-indie-bookstore-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp) |
 | [Dune Coffee Roasters](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/dune-coffee-roasters-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dune-coffee-roasters?ref=gh&utm_campaign=dune-coffee-roasters-nodejs) |
 | [BeanMarket](https://github.com/Cenius-ai/beanmarket-vlang) | V | [GIF](https://github.com/Cenius-ai/beanmarket-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beanmarket?ref=gh&utm_campaign=beanmarket-vlang) |
@@ -161,10 +162,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (41 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (42 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Willow](https://github.com/Cenius-ai/willow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs) |
 | [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) | Astro | [GIF](https://github.com/Cenius-ai/personal-blog-with-astro-mdx/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx) |
 | [Harbor](https://github.com/Cenius-ai/harbor-vlang) | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
 | [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
@@ -232,10 +234,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (6 apps)
+**[Open source learning platforms →](categories/education.md)** (7 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) | Django | [GIF](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django) |
 | [Slate](https://github.com/Cenius-ai/slate-astro) | Astro | [GIF](https://github.com/Cenius-ai/slate-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro) |
 | [Ember](https://github.com/Cenius-ai/ember-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ember-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp) |
 | [Harbor Language LMS](https://github.com/Cenius-ai/harbor-language-lms-crystal) | Crystal | [GIF](https://github.com/Cenius-ai/harbor-language-lms-crystal/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-language-lms?ref=gh&utm_campaign=harbor-language-lms-crystal) |
