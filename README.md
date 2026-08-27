@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (21 apps)
+**[Open source business software →](categories/business-tools.md)** (23 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
+| [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/crm-lite-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) | Flask | [GIF](https://github.com/Cenius-ai/quickpoll-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask) |
 | [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-developer-portal-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet) |
 | [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
@@ -111,10 +113,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (30 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (31 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
 | [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/saas-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite) |
 | [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) | Scala | [GIF](https://github.com/Cenius-ai/prism-cafe-pos-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala) |
 | [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) | V | [GIF](https://github.com/Cenius-ai/larch-pos-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang) |
