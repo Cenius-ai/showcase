@@ -4,6 +4,8 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | web application | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
+| [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/crm-lite-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) | web application | Flask | [GIF](https://github.com/Cenius-ai/quickpoll-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask) |
 | [Maple - Developer Portal](https://github.com/Cenius-ai/maple-developer-portal-dotnet) | web application | ASP.NET Core | [GIF](https://github.com/Cenius-ai/maple-developer-portal-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/maple---developer-portal?ref=gh&utm_campaign=maple-developer-portal-dotnet) |
 | [Flask Admin Dashboard](https://github.com/Cenius-ai/flask-admin-dashboard) | admin panel | Flask | [GIF](https://github.com/Cenius-ai/flask-admin-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-admin-dashboard?ref=gh&utm_campaign=flask-admin-dashboard) |
