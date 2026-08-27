@@ -69,10 +69,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (28 apps)
+**[Open source productivity apps →](categories/productivity.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) | Vite | [GIF](https://github.com/Cenius-ai/habittracker-pro-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite) |
 | [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) | V | [GIF](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang) |
 | [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite) |
 | [Zephyr](https://github.com/Cenius-ai/zephyr-django) | Django | [GIF](https://github.com/Cenius-ai/zephyr-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zephyr-2?ref=gh&utm_campaign=zephyr-django) |
@@ -160,10 +161,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (40 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (41 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) | Astro | [GIF](https://github.com/Cenius-ai/personal-blog-with-astro-mdx/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx) |
 | [Harbor](https://github.com/Cenius-ai/harbor-vlang) | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
 | [CookKeeper](https://github.com/Cenius-ai/cookkeeper-flask) | Flask | [GIF](https://github.com/Cenius-ai/cookkeeper-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cookkeeper?ref=gh&utm_campaign=cookkeeper-flask) |
 | [Next.js Documentation Site](https://github.com/Cenius-ai/next-js-documentation-site-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-documentation-site-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-documentation-site?ref=gh&utm_campaign=next-js-documentation-site-vlang) |
@@ -209,10 +211,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (11 apps)
+**[Open source social network software →](categories/social.md)** (12 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) | V | [GIF](https://github.com/Cenius-ai/nimbus-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang) |
 | [Pulse](https://github.com/Cenius-ai/pulse-golang) | Go | [GIF](https://github.com/Cenius-ai/pulse-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang) |
 | [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tripjournal-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp) |
 | [Django Forum](https://github.com/Cenius-ai/django-forum) | Django | [GIF](https://github.com/Cenius-ai/django-forum/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/django-forum?ref=gh&utm_campaign=django-forum) |
