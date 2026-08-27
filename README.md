@@ -70,10 +70,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (29 apps)
+**[Open source productivity apps →](categories/productivity.md)** (30 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp) |
 | [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) | Vite | [GIF](https://github.com/Cenius-ai/habittracker-pro-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite) |
 | [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) | V | [GIF](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang) |
 | [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite) |
@@ -147,10 +148,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (7 apps)
+**[Open source finance software →](categories/finance.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Quartz](https://github.com/Cenius-ai/quartz-astro) | Astro | [GIF](https://github.com/Cenius-ai/quartz-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro) |
 | [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/warrantybox-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet) |
 | [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) | Go | [GIF](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang) |
 | [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/billsplit-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix) |
@@ -283,10 +285,11 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
-**[Open source health and fitness apps →](categories/health.md)** (2 apps)
+**[Open source health and fitness apps →](categories/health.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi) |
 | [Willow](https://github.com/Cenius-ai/willow-vite) | Vite | [GIF](https://github.com/Cenius-ai/willow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite) |
 | [Cove — Runners Habit & Fitness Tracker](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove-runners-habit-fitness-tracker?ref=gh&utm_campaign=cove-runners-habit-fitness-tracker-kotlin) |
 
