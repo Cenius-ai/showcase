@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) | bookmark to-do list app | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin) |
 | [DailyLog](https://github.com/Cenius-ai/dailylog-golang) | to-do list app | Go | [GIF](https://github.com/Cenius-ai/dailylog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang) |
 | [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/multi-page-kanban-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) | bookmark knowledge base app | Node.js | [GIF](https://github.com/Cenius-ai/bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs) |
