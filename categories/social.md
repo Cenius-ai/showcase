@@ -4,6 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [BookHive](https://github.com/Cenius-ai/bookhive-flask) | book social network app | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
 | [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) | chat application | V | [GIF](https://github.com/Cenius-ai/nimbus-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang) |
 | [Pulse](https://github.com/Cenius-ai/pulse-golang) | social network app | Go | [GIF](https://github.com/Cenius-ai/pulse-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang) |
 | [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) | travel social network app | Full-stack app | [GIF](https://github.com/Cenius-ai/tripjournal-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp) |
