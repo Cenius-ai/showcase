@@ -70,10 +70,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (30 apps)
+**[Open source productivity apps →](categories/productivity.md)** (32 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs) |
+| [Kite – Freelancer CRM](https://github.com/Cenius-ai/kite-freelancer-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kite-freelancer-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite-freelancer-crm?ref=gh&utm_campaign=kite-freelancer-crm-webapp) |
 | [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp) |
 | [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) | Vite | [GIF](https://github.com/Cenius-ai/habittracker-pro-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite) |
 | [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) | V | [GIF](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang) |
@@ -218,10 +220,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (12 apps)
+**[Open source social network software →](categories/social.md)** (13 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BookHive](https://github.com/Cenius-ai/bookhive-flask) | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
 | [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) | V | [GIF](https://github.com/Cenius-ai/nimbus-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang) |
 | [Pulse](https://github.com/Cenius-ai/pulse-golang) | Go | [GIF](https://github.com/Cenius-ai/pulse-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang) |
 | [TripJournal](https://github.com/Cenius-ai/tripjournal-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tripjournal-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripjournal?ref=gh&utm_campaign=tripjournal-webapp) |
