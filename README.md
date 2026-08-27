@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (23 apps)
+**[Open source business software →](categories/business-tools.md)** (24 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
 | [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
 | [CRM Lite](https://github.com/Cenius-ai/crm-lite-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/crm-lite-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/crm-lite?ref=gh&utm_campaign=crm-lite-webapp) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-flask) | Flask | [GIF](https://github.com/Cenius-ai/quickpoll-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll?ref=gh&utm_campaign=quickpoll-flask) |
@@ -72,10 +73,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (32 apps)
+**[Open source productivity apps →](categories/productivity.md)** (34 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [DailyLog](https://github.com/Cenius-ai/dailylog-golang) | Go | [GIF](https://github.com/Cenius-ai/dailylog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang) |
+| [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/multi-page-kanban-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-3?ref=gh&utm_campaign=bookmark-manager-nodejs) |
 | [Kite – Freelancer CRM](https://github.com/Cenius-ai/kite-freelancer-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kite-freelancer-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite-freelancer-crm?ref=gh&utm_campaign=kite-freelancer-crm-webapp) |
 | [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp) |
