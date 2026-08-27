@@ -108,10 +108,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (29 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (30 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/saas-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite) |
 | [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) | Scala | [GIF](https://github.com/Cenius-ai/prism-cafe-pos-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala) |
 | [Larch POS](https://github.com/Cenius-ai/larch-pos-vlang) | V | [GIF](https://github.com/Cenius-ai/larch-pos-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch-pos?ref=gh&utm_campaign=larch-pos-vlang) |
 | [Mist](https://github.com/Cenius-ai/mist-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/mist-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist?ref=gh&utm_campaign=mist-rails) |
@@ -162,10 +163,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (42 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (44 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/minimal-event-directory-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi) |
+| [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipeshare-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails) |
 | [Willow](https://github.com/Cenius-ai/willow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs) |
 | [Personal Blog with Astro MDX](https://github.com/Cenius-ai/personal-blog-with-astro-mdx) | Astro | [GIF](https://github.com/Cenius-ai/personal-blog-with-astro-mdx/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-blog-with-astro-mdx?ref=gh&utm_campaign=personal-blog-with-astro-mdx) |
 | [Harbor](https://github.com/Cenius-ai/harbor-vlang) | V | [GIF](https://github.com/Cenius-ai/harbor-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor-2?ref=gh&utm_campaign=harbor-vlang) |
