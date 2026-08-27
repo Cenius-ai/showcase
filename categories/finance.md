@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Quartz](https://github.com/Cenius-ai/quartz-astro) | personal finance tracker | Astro | [GIF](https://github.com/Cenius-ai/quartz-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro) |
 | [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) | personal finance tracker | ASP.NET Core | [GIF](https://github.com/Cenius-ai/warrantybox-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet) |
 | [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) | freelancer personal finance tracker | Go | [GIF](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang) |
 | [BillSplit](https://github.com/Cenius-ai/billsplit-phoenix) | expense personal finance tracker | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/billsplit-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/billsplit?ref=gh&utm_campaign=billsplit-phoenix) |
