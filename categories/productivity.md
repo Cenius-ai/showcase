@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Quartz — Engineering Docs Markdown Wiki](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp) | knowledge base app | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-engineering-docs-markdown-wiki-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-engineering-docs-markdown-wiki?ref=gh&utm_campaign=quartz-engineering-docs-markdown-wiki-webapp) |
 | [HabitTracker Pro](https://github.com/Cenius-ai/habittracker-pro-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habittracker-pro-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habittracker-pro?ref=gh&utm_campaign=habittracker-pro-vite) |
 | [Peak - Student Checklist Notes](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/peak-student-checklist-notes-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak---student-checklist-notes?ref=gh&utm_campaign=peak-student-checklist-notes-vlang) |
 | [Habit Tracker](https://github.com/Cenius-ai/habit-tracker-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker?ref=gh&utm_campaign=habit-tracker-vite) |
