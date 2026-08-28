@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (29 apps)
+**[Open source business software →](categories/business-tools.md)** (30 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/onyx-conference-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang) |
 | [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
 | [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
 | [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) | V | [GIF](https://github.com/Cenius-ai/vela-feature-flag-management-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang) |
@@ -46,10 +47,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (25 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (26 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) |
 | [Willow](https://github.com/Cenius-ai/willow-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2) |
 | [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp) |
 | [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) | Flask | [GIF](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask) |
@@ -128,10 +130,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (34 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (35 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Grove](https://github.com/Cenius-ai/grove-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro) |
 | [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
 | [Fable](https://github.com/Cenius-ai/fable-astro-2) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp) |
