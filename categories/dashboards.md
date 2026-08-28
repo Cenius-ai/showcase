@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | log monitoring dashboard | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
 | [Fable](https://github.com/Cenius-ai/fable-astro-2) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/fable-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp) |
 | [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
