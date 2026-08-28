@@ -4,6 +4,8 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) | bookmark to-do list app | Scala | [GIF](https://github.com/Cenius-ai/bookmarks-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala) |
+| [SnipVault](https://github.com/Cenius-ai/snipvault-vlang) | pet knowledge base app | V | [GIF](https://github.com/Cenius-ai/snipvault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/snipvault?ref=gh&utm_campaign=snipvault-vlang) |
 | [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) | bookmark to-do list app | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin) |
 | [DailyLog](https://github.com/Cenius-ai/dailylog-golang) | to-do list app | Go | [GIF](https://github.com/Cenius-ai/dailylog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang) |
 | [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/multi-page-kanban-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite) |
