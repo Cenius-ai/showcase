@@ -78,10 +78,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (35 apps)
+**[Open source productivity apps →](categories/productivity.md)** (37 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/bookmarks-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala) |
+| [SnipVault](https://github.com/Cenius-ai/snipvault-vlang) | V | [GIF](https://github.com/Cenius-ai/snipvault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/snipvault?ref=gh&utm_campaign=snipvault-vlang) |
 | [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin) |
 | [DailyLog](https://github.com/Cenius-ai/dailylog-golang) | Go | [GIF](https://github.com/Cenius-ai/dailylog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dailylog?ref=gh&utm_campaign=dailylog-golang) |
 | [Multi-Page Kanban Board](https://github.com/Cenius-ai/multi-page-kanban-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/multi-page-kanban-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-page-kanban-board?ref=gh&utm_campaign=multi-page-kanban-board-vite) |
@@ -163,10 +165,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (10 apps)
+**[Open source finance software →](categories/finance.md)** (11 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
 | [Larch](https://github.com/Cenius-ai/larch-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/larch-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin) |
 | [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicekit-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang) |
 | [Quartz](https://github.com/Cenius-ai/quartz-astro) | Astro | [GIF](https://github.com/Cenius-ai/quartz-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro) |
