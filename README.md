@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (25 apps)
+**[Open source business software →](categories/business-tools.md)** (26 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/teamtrack-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang) |
 | [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) | V | [GIF](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
 | [Atlas Remote Tech Job Board](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/atlas-remote-tech-job-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas-remote-tech-job-board?ref=gh&utm_campaign=atlas-remote-tech-job-board-nodejs) |
@@ -160,10 +161,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (9 apps)
+**[Open source finance software →](categories/finance.md)** (10 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Larch](https://github.com/Cenius-ai/larch-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/larch-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin) |
 | [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicekit-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang) |
 | [Quartz](https://github.com/Cenius-ai/quartz-astro) | Astro | [GIF](https://github.com/Cenius-ai/quartz-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro) |
 | [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/warrantybox-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet) |
@@ -178,10 +180,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (44 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (45 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
 | [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/minimal-event-directory-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi) |
 | [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipeshare-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails) |
 | [Willow](https://github.com/Cenius-ai/willow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-3?ref=gh&utm_campaign=willow-nodejs) |
