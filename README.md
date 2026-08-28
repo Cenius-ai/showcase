@@ -119,10 +119,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (31 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (32 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp) |
 | [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
 | [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/saas-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite) |
 | [Prism — Cafe POS](https://github.com/Cenius-ai/prism-cafe-pos-scala) | Scala | [GIF](https://github.com/Cenius-ai/prism-cafe-pos-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/prism-cafe-pos?ref=gh&utm_campaign=prism-cafe-pos-scala) |
@@ -159,10 +160,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (8 apps)
+**[Open source finance software →](categories/finance.md)** (9 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicekit-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang) |
 | [Quartz](https://github.com/Cenius-ai/quartz-astro) | Astro | [GIF](https://github.com/Cenius-ai/quartz-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz?ref=gh&utm_campaign=quartz-astro) |
 | [WarrantyBox](https://github.com/Cenius-ai/warrantybox-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/warrantybox-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/warrantybox?ref=gh&utm_campaign=warrantybox-dotnet) |
 | [Jade - Freelancer Invoicing & Billing](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang) | Go | [GIF](https://github.com/Cenius-ai/jade-freelancer-invoicing-billing-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade---freelancer-invoicing-billing?ref=gh&utm_campaign=jade-freelancer-invoicing-billing-golang) |
@@ -267,9 +269,11 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
+**[Open source browser games →](categories/games.md)** (1 app)
+
 | App | Stack | Demo | Remix |
 |---|---|---|---|
-| _coming soon_ | | | |
+| [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/iris-trivia-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin) |
 
 ## Developer Tools & APIs
 
