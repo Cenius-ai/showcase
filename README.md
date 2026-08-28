@@ -171,10 +171,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (11 apps)
+**[Open source finance software →](categories/finance.md)** (12 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
 | [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
 | [Larch](https://github.com/Cenius-ai/larch-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/larch-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin) |
 | [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicekit-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang) |
@@ -191,10 +192,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (45 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (46 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
 | [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
 | [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/minimal-event-directory-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi) |
 | [RecipeShare](https://github.com/Cenius-ai/recipeshare-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipeshare-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipeshare?ref=gh&utm_campaign=recipeshare-rails) |
@@ -268,10 +270,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (8 apps)
+**[Open source learning platforms →](categories/education.md)** (9 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Ridge Language Flashcards](https://github.com/Cenius-ai/ridge-language-flashcards-golang) | Go | [GIF](https://github.com/Cenius-ai/ridge-language-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-language-flashcards?ref=gh&utm_campaign=ridge-language-flashcards-golang) |
 | [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) | Go | [GIF](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang) |
 | [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) | Django | [GIF](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django) |
 | [Slate](https://github.com/Cenius-ai/slate-astro) | Astro | [GIF](https://github.com/Cenius-ai/slate-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro) |
