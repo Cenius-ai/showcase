@@ -4,6 +4,8 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
+| [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) | admin panel | V | [GIF](https://github.com/Cenius-ai/vela-feature-flag-management-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang) |
 | [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) | CRM system | V | [GIF](https://github.com/Cenius-ai/teamtrack-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang) |
 | [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) | web application | V | [GIF](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
