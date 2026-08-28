@@ -46,10 +46,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (24 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (25 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Willow](https://github.com/Cenius-ai/willow-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2) |
 | [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp) |
 | [Product Catalog with Raw Search](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask) | Flask | [GIF](https://github.com/Cenius-ai/product-catalog-with-raw-search-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/product-catalog-with-raw-search?ref=gh&utm_campaign=product-catalog-with-raw-search-flask) |
 | [Fable — Indie Bookstore](https://github.com/Cenius-ai/fable-indie-bookstore-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fable-indie-bookstore-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-indie-bookstore?ref=gh&utm_campaign=fable-indie-bookstore-webapp) |
@@ -127,10 +128,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (33 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (34 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
 | [Fable](https://github.com/Cenius-ai/fable-astro-2) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp) |
 | [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
@@ -316,10 +318,11 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
-**[Open source health and fitness apps →](categories/health.md)** (3 apps)
+**[Open source health and fitness apps →](categories/health.md)** (4 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Quartz — Habit Tracker for Runners](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-habit-tracker-for-runners?ref=gh&utm_campaign=quartz-habit-tracker-for-runners-webapp) |
 | [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi) |
 | [Willow](https://github.com/Cenius-ai/willow-vite) | Vite | [GIF](https://github.com/Cenius-ai/willow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite) |
 | [Cove — Runners Habit & Fitness Tracker](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/cove-runners-habit-fitness-tracker-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cove-runners-habit-fitness-tracker?ref=gh&utm_campaign=cove-runners-habit-fitness-tracker-kotlin) |
