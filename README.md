@@ -127,10 +127,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (32 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (33 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Fable](https://github.com/Cenius-ai/fable-astro-2) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope?ref=gh&utm_campaign=salesscope-webapp) |
 | [TeamPulse](https://github.com/Cenius-ai/teampulse-vite) | Vite | [GIF](https://github.com/Cenius-ai/teampulse-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teampulse?ref=gh&utm_campaign=teampulse-vite) |
 | [SaaS Dashboard](https://github.com/Cenius-ai/saas-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/saas-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saas-dashboard?ref=gh&utm_campaign=saas-dashboard-vite) |
@@ -242,10 +243,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (13 apps)
+**[Open source social network software →](categories/social.md)** (14 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quoteboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp) |
 | [BookHive](https://github.com/Cenius-ai/bookhive-flask) | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
 | [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) | V | [GIF](https://github.com/Cenius-ai/nimbus-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang) |
 | [Pulse](https://github.com/Cenius-ai/pulse-golang) | Go | [GIF](https://github.com/Cenius-ai/pulse-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-2?ref=gh&utm_campaign=pulse-golang) |
@@ -291,10 +293,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (5 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (6 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Sage](https://github.com/Cenius-ai/sage-scala) | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
 | [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
 | [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot) |
 | [Personal Book Library](https://github.com/Cenius-ai/personal-book-library-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/personal-book-library-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-book-library?ref=gh&utm_campaign=personal-book-library-rails) |
