@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | invoice personal finance tracker | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
 | [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | personal finance tracker | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
 | [Larch](https://github.com/Cenius-ai/larch-kotlin) | personal finance tracker | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/larch-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin) |
 | [InvoiceKit](https://github.com/Cenius-ai/invoicekit-vlang) | invoice personal finance tracker | V | [GIF](https://github.com/Cenius-ai/invoicekit-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicekit?ref=gh&utm_campaign=invoicekit-vlang) |
