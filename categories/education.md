@@ -4,6 +4,7 @@ LMSs, flashcards and study tools — self-hostable education software. Every app
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) | pet learning platform | Go | [GIF](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang) |
 | [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) | learning platform | Django | [GIF](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django) |
 | [Slate](https://github.com/Cenius-ai/slate-astro) | learning platform | Astro | [GIF](https://github.com/Cenius-ai/slate-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro) |
 | [Ember](https://github.com/Cenius-ai/ember-webapp) | learning platform | Full-stack app | [GIF](https://github.com/Cenius-ai/ember-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp) |
