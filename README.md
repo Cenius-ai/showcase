@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (28 apps)
+**[Open source business software →](categories/business-tools.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
 | [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
 | [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) | V | [GIF](https://github.com/Cenius-ai/vela-feature-flag-management-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang) |
 | [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/teamtrack-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang) |
@@ -78,10 +79,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (37 apps)
+**[Open source productivity apps →](categories/productivity.md)** (39 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [StarChart](https://github.com/Cenius-ai/starchart-astro) | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
+| [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/linkshelf-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs) |
 | [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/bookmarks-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala) |
 | [SnipVault](https://github.com/Cenius-ai/snipvault-vlang) | V | [GIF](https://github.com/Cenius-ai/snipvault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/snipvault?ref=gh&utm_campaign=snipvault-vlang) |
 | [Bookmarks Ktor Web App](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/bookmarks-ktor-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-ktor-web-app?ref=gh&utm_campaign=bookmarks-ktor-web-app-kotlin) |
