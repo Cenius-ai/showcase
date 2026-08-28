@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (26 apps)
+**[Open source business software →](categories/business-tools.md)** (28 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
+| [Vela - Feature Flag Management](https://github.com/Cenius-ai/vela-feature-flag-management-vlang) | V | [GIF](https://github.com/Cenius-ai/vela-feature-flag-management-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vela---feature-flag-management?ref=gh&utm_campaign=vela-feature-flag-management-vlang) |
 | [TeamTrack CRM](https://github.com/Cenius-ai/teamtrack-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/teamtrack-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamtrack-crm?ref=gh&utm_campaign=teamtrack-crm-vlang) |
 | [Loom — Personal Secrets Vault](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang) | V | [GIF](https://github.com/Cenius-ai/loom-personal-secrets-vault-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom-personal-secrets-vault?ref=gh&utm_campaign=loom-personal-secrets-vault-vlang) |
 | [QuickPoll](https://github.com/Cenius-ai/quickpoll-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quickpoll-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quickpoll-2?ref=gh&utm_campaign=quickpoll-webapp) |
@@ -256,10 +258,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (7 apps)
+**[Open source learning platforms →](categories/education.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) | Go | [GIF](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang) |
 | [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) | Django | [GIF](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django) |
 | [Slate](https://github.com/Cenius-ai/slate-astro) | Astro | [GIF](https://github.com/Cenius-ai/slate-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-2?ref=gh&utm_campaign=slate-astro) |
 | [Ember](https://github.com/Cenius-ai/ember-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ember-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ember-2?ref=gh&utm_campaign=ember-webapp) |
