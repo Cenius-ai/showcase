@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Vertex](https://github.com/Cenius-ai/vertex-vlang) | freelancer personal finance tracker | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
 | [Nook](https://github.com/Cenius-ai/nook-rails) | freelancer personal finance tracker | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
 | [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | invoice personal finance tracker | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
 | [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | personal finance tracker | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
