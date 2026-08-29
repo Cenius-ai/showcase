@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) | bookmark to-do list app | Go | [GIF](https://github.com/Cenius-ai/bookmark-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang) |
 | [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) | bookmark knowledge base app | Node.js | [GIF](https://github.com/Cenius-ai/bun-bookmarks-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs) |
 | [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | to-do list app | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
 | [StarChart](https://github.com/Cenius-ai/starchart-astro) | book to-do list app | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
