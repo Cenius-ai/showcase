@@ -87,10 +87,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (43 apps)
+**[Open source productivity apps →](categories/productivity.md)** (44 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) | Flask | [GIF](https://github.com/Cenius-ai/flask-habit-tracker/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker) |
 | [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/taskflow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/bookmark-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang) |
 | [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-bookmarks-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs) |
@@ -139,10 +140,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (40 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (41 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp) |
 | [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) | Flask | [GIF](https://github.com/Cenius-ai/quotevault-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask) |
 | [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp) |
 | [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet) |
@@ -188,10 +190,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (13 apps)
+**[Open source finance software →](categories/finance.md)** (14 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Vertex](https://github.com/Cenius-ai/vertex-vlang) | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
 | [Nook](https://github.com/Cenius-ai/nook-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
 | [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
 | [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
