@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (31 apps)
+**[Open source business software →](categories/business-tools.md)** (33 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-pos-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang) |
+| [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/thumbnail-api-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs) |
 | [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ticketdesk-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp) |
 | [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/onyx-conference-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang) |
 | [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
@@ -132,10 +134,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (35 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (36 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2) |
 | [Grove](https://github.com/Cenius-ai/grove-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro) |
 | [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
 | [Fable](https://github.com/Cenius-ai/fable-astro-2) | Astro | [GIF](https://github.com/Cenius-ai/fable-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fable-2?ref=gh&utm_campaign=fable-astro-2) |
