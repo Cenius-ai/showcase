@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | pet retrieval-augmented search app | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
 | [Sage](https://github.com/Cenius-ai/sage-scala) | retrieval-augmented search app | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
 | [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | retrieval-augmented search app | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
 | [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) | book microservice | Spring Boot | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot) |
