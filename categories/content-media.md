@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | blog platform | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | recipe manager | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | music player app | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
 | [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | recipe manager | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
