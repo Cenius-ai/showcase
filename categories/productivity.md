@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | to-do list app | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
 | [StarChart](https://github.com/Cenius-ai/starchart-astro) | book to-do list app | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
 | [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) | bookmark knowledge base app | Node.js | [GIF](https://github.com/Cenius-ai/linkshelf-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs) |
 | [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) | bookmark to-do list app | Scala | [GIF](https://github.com/Cenius-ai/bookmarks-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala) |
