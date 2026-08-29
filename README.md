@@ -138,10 +138,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (37 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (39 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp) |
+| [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet) |
 | [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/leaveplanner-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2) |
 | [Grove](https://github.com/Cenius-ai/grove-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro) |
@@ -306,10 +308,11 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
-**[Open source browser games →](categories/games.md)** (1 app)
+**[Open source browser games →](categories/games.md)** (2 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [LiveSpecTabs mrr8xb9u](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/livespectabs-mrr8xb9u?ref=gh&utm_campaign=livespectabs-mrr8xb9u-nodejs) |
 | [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/iris-trivia-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin) |
 
 ## Developer Tools & APIs
