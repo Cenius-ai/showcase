@@ -205,10 +205,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (46 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (47 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
 | [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
 | [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/minimal-event-directory-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi) |
@@ -260,10 +261,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (15 apps)
+**[Open source social network software →](categories/social.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
 | [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
 | [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quoteboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp) |
 | [BookHive](https://github.com/Cenius-ai/bookhive-flask) | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
@@ -336,10 +338,11 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
-**[Open source health and fitness apps →](categories/health.md)** (4 apps)
+**[Open source health and fitness apps →](categories/health.md)** (5 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Workout Tracker](https://github.com/Cenius-ai/personal-workout-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-workout-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-workout-tracker?ref=gh&utm_campaign=personal-workout-tracker-vite) |
 | [Quartz — Habit Tracker for Runners](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-habit-tracker-for-runners?ref=gh&utm_campaign=quartz-habit-tracker-for-runners-webapp) |
 | [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi) |
 | [Willow](https://github.com/Cenius-ai/willow-vite) | Vite | [GIF](https://github.com/Cenius-ai/willow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-2?ref=gh&utm_campaign=willow-vite) |
