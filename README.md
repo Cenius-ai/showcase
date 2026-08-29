@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (34 apps)
+**[Open source business software →](categories/business-tools.md)** (35 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) | Vite | [GIF](https://github.com/Cenius-ai/weatherdash-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite) |
 | [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) | V | [GIF](https://github.com/Cenius-ai/team-crm-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang) |
 | [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-pos-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang) |
 | [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/thumbnail-api-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs) |
@@ -138,10 +139,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (39 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (40 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) | Flask | [GIF](https://github.com/Cenius-ai/quotevault-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask) |
 | [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp) |
 | [Event Management App (.NET 8 + Razor Pages + PostgreSQL)](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-management-app-net-8-razor-pages-postgresql-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-management-app-net-8-razor-pages-postgresql?ref=gh&utm_campaign=event-management-app-net-8-razor-pages-postgresql-dotnet) |
 | [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/leaveplanner-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet) |
@@ -319,10 +321,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (6 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (7 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
 | [Sage](https://github.com/Cenius-ai/sage-scala) | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
 | [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
 | [Bookstore REST API](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot) | Spring Boot | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-spring-boot/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api?ref=gh&utm_campaign=bookstore-rest-api-spring-boot) |
