@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (30 apps)
+**[Open source business software →](categories/business-tools.md)** (31 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ticketdesk-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp) |
 | [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/onyx-conference-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang) |
 | [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
 | [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
@@ -82,10 +83,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (39 apps)
+**[Open source productivity apps →](categories/productivity.md)** (40 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
 | [StarChart](https://github.com/Cenius-ai/starchart-astro) | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
 | [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/linkshelf-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs) |
 | [Bookmarks Web App](https://github.com/Cenius-ai/bookmarks-web-app-scala) | Scala | [GIF](https://github.com/Cenius-ai/bookmarks-web-app-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-web-app-2?ref=gh&utm_campaign=bookmarks-web-app-scala) |
@@ -250,10 +252,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (14 apps)
+**[Open source social network software →](categories/social.md)** (15 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
 | [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quoteboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp) |
 | [BookHive](https://github.com/Cenius-ai/bookhive-flask) | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
 | [Nimbus](https://github.com/Cenius-ai/nimbus-vlang) | V | [GIF](https://github.com/Cenius-ai/nimbus-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbus?ref=gh&utm_campaign=nimbus-vlang) |
