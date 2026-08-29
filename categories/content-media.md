@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | recipe manager | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | music player app | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
 | [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | recipe manager | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
 | [Minimal Event Directory](https://github.com/Cenius-ai/minimal-event-directory-fastapi) | landing page | FastAPI | [GIF](https://github.com/Cenius-ai/minimal-event-directory-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-event-directory?ref=gh&utm_campaign=minimal-event-directory-fastapi) |
