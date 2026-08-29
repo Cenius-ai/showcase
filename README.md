@@ -86,10 +86,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (42 apps)
+**[Open source productivity apps →](categories/productivity.md)** (43 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/taskflow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/bookmark-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang) |
 | [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-bookmarks-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs) |
 | [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
@@ -338,10 +339,12 @@ _Chat assistants and creative studios (all whitelabel, all yours)._
 
 _Health trackers and lifestyle companions._
 
-**[Open source health and fitness apps →](categories/health.md)** (5 apps)
+**[Open source health and fitness apps →](categories/health.md)** (7 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi-2) | FastAPI | [GIF](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker-2?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi-2) |
+| [RepLog](https://github.com/Cenius-ai/replog-vite) | Vite | [GIF](https://github.com/Cenius-ai/replog-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/replog?ref=gh&utm_campaign=replog-vite) |
 | [Personal Workout Tracker](https://github.com/Cenius-ai/personal-workout-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-workout-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-workout-tracker?ref=gh&utm_campaign=personal-workout-tracker-vite) |
 | [Quartz — Habit Tracker for Runners](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quartz-habit-tracker-for-runners-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quartz-habit-tracker-for-runners?ref=gh&utm_campaign=quartz-habit-tracker-for-runners-webapp) |
 | [Pulse — Runner's Habit Tracker](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/pulse-runner-s-habit-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulse-runner-s-habit-tracker?ref=gh&utm_campaign=pulse-runner-s-habit-tracker-fastapi) |
