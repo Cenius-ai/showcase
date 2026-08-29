@@ -87,10 +87,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (44 apps)
+**[Open source productivity apps →](categories/productivity.md)** (45 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs) |
 | [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) | Flask | [GIF](https://github.com/Cenius-ai/flask-habit-tracker/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker) |
 | [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/taskflow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs) |
 | [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/bookmark-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang) |
@@ -213,10 +214,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (47 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (48 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
 | [BeanCount](https://github.com/Cenius-ai/beancount-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beancount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beancount?ref=gh&utm_campaign=beancount-webapp) |
@@ -324,10 +326,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (7 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (8 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
 | [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
 | [Sage](https://github.com/Cenius-ai/sage-scala) | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
 | [Bloom — Docs Q&A AI Chatbot](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bloom-docs-q-a-ai-chatbot-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bloom-docs-q-a-ai-chatbot?ref=gh&utm_campaign=bloom-docs-q-a-ai-chatbot-webapp) |
