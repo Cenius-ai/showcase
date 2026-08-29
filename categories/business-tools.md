@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/ticketdesk-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp) |
 | [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) | admin panel | Go | [GIF](https://github.com/Cenius-ai/onyx-conference-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang) |
 | [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | CRM system | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
 | [PollPit](https://github.com/Cenius-ai/pollpit-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/pollpit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pollpit?ref=gh&utm_campaign=pollpit-webapp) |
