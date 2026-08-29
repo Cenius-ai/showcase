@@ -86,10 +86,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (41 apps)
+**[Open source productivity apps →](categories/productivity.md)** (42 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bookmark Manager](https://github.com/Cenius-ai/bookmark-manager-golang) | Go | [GIF](https://github.com/Cenius-ai/bookmark-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmark-manager-4?ref=gh&utm_campaign=bookmark-manager-golang) |
 | [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-bookmarks-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs) |
 | [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
 | [StarChart](https://github.com/Cenius-ai/starchart-astro) | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
@@ -136,10 +137,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (36 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (37 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/leaveplanner-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2) |
 | [Grove](https://github.com/Cenius-ai/grove-astro) | Astro | [GIF](https://github.com/Cenius-ai/grove-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro) |
 | [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
@@ -181,10 +183,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (12 apps)
+**[Open source finance software →](categories/finance.md)** (13 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Nook](https://github.com/Cenius-ai/nook-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
 | [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
 | [Personal Finance Tracker](https://github.com/Cenius-ai/personal-finance-tracker-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-finance-tracker-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-tracker?ref=gh&utm_campaign=personal-finance-tracker-flask) |
 | [Larch](https://github.com/Cenius-ai/larch-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/larch-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/larch?ref=gh&utm_campaign=larch-kotlin) |
