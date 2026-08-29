@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (33 apps)
+**[Open source business software →](categories/business-tools.md)** (34 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) | V | [GIF](https://github.com/Cenius-ai/team-crm-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang) |
 | [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-pos-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang) |
 | [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/thumbnail-api-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs) |
 | [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ticketdesk-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp) |
@@ -85,10 +86,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (40 apps)
+**[Open source productivity apps →](categories/productivity.md)** (41 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Bun Bookmarks](https://github.com/Cenius-ai/bun-bookmarks-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-bookmarks-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-bookmarks?ref=gh&utm_campaign=bun-bookmarks-nodejs) |
 | [FastAPI Notes](https://github.com/Cenius-ai/fastapi-notes) | FastAPI | [GIF](https://github.com/Cenius-ai/fastapi-notes/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fastapi-notes?ref=gh&utm_campaign=fastapi-notes) |
 | [StarChart](https://github.com/Cenius-ai/starchart-astro) | Astro | [GIF](https://github.com/Cenius-ai/starchart-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/starchart?ref=gh&utm_campaign=starchart-astro) |
 | [LinkShelf](https://github.com/Cenius-ai/linkshelf-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/linkshelf-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkshelf?ref=gh&utm_campaign=linkshelf-nodejs) |
@@ -279,10 +281,11 @@ _Social feeds, forums, chat and community platforms._
 
 _Learning platforms, flashcards and knowledge tools._
 
-**[Open source learning platforms →](categories/education.md)** (9 apps)
+**[Open source learning platforms →](categories/education.md)** (10 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Slate](https://github.com/Cenius-ai/slate-astro-2) | Astro | [GIF](https://github.com/Cenius-ai/slate-astro-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-3?ref=gh&utm_campaign=slate-astro-2) |
 | [Ridge Language Flashcards](https://github.com/Cenius-ai/ridge-language-flashcards-golang) | Go | [GIF](https://github.com/Cenius-ai/ridge-language-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-language-flashcards?ref=gh&utm_campaign=ridge-language-flashcards-golang) |
 | [Ridge — Spaced Repetition Flashcards](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang) | Go | [GIF](https://github.com/Cenius-ai/ridge-spaced-repetition-flashcards-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ridge-spaced-repetition-flashcards?ref=gh&utm_campaign=ridge-spaced-repetition-flashcards-golang) |
 | [Beacon - Coding Bootcamp LMS](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django) | Django | [GIF](https://github.com/Cenius-ai/beacon-coding-bootcamp-lms-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beacon---coding-bootcamp-lms?ref=gh&utm_campaign=beacon-coding-bootcamp-lms-django) |
