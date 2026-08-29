@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [LeavePlanner](https://github.com/Cenius-ai/leaveplanner-dotnet) | monitoring dashboard | ASP.NET Core | [GIF](https://github.com/Cenius-ai/leaveplanner-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/leaveplanner?ref=gh&utm_campaign=leaveplanner-dotnet) |
 | [SalesScope](https://github.com/Cenius-ai/salesscope-webapp-2) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/salesscope-webapp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/salesscope-2?ref=gh&utm_campaign=salesscope-webapp-2) |
 | [Grove](https://github.com/Cenius-ai/grove-astro) | monitoring dashboard | Astro | [GIF](https://github.com/Cenius-ai/grove-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grove?ref=gh&utm_campaign=grove-astro) |
 | [Flux Log Viewer](https://github.com/Cenius-ai/flux-log-viewer-kotlin) | log monitoring dashboard | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/flux-log-viewer-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flux-log-viewer?ref=gh&utm_campaign=flux-log-viewer-kotlin) |
