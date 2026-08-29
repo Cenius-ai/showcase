@@ -4,6 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | book social network app | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
 | [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | social network app | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
 | [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) | social network app | Full-stack app | [GIF](https://github.com/Cenius-ai/quoteboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp) |
 | [BookHive](https://github.com/Cenius-ai/bookhive-flask) | book social network app | Flask | [GIF](https://github.com/Cenius-ai/bookhive-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookhive?ref=gh&utm_campaign=bookhive-flask) |
