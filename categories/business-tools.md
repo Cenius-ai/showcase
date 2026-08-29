@@ -4,6 +4,8 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) | restaurant admin panel | Go | [GIF](https://github.com/Cenius-ai/haven-pos-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang) |
+| [Thumbnail API](https://github.com/Cenius-ai/thumbnail-api-nodejs) | web application | Node.js | [GIF](https://github.com/Cenius-ai/thumbnail-api-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/thumbnail-api?ref=gh&utm_campaign=thumbnail-api-nodejs) |
 | [TicketDesk](https://github.com/Cenius-ai/ticketdesk-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/ticketdesk-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ticketdesk?ref=gh&utm_campaign=ticketdesk-webapp) |
 | [Onyx Conference Manager](https://github.com/Cenius-ai/onyx-conference-manager-golang) | admin panel | Go | [GIF](https://github.com/Cenius-ai/onyx-conference-manager-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-conference-manager?ref=gh&utm_campaign=onyx-conference-manager-golang) |
 | [ClientDesk](https://github.com/Cenius-ai/clientdesk-django) | CRM system | Django | [GIF](https://github.com/Cenius-ai/clientdesk-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/clientdesk?ref=gh&utm_campaign=clientdesk-django) |
