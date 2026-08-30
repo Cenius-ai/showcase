@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | monitoring dashboard | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
 | [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | clinic monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
 | [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/metricdash-saas-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang) |
 | [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask) |
