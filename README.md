@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (40 apps)
+**[Open source business software →](categories/business-tools.md)** (41 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
 | [Jade](https://github.com/Cenius-ai/jade-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
 | [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang) |
 | [GuestBook](https://github.com/Cenius-ai/guestbook-php) | PHP | [GIF](https://github.com/Cenius-ai/guestbook-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php) |
@@ -93,10 +94,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (48 apps)
+**[Open source productivity apps →](categories/productivity.md)** (50 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) | Go | [GIF](https://github.com/Cenius-ai/shelfnotes-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang) |
+| [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang) |
 | [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-bookmark-manager-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask) |
 | [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet) |
 | [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) | V | [GIF](https://github.com/Cenius-ai/cenius-task-board-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang) |
