@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | book software library | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
 | [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | book software library | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
 | [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | pet retrieval-augmented search app | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
 | [Sage](https://github.com/Cenius-ai/sage-scala) | retrieval-augmented search app | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
