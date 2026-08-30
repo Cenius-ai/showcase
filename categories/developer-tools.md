@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) | book software library | Go | [GIF](https://github.com/Cenius-ai/minimal-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang) |
 | [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) | book software library | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | book software library | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
 | [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | book software library | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
