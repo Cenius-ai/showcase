@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | photo gallery app | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | blog platform | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | recipe manager | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
