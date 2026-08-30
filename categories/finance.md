@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) | expense personal finance tracker | V | [GIF](https://github.com/Cenius-ai/tripledger-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang) |
 | [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) | personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/personal-finance-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite) |
 | [Vertex](https://github.com/Cenius-ai/vertex-vlang) | freelancer personal finance tracker | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
 | [Nook](https://github.com/Cenius-ai/nook-rails) | freelancer personal finance tracker | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
