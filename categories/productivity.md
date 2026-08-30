@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) | bookmark knowledge base app | Flask | [GIF](https://github.com/Cenius-ai/personal-bookmark-manager-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask) |
 | [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) | to-do list app | ASP.NET Core | [GIF](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet) |
 | [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) | kanban board | V | [GIF](https://github.com/Cenius-ai/cenius-task-board-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang) |
 | [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) | bookmark to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs) |
