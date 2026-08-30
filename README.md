@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (36 apps)
+**[Open source business software →](categories/business-tools.md)** (37 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Arc](https://github.com/Cenius-ai/arc-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/arc-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi) |
 | [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookshelf-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails) |
 | [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) | Vite | [GIF](https://github.com/Cenius-ai/weatherdash-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite) |
 | [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) | V | [GIF](https://github.com/Cenius-ai/team-crm-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang) |
@@ -143,10 +144,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (42 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (43 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) | Flask | [GIF](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask) |
 | [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pulsepad-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp) |
 | [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp) |
 | [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) | Flask | [GIF](https://github.com/Cenius-ai/quotevault-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask) |
@@ -329,10 +331,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (8 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (9 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
 | [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
 | [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
 | [Sage](https://github.com/Cenius-ai/sage-scala) | Scala | [GIF](https://github.com/Cenius-ai/sage-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage-2?ref=gh&utm_campaign=sage-scala) |
