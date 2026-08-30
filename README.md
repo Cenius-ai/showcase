@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (38 apps)
+**[Open source business software →](categories/business-tools.md)** (39 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang) |
 | [GuestBook](https://github.com/Cenius-ai/guestbook-php) | PHP | [GIF](https://github.com/Cenius-ai/guestbook-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php) |
 | [Arc](https://github.com/Cenius-ai/arc-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/arc-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi) |
 | [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookshelf-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails) |
@@ -146,10 +147,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (44 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (45 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
 | [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) | V | [GIF](https://github.com/Cenius-ai/metricdash-saas-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang) |
 | [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) | Flask | [GIF](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask) |
 | [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pulsepad-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp) |
@@ -199,10 +201,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (14 apps)
+**[Open source finance software →](categories/finance.md)** (15 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-finance-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite) |
 | [Vertex](https://github.com/Cenius-ai/vertex-vlang) | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
 | [Nook](https://github.com/Cenius-ai/nook-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
 | [Tide - Agency Invoicing & Billing](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-agency-invoicing-billing-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide---agency-invoicing-billing?ref=gh&utm_campaign=tide-agency-invoicing-billing-nodejs) |
