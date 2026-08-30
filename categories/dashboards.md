@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/pulsepad-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp) |
 | [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp) |
 | [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/quotevault-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask) |
 | [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp) |
