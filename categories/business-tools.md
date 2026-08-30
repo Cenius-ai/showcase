@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [GuestBook](https://github.com/Cenius-ai/guestbook-php) | book web application | PHP | [GIF](https://github.com/Cenius-ai/guestbook-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php) |
 | [Arc](https://github.com/Cenius-ai/arc-fastapi) | web application | FastAPI | [GIF](https://github.com/Cenius-ai/arc-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi) |
 | [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) | book admin panel | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookshelf-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails) |
 | [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/weatherdash-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite) |
