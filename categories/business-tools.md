@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
 | [Jade](https://github.com/Cenius-ai/jade-kotlin) | web application | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
 | [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) | admin panel | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang) |
 | [GuestBook](https://github.com/Cenius-ai/guestbook-php) | book web application | PHP | [GIF](https://github.com/Cenius-ai/guestbook-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php) |
