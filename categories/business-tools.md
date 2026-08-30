@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Arc](https://github.com/Cenius-ai/arc-fastapi) | web application | FastAPI | [GIF](https://github.com/Cenius-ai/arc-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi) |
 | [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) | book admin panel | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookshelf-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails) |
 | [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/weatherdash-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite) |
 | [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) | CRM system | V | [GIF](https://github.com/Cenius-ai/team-crm-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang) |
