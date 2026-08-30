@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | CRM system | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
 | [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) | web application | Flask | [GIF](https://github.com/Cenius-ai/url-shortener-docker-stack-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
 | [Jade](https://github.com/Cenius-ai/jade-kotlin) | web application | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
