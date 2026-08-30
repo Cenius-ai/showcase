@@ -154,10 +154,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (46 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (47 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/insightboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp) |
 | [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
 | [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
 | [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) | V | [GIF](https://github.com/Cenius-ai/metricdash-saas-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang) |
@@ -234,10 +235,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (49 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (50 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
@@ -348,10 +350,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (10 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (11 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/minimal-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang) |
 | [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
 | [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
