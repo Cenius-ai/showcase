@@ -91,10 +91,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (47 apps)
+**[Open source productivity apps →](categories/productivity.md)** (48 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-bookmark-manager-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask) |
 | [Todo Web App (F#/Giraffe)](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/todo-web-app-f-giraffe-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/todo-web-app-f-giraffe?ref=gh&utm_campaign=todo-web-app-f-giraffe-dotnet) |
 | [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) | V | [GIF](https://github.com/Cenius-ai/cenius-task-board-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang) |
 | [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs) |
@@ -201,10 +202,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (15 apps)
+**[Open source finance software →](categories/finance.md)** (16 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) | V | [GIF](https://github.com/Cenius-ai/tripledger-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang) |
 | [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-finance-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite) |
 | [Vertex](https://github.com/Cenius-ai/vertex-vlang) | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
 | [Nook](https://github.com/Cenius-ai/nook-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/nook-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nook-3?ref=gh&utm_campaign=nook-rails) |
@@ -225,10 +227,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (48 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (49 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
 | [Recipe Box](https://github.com/Cenius-ai/recipe-box-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/recipe-box-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-box-3?ref=gh&utm_campaign=recipe-box-rails) |
 | [Lumen](https://github.com/Cenius-ai/lumen-scala-2) | Scala | [GIF](https://github.com/Cenius-ai/lumen-scala-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-4?ref=gh&utm_campaign=lumen-scala-2) |
