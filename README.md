@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (42 apps)
+**[Open source business software →](categories/business-tools.md)** (43 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
 | [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) | Flask | [GIF](https://github.com/Cenius-ai/url-shortener-docker-stack-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
 | [Jade](https://github.com/Cenius-ai/jade-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
@@ -95,10 +96,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (50 apps)
+**[Open source productivity apps →](categories/productivity.md)** (51 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang) |
 | [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) | Go | [GIF](https://github.com/Cenius-ai/shelfnotes-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang) |
 | [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang) |
 | [Personal Bookmark Manager](https://github.com/Cenius-ai/personal-bookmark-manager-flask) | Flask | [GIF](https://github.com/Cenius-ai/personal-bookmark-manager-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-bookmark-manager?ref=gh&utm_campaign=personal-bookmark-manager-flask) |
@@ -210,10 +212,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (16 apps)
+**[Open source finance software →](categories/finance.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/expense-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite) |
 | [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) | V | [GIF](https://github.com/Cenius-ai/tripledger-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang) |
 | [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-finance-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite) |
 | [Vertex](https://github.com/Cenius-ai/vertex-vlang) | V | [GIF](https://github.com/Cenius-ai/vertex-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vertex-2?ref=gh&utm_campaign=vertex-vlang) |
