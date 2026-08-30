@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (41 apps)
+**[Open source business software →](categories/business-tools.md)** (42 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) | Flask | [GIF](https://github.com/Cenius-ai/url-shortener-docker-stack-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
 | [Jade](https://github.com/Cenius-ai/jade-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
 | [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang) |
@@ -153,10 +154,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (45 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (46 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
 | [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
 | [MetricDash SaaS](https://github.com/Cenius-ai/metricdash-saas-vlang) | V | [GIF](https://github.com/Cenius-ai/metricdash-saas-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricdash-saas?ref=gh&utm_campaign=metricdash-saas-vlang) |
 | [JAX Linear Regression Trainer & Visualizer](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask) | Flask | [GIF](https://github.com/Cenius-ai/jax-linear-regression-trainer-visualizer-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jax-linear-regression-trainer-visualizer?ref=gh&utm_campaign=jax-linear-regression-trainer-visualizer-flask) |
@@ -346,10 +348,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (9 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (10 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
 | [Go Book Catalog](https://github.com/Cenius-ai/go-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/go-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/go-book-catalog?ref=gh&utm_campaign=go-book-catalog-golang) |
 | [DocQnA RAG App](https://github.com/Cenius-ai/docqna-rag-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/docqna-rag-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/docqna-rag-app?ref=gh&utm_campaign=docqna-rag-app-webapp) |
