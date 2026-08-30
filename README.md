@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (35 apps)
+**[Open source business software →](categories/business-tools.md)** (36 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BookShelf Manager](https://github.com/Cenius-ai/bookshelf-manager-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/bookshelf-manager-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookshelf-manager?ref=gh&utm_campaign=bookshelf-manager-rails) |
 | [WeatherDash](https://github.com/Cenius-ai/weatherdash-vite) | Vite | [GIF](https://github.com/Cenius-ai/weatherdash-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/weatherdash?ref=gh&utm_campaign=weatherdash-vite) |
 | [Team CRM Lite](https://github.com/Cenius-ai/team-crm-lite-vlang) | V | [GIF](https://github.com/Cenius-ai/team-crm-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-crm-lite?ref=gh&utm_campaign=team-crm-lite-vlang) |
 | [Haven POS](https://github.com/Cenius-ai/haven-pos-golang) | Go | [GIF](https://github.com/Cenius-ai/haven-pos-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/haven-pos?ref=gh&utm_campaign=haven-pos-golang) |
@@ -87,10 +88,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (45 apps)
+**[Open source productivity apps →](categories/productivity.md)** (46 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Cenius Task Board](https://github.com/Cenius-ai/cenius-task-board-vlang) | V | [GIF](https://github.com/Cenius-ai/cenius-task-board-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cenius-task-board?ref=gh&utm_campaign=cenius-task-board-vlang) |
 | [Express EJS Bookmark Manager](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookmark-manager-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookmark-manager?ref=gh&utm_campaign=express-ejs-bookmark-manager-nodejs) |
 | [Flask Habit Tracker](https://github.com/Cenius-ai/flask-habit-tracker) | Flask | [GIF](https://github.com/Cenius-ai/flask-habit-tracker/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/flask-habit-tracker?ref=gh&utm_campaign=flask-habit-tracker) |
 | [TaskFlow](https://github.com/Cenius-ai/taskflow-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/taskflow-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-5?ref=gh&utm_campaign=taskflow-nodejs) |
@@ -141,10 +143,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (41 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (42 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PulsePad](https://github.com/Cenius-ai/pulsepad-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pulsepad-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulsepad?ref=gh&utm_campaign=pulsepad-webapp) |
 | [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sales-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-dashboard-2?ref=gh&utm_campaign=sales-analytics-dashboard-webapp) |
 | [QuoteVault](https://github.com/Cenius-ai/quotevault-flask) | Flask | [GIF](https://github.com/Cenius-ai/quotevault-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotevault?ref=gh&utm_campaign=quotevault-flask) |
 | [Nuxt Analytics Dashboard](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nuxt-analytics-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nuxt-analytics-dashboard?ref=gh&utm_campaign=nuxt-analytics-dashboard-webapp) |
