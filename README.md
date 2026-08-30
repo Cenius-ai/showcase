@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (39 apps)
+**[Open source business software →](categories/business-tools.md)** (40 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Jade](https://github.com/Cenius-ai/jade-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/jade-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/jade?ref=gh&utm_campaign=jade-kotlin) |
 | [Offboardly](https://github.com/Cenius-ai/offboardly-vlang) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-2?ref=gh&utm_campaign=offboardly-vlang) |
 | [GuestBook](https://github.com/Cenius-ai/guestbook-php) | PHP | [GIF](https://github.com/Cenius-ai/guestbook-php/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-2?ref=gh&utm_campaign=guestbook-php) |
 | [Arc](https://github.com/Cenius-ai/arc-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/arc-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-2?ref=gh&utm_campaign=arc-fastapi) |
@@ -56,10 +57,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (26 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (27 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang) |
 | [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) |
 | [Willow](https://github.com/Cenius-ai/willow-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2) |
 | [Cobalt - Coffee Roaster Storefront](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cobalt-coffee-roaster-storefront-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cobalt---coffee-roaster-storefront?ref=gh&utm_campaign=cobalt-coffee-roaster-storefront-webapp) |
@@ -285,10 +287,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (16 apps)
+**[Open source social network software →](categories/social.md)** (17 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/teamchat-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix) |
 | [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
 | [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
 | [QuoteBoard](https://github.com/Cenius-ai/quoteboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quoteboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quoteboard?ref=gh&utm_campaign=quoteboard-webapp) |
