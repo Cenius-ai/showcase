@@ -64,10 +64,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (27 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (28 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang) |
 | [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang) |
 | [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) |
 | [Willow](https://github.com/Cenius-ai/willow-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/willow-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/willow-4?ref=gh&utm_campaign=willow-nodejs-2) |
@@ -100,10 +101,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (53 apps)
+**[Open source productivity apps →](categories/productivity.md)** (54 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Laravel Task Manager](https://github.com/Cenius-ai/laravel-task-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-task-manager?ref=gh&utm_campaign=laravel-task-manager-vlang) |
 | [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pastenotes-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp) |
 | [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang) |
@@ -162,10 +164,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (51 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (52 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/pulseboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite) |
 | [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) | Vite | [GIF](https://github.com/Cenius-ai/kite-log-viewer-observability-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite) |
 | [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) | Flask | [GIF](https://github.com/Cenius-ai/dask-parquet-data-processor-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask) |
 | [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) | Flask | [GIF](https://github.com/Cenius-ai/sales-analytics-tool-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask) |
