@@ -100,10 +100,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (52 apps)
+**[Open source productivity apps →](categories/productivity.md)** (53 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pastenotes-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp) |
 | [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang) |
 | [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) | Go | [GIF](https://github.com/Cenius-ai/shelfnotes-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang) |
@@ -161,10 +162,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (50 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (51 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) | Vite | [GIF](https://github.com/Cenius-ai/kite-log-viewer-observability-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite) |
 | [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) | Flask | [GIF](https://github.com/Cenius-ai/dask-parquet-data-processor-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask) |
 | [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) | Flask | [GIF](https://github.com/Cenius-ai/sales-analytics-tool-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask) |
 | [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp) |
@@ -247,10 +249,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (50 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (51 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang) |
 | [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-dotnet) | ASP.NET Core | [GIF](https://github.com/Cenius-ai/event-directory-dotnet/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory?ref=gh&utm_campaign=event-directory-dotnet) |
