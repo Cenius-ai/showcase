@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) | landing page | Node.js | [GIF](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs) |
 | [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) | blog platform | V | [GIF](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang) |
 | [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | photo gallery app | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | recipe manager | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
