@@ -4,6 +4,9 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Tide](https://github.com/Cenius-ai/tide-nodejs) | kanban board | Node.js | [GIF](https://github.com/Cenius-ai/tide-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs) |
+| [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs) |
+| [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite) | movie to-do list app | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa-2?ref=gh&utm_campaign=movie-watchlist-spa-vite) |
 | [Laravel Task Manager](https://github.com/Cenius-ai/laravel-task-manager-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/laravel-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-task-manager?ref=gh&utm_campaign=laravel-task-manager-vlang) |
 | [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/pastenotes-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp) |
 | [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
