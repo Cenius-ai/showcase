@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Laravel Task Manager](https://github.com/Cenius-ai/laravel-task-manager-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/laravel-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-task-manager?ref=gh&utm_campaign=laravel-task-manager-vlang) |
 | [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/pastenotes-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp) |
 | [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) | book knowledge base app | Go | [GIF](https://github.com/Cenius-ai/book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang) |
