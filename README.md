@@ -64,10 +64,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (28 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs) |
 | [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang) |
 | [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang) |
 | [Bookstore REST API with Server-Rendered EJS Frontend](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookstore-rest-api-with-server-rendered-ejs-frontend?ref=gh&utm_campaign=bookstore-rest-api-with-server-rendered-ejs-frontend-nodejs) |
@@ -252,10 +253,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (51 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (52 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs) |
 | [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang) |
 | [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
 | [Recipes Web App](https://github.com/Cenius-ai/recipes-web-app-nodejs-2) | Node.js | [GIF](https://github.com/Cenius-ai/recipes-web-app-nodejs-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipes-web-app-3?ref=gh&utm_campaign=recipes-web-app-nodejs-2) |
@@ -368,10 +370,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (11 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (12 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [CSV to JSON CLI](https://github.com/Cenius-ai/csv-to-json-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/csv-to-json-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/csv-to-json-cli?ref=gh&utm_campaign=csv-to-json-cli-webapp) |
 | [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/minimal-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang) |
 | [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-rails) | Ruby on Rails | [GIF](https://github.com/Cenius-ai/book-catalog-rails/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-2?ref=gh&utm_campaign=book-catalog-rails) |
