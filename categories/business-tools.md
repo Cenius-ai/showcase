@@ -4,6 +4,8 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | web application | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
+| [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/notekeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite) |
 | [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | CRM system | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
 | [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) | web application | Flask | [GIF](https://github.com/Cenius-ai/url-shortener-docker-stack-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
