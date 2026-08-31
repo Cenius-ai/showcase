@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (46 apps)
+**[Open source business software →](categories/business-tools.md)** (47 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/easyfile-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix) |
 | [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
 | [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
 | [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) | Vite | [GIF](https://github.com/Cenius-ai/notekeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite) |
@@ -99,10 +100,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (51 apps)
+**[Open source productivity apps →](categories/productivity.md)** (52 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
 | [Book Catalog](https://github.com/Cenius-ai/book-catalog-golang) | Go | [GIF](https://github.com/Cenius-ai/book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-3?ref=gh&utm_campaign=book-catalog-golang) |
 | [ShelfNotes](https://github.com/Cenius-ai/shelfnotes-golang) | Go | [GIF](https://github.com/Cenius-ai/shelfnotes-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shelfnotes?ref=gh&utm_campaign=shelfnotes-golang) |
 | [Multi-tenant SaaS Project Tracker](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/multi-tenant-saas-project-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/multi-tenant-saas-project-tracker?ref=gh&utm_campaign=multi-tenant-saas-project-tracker-vlang) |
@@ -218,10 +220,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (17 apps)
+**[Open source finance software →](categories/finance.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicing-web-app-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang) |
 | [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/expense-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite) |
 | [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) | V | [GIF](https://github.com/Cenius-ai/tripledger-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang) |
 | [Personal Finance Dashboard](https://github.com/Cenius-ai/personal-finance-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/personal-finance-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-finance-dashboard-2?ref=gh&utm_campaign=personal-finance-dashboard-vite) |
