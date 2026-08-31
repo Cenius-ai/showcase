@@ -102,10 +102,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (57 apps)
+**[Open source productivity apps →](categories/productivity.md)** (58 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite) |
 | [Tide](https://github.com/Cenius-ai/tide-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs) |
 | [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs) |
 | [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa-2?ref=gh&utm_campaign=movie-watchlist-spa-vite) |
@@ -168,10 +169,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (52 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (54 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/fleetops-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite) |
+| [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) | V | [GIF](https://github.com/Cenius-ai/opsboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang) |
 | [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/pulseboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite) |
 | [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) | Vite | [GIF](https://github.com/Cenius-ai/kite-log-viewer-observability-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite) |
 | [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) | Flask | [GIF](https://github.com/Cenius-ai/dask-parquet-data-processor-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask) |
