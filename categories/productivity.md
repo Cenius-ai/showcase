@@ -4,6 +4,8 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
+| [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/notesapp-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs) |
 | [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite) |
 | [Tide](https://github.com/Cenius-ai/tide-nodejs) | kanban board | Node.js | [GIF](https://github.com/Cenius-ai/tide-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs) |
 | [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs) |
