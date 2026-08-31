@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/team-task-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang) |
 | [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
 | [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) | to-do list app | Node.js | [GIF](https://github.com/Cenius-ai/notesapp-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs) |
 | [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite) |
