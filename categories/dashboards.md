@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/team-dashboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang) |
 | [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/fleetops-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite) |
 | [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/opsboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang) |
 | [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/pulseboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite) |
