@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp) |
 | [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/insightboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp) |
 | [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | monitoring dashboard | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
 | [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | clinic monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
