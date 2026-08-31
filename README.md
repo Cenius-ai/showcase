@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (45 apps)
+**[Open source business software →](categories/business-tools.md)** (46 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
 | [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
 | [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) | Vite | [GIF](https://github.com/Cenius-ai/notekeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite) |
 | [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
@@ -158,10 +159,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (48 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (50 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) | Flask | [GIF](https://github.com/Cenius-ai/dask-parquet-data-processor-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask) |
+| [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) | Flask | [GIF](https://github.com/Cenius-ai/sales-analytics-tool-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask) |
 | [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp) |
 | [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/insightboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp) |
 | [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
