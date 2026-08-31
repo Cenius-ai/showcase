@@ -102,10 +102,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (58 apps)
+**[Open source productivity apps →](categories/productivity.md)** (60 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
+| [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/notesapp-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs) |
 | [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite) |
 | [Tide](https://github.com/Cenius-ai/tide-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs) |
 | [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs) |
@@ -169,10 +171,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (54 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (55 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) | V | [GIF](https://github.com/Cenius-ai/team-dashboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang) |
 | [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/fleetops-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite) |
 | [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) | V | [GIF](https://github.com/Cenius-ai/opsboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang) |
 | [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/pulseboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite) |
