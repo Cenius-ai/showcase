@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [PulseBoard](https://github.com/Cenius-ai/pulseboard-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/pulseboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pulseboard-2?ref=gh&utm_campaign=pulseboard-vite) |
 | [Kite - Log Viewer & Observability](https://github.com/Cenius-ai/kite-log-viewer-observability-vite) | log monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/kite-log-viewer-observability-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kite---log-viewer-observability?ref=gh&utm_campaign=kite-log-viewer-observability-vite) |
 | [Dask Parquet Data Processor](https://github.com/Cenius-ai/dask-parquet-data-processor-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/dask-parquet-data-processor-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dask-parquet-data-processor?ref=gh&utm_campaign=dask-parquet-data-processor-flask) |
 | [Sales Analytics Tool](https://github.com/Cenius-ai/sales-analytics-tool-flask) | monitoring dashboard | Flask | [GIF](https://github.com/Cenius-ai/sales-analytics-tool-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-tool?ref=gh&utm_campaign=sales-analytics-tool-flask) |
