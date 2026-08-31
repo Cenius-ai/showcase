@@ -102,10 +102,13 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (54 apps)
+**[Open source productivity apps →](categories/productivity.md)** (57 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Tide](https://github.com/Cenius-ai/tide-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tide-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tide?ref=gh&utm_campaign=tide-nodejs) |
+| [Bun Task Tracker CLI](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/bun-task-tracker-cli-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bun-task-tracker-cli?ref=gh&utm_campaign=bun-task-tracker-cli-nodejs) |
+| [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa-2?ref=gh&utm_campaign=movie-watchlist-spa-vite) |
 | [Laravel Task Manager](https://github.com/Cenius-ai/laravel-task-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-task-manager?ref=gh&utm_campaign=laravel-task-manager-vlang) |
 | [PasteNotes](https://github.com/Cenius-ai/pastenotes-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pastenotes-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pastenotes?ref=gh&utm_campaign=pastenotes-webapp) |
 | [Quotes App](https://github.com/Cenius-ai/quotes-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/quotes-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/quotes-app?ref=gh&utm_campaign=quotes-app-webapp) |
