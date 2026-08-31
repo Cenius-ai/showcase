@@ -64,10 +64,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (29 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (30 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) | V | [GIF](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang) |
 | [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs) |
 | [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang) |
 | [Laravel 13 E-Commerce Storefront](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-13-e-commerce-storefront-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-13-e-commerce-storefront?ref=gh&utm_campaign=laravel-13-e-commerce-storefront-vlang) |
@@ -102,10 +103,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (60 apps)
+**[Open source productivity apps →](categories/productivity.md)** (61 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/team-task-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang) |
 | [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
 | [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/notesapp-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs) |
 | [Habit Tracker SPA](https://github.com/Cenius-ai/habit-tracker-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/habit-tracker-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habit-tracker-spa?ref=gh&utm_campaign=habit-tracker-spa-vite) |
@@ -235,10 +237,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (18 apps)
+**[Open source finance software →](categories/finance.md)** (19 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) | Vite | [GIF](https://github.com/Cenius-ai/coinkeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite) |
 | [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicing-web-app-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang) |
 | [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/expense-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite) |
 | [TripLedger](https://github.com/Cenius-ai/tripledger-vlang) | V | [GIF](https://github.com/Cenius-ai/tripledger-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tripledger?ref=gh&utm_campaign=tripledger-vlang) |
