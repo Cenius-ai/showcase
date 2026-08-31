@@ -8,10 +8,12 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (43 apps)
+**[Open source business software →](categories/business-tools.md)** (45 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
+| [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) | Vite | [GIF](https://github.com/Cenius-ai/notekeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite) |
 | [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
 | [URL Shortener Docker Stack](https://github.com/Cenius-ai/url-shortener-docker-stack-flask) | Flask | [GIF](https://github.com/Cenius-ai/url-shortener-docker-stack-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/url-shortener-docker-stack?ref=gh&utm_campaign=url-shortener-docker-stack-flask) |
 | [Event Directory](https://github.com/Cenius-ai/event-directory-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/event-directory-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/event-directory-2?ref=gh&utm_campaign=event-directory-webapp) |
@@ -156,10 +158,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (47 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (48 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Personal Habit Tracker Streamlit App](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/personal-habit-tracker-streamlit-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/personal-habit-tracker-streamlit-app?ref=gh&utm_campaign=personal-habit-tracker-streamlit-app-webapp) |
 | [InsightBoard](https://github.com/Cenius-ai/insightboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/insightboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/insightboard?ref=gh&utm_campaign=insightboard-webapp) |
 | [OpsPanel](https://github.com/Cenius-ai/opspanel-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/opspanel-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opspanel?ref=gh&utm_campaign=opspanel-fastapi) |
 | [Atlas - Health Vitals Records](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/atlas-health-vitals-records-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas---health-vitals-records?ref=gh&utm_campaign=atlas-health-vitals-records-webapp) |
