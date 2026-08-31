@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
 | [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | web application | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
 | [NoteKeep](https://github.com/Cenius-ai/notekeep-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/notekeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notekeep?ref=gh&utm_campaign=notekeep-vite) |
 | [Customer CRM](https://github.com/Cenius-ai/customer-crm-nodejs) | CRM system | Node.js | [GIF](https://github.com/Cenius-ai/customer-crm-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/customer-crm?ref=gh&utm_campaign=customer-crm-nodejs) |
