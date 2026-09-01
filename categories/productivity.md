@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/projectflow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite) |
 | [HabitSpark](https://github.com/Cenius-ai/habitspark-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/habitspark-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habitspark?ref=gh&utm_campaign=habitspark-vite) |
 | [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/team-task-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang) |
 | [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
