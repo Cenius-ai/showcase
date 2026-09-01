@@ -67,10 +67,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (30 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (31 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Sage - Salon Booking Platform](https://github.com/Cenius-ai/sage-salon-booking-platform-vite) | Vite | [GIF](https://github.com/Cenius-ai/sage-salon-booking-platform-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage---salon-booking-platform?ref=gh&utm_campaign=sage-salon-booking-platform-vite) |
 | [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) | V | [GIF](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang) |
 | [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs) |
 | [Next.js E-Commerce Store](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-e-commerce-store-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-e-commerce-store?ref=gh&utm_campaign=next-js-e-commerce-store-vlang) |
@@ -180,10 +181,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (57 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (58 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Loom](https://github.com/Cenius-ai/loom-vite) | Vite | [GIF](https://github.com/Cenius-ai/loom-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom?ref=gh&utm_campaign=loom-vite) |
 | [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) | Vite | [GIF](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite) |
 | [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2) |
 | [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) | V | [GIF](https://github.com/Cenius-ai/team-dashboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang) |
@@ -276,10 +278,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (53 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (54 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Book](https://github.com/Cenius-ai/recipe-book-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-book-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-book-2?ref=gh&utm_campaign=recipe-book-vite) |
 | [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite) |
 | [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs) |
 | [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang) |
