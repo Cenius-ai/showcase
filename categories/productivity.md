@@ -4,6 +4,8 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/kanban-task-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite) |
+| [Task Manager MVP](https://github.com/Cenius-ai/task-manager-mvp-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/task-manager-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-mvp-13?ref=gh&utm_campaign=task-manager-mvp-vite) |
 | [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite) |
 | [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) | podcast to-do list app | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2) |
 | [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/taskloop-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite) |
