@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (47 apps)
+**[Open source business software →](categories/business-tools.md)** (48 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang) |
 | [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/easyfile-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix) |
 | [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
 | [Task Tracker CLI](https://github.com/Cenius-ai/task-tracker-cli-golang) | Go | [GIF](https://github.com/Cenius-ai/task-tracker-cli-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-tracker-cli?ref=gh&utm_campaign=task-tracker-cli-golang) |
@@ -173,10 +174,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (55 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (57 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) | Vite | [GIF](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite) |
+| [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2) |
 | [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) | V | [GIF](https://github.com/Cenius-ai/team-dashboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang) |
 | [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) | Vite | [GIF](https://github.com/Cenius-ai/fleetops-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite) |
 | [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) | V | [GIF](https://github.com/Cenius-ai/opsboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang) |
