@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (50 apps)
+**[Open source business software →](categories/business-tools.md)** (51 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Slate](https://github.com/Cenius-ai/slate-vite) | Vite | [GIF](https://github.com/Cenius-ai/slate-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite) |
 | [Atlas](https://github.com/Cenius-ai/atlas-vite) | Vite | [GIF](https://github.com/Cenius-ai/atlas-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite) |
 | [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) | Vite | [GIF](https://github.com/Cenius-ai/grandmaster-chess-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite) |
 | [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang) |
@@ -107,10 +108,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (67 apps)
+**[Open source productivity apps →](categories/productivity.md)** (69 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-task-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite) |
+| [Task Manager MVP](https://github.com/Cenius-ai/task-manager-mvp-vite) | Vite | [GIF](https://github.com/Cenius-ai/task-manager-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-mvp-13?ref=gh&utm_campaign=task-manager-mvp-vite) |
 | [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite) |
 | [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2) |
 | [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskloop-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite) |
