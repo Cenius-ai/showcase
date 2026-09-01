@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/grandmaster-chess-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite) |
 | [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) | CRM system | V | [GIF](https://github.com/Cenius-ai/laravel-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang) |
 | [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) | web application | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/easyfile-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix) |
 | [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
