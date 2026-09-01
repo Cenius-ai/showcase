@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (48 apps)
+**[Open source business software →](categories/business-tools.md)** (49 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) | Vite | [GIF](https://github.com/Cenius-ai/grandmaster-chess-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite) |
 | [Laravel CRM](https://github.com/Cenius-ai/laravel-crm-vlang) | V | [GIF](https://github.com/Cenius-ai/laravel-crm-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/laravel-crm?ref=gh&utm_campaign=laravel-crm-vlang) |
 | [EasyFile](https://github.com/Cenius-ai/easyfile-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/easyfile-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/easyfile?ref=gh&utm_campaign=easyfile-phoenix) |
 | [Simple Notes Web App](https://github.com/Cenius-ai/simple-notes-web-app-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simple-notes-web-app-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-notes-web-app?ref=gh&utm_campaign=simple-notes-web-app-webapp) |
@@ -104,10 +105,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (61 apps)
+**[Open source productivity apps →](categories/productivity.md)** (62 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [HabitSpark](https://github.com/Cenius-ai/habitspark-vite) | Vite | [GIF](https://github.com/Cenius-ai/habitspark-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habitspark?ref=gh&utm_campaign=habitspark-vite) |
 | [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/team-task-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang) |
 | [Projex - Project Management App](https://github.com/Cenius-ai/projex-project-management-app-vite) | Vite | [GIF](https://github.com/Cenius-ai/projex-project-management-app-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projex---project-management-app?ref=gh&utm_campaign=projex-project-management-app-vite) |
 | [NotesApp](https://github.com/Cenius-ai/notesapp-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/notesapp-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/notesapp?ref=gh&utm_campaign=notesapp-nodejs) |
@@ -240,10 +242,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (19 apps)
+**[Open source finance software →](categories/finance.md)** (20 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Lumen](https://github.com/Cenius-ai/lumen-vite) | Vite | [GIF](https://github.com/Cenius-ai/lumen-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-5?ref=gh&utm_campaign=lumen-vite) |
 | [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) | Vite | [GIF](https://github.com/Cenius-ai/coinkeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite) |
 | [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) | V | [GIF](https://github.com/Cenius-ai/invoicing-web-app-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang) |
 | [Expense Tracker](https://github.com/Cenius-ai/expense-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/expense-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/expense-tracker?ref=gh&utm_campaign=expense-tracker-vite) |
