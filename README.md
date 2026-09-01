@@ -106,10 +106,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (63 apps)
+**[Open source productivity apps →](categories/productivity.md)** (65 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskloop-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite) |
+| [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-vite) | Vite | [GIF](https://github.com/Cenius-ai/bookmarks-manager-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-4?ref=gh&utm_campaign=bookmarks-manager-vite) |
 | [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) | Vite | [GIF](https://github.com/Cenius-ai/projectflow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite) |
 | [HabitSpark](https://github.com/Cenius-ai/habitspark-vite) | Vite | [GIF](https://github.com/Cenius-ai/habitspark-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/habitspark?ref=gh&utm_campaign=habitspark-vite) |
 | [Team Task Tracker](https://github.com/Cenius-ai/team-task-tracker-vlang) | V | [GIF](https://github.com/Cenius-ai/team-task-tracker-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-task-tracker?ref=gh&utm_campaign=team-task-tracker-vlang) |
@@ -274,10 +276,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (52 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (53 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite) |
 | [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs) |
 | [Next.js Blog with MDX](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang) | V | [GIF](https://github.com/Cenius-ai/next-js-blog-with-mdx-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/next-js-blog-with-mdx?ref=gh&utm_campaign=next-js-blog-with-mdx-vlang) |
 | [ImageUploader & Gallery](https://github.com/Cenius-ai/imageuploader-gallery-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/imageuploader-gallery-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/imageuploader-gallery?ref=gh&utm_campaign=imageuploader-gallery-fastapi) |
