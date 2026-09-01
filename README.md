@@ -107,10 +107,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (65 apps)
+**[Open source productivity apps →](categories/productivity.md)** (67 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite) |
+| [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2) |
 | [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) | Vite | [GIF](https://github.com/Cenius-ai/taskloop-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-vite) | Vite | [GIF](https://github.com/Cenius-ai/bookmarks-manager-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-4?ref=gh&utm_campaign=bookmarks-manager-vite) |
 | [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) | Vite | [GIF](https://github.com/Cenius-ai/projectflow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite) |
@@ -278,10 +280,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (54 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (55 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Recipe Collection SPA](https://github.com/Cenius-ai/recipe-collection-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-collection-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-collection-spa?ref=gh&utm_campaign=recipe-collection-spa-vite) |
 | [Recipe Book](https://github.com/Cenius-ai/recipe-book-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-book-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-book-2?ref=gh&utm_campaign=recipe-book-vite) |
 | [Recipe Browser SPA with Vue 3](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-browser-spa-with-vue-3-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-browser-spa-with-vue-3?ref=gh&utm_campaign=recipe-browser-spa-with-vue-3-vite) |
 | [BrewCrate Marketing Landing Page](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/brewcrate-marketing-landing-page-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewcrate-marketing-landing-page?ref=gh&utm_campaign=brewcrate-marketing-landing-page-nodejs) |
