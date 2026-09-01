@@ -4,6 +4,8 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Onyx - Log Viewer & Saved Views](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite) | log monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/onyx-log-viewer-saved-views-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx---log-viewer-saved-views?ref=gh&utm_campaign=onyx-log-viewer-saved-views-vite) |
+| [Offboardly](https://github.com/Cenius-ai/offboardly-vlang-2) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/offboardly-vlang-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/offboardly-3?ref=gh&utm_campaign=offboardly-vlang-2) |
 | [Team Dashboard](https://github.com/Cenius-ai/team-dashboard-vlang) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/team-dashboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/team-dashboard?ref=gh&utm_campaign=team-dashboard-vlang) |
 | [FleetOps Dashboard](https://github.com/Cenius-ai/fleetops-dashboard-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/fleetops-dashboard-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fleetops-dashboard?ref=gh&utm_campaign=fleetops-dashboard-vite) |
 | [OpsBoard](https://github.com/Cenius-ai/opsboard-vlang) | monitoring dashboard | V | [GIF](https://github.com/Cenius-ai/opsboard-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/opsboard?ref=gh&utm_campaign=opsboard-vlang) |
