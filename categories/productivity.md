@@ -4,6 +4,8 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite) |
+| [Movie Watchlist SPA](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2) | podcast to-do list app | Vite | [GIF](https://github.com/Cenius-ai/movie-watchlist-spa-vite-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/movie-watchlist-spa?ref=gh&utm_campaign=movie-watchlist-spa-vite-2) |
 | [TaskLoop](https://github.com/Cenius-ai/taskloop-vite) | to-do list app | Vite | [GIF](https://github.com/Cenius-ai/taskloop-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskloop?ref=gh&utm_campaign=taskloop-vite) |
 | [Bookmarks Manager](https://github.com/Cenius-ai/bookmarks-manager-vite) | bookmark to-do list app | Vite | [GIF](https://github.com/Cenius-ai/bookmarks-manager-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bookmarks-manager-4?ref=gh&utm_campaign=bookmarks-manager-vite) |
 | [ProjectFlow](https://github.com/Cenius-ai/projectflow-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/projectflow-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/projectflow?ref=gh&utm_campaign=projectflow-vite) |
