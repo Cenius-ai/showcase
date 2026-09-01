@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) | expense personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/budget-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite) |
 | [Lumen](https://github.com/Cenius-ai/lumen-vite) | personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/lumen-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-5?ref=gh&utm_campaign=lumen-vite) |
 | [CoinKeep](https://github.com/Cenius-ai/coinkeep-vite) | personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/coinkeep-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coinkeep?ref=gh&utm_campaign=coinkeep-vite) |
 | [Invoicing Web App](https://github.com/Cenius-ai/invoicing-web-app-vlang) | invoice personal finance tracker | V | [GIF](https://github.com/Cenius-ai/invoicing-web-app-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/invoicing-web-app?ref=gh&utm_campaign=invoicing-web-app-vlang) |
