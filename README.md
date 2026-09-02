@@ -108,10 +108,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (69 apps)
+**[Open source productivity apps →](categories/productivity.md)** (70 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kanban Board SPA](https://github.com/Cenius-ai/kanban-board-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-spa-3?ref=gh&utm_campaign=kanban-board-spa-vite) |
 | [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-task-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite) |
 | [Task Manager MVP](https://github.com/Cenius-ai/task-manager-mvp-vite) | Vite | [GIF](https://github.com/Cenius-ai/task-manager-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/task-manager-mvp-13?ref=gh&utm_campaign=task-manager-mvp-vite) |
 | [Kanban Board MVP](https://github.com/Cenius-ai/kanban-board-mvp-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-mvp-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-mvp?ref=gh&utm_campaign=kanban-board-mvp-vite) |
