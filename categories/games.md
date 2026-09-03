@@ -4,6 +4,7 @@ Multiplayer games and interactive experiences with full source. Every app below 
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Arc — Crossword Puzzle Game](https://github.com/Cenius-ai/arc-crossword-puzzle-game-webapp) | multiplayer browser game | Full-stack app | [GIF](https://github.com/Cenius-ai/arc-crossword-puzzle-game-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-crossword-puzzle-game?ref=gh&utm_campaign=arc-crossword-puzzle-game-webapp) |
 | [LiveSpecTabs mrr8xb9u](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs) | multiplayer browser game | Node.js | [GIF](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/livespectabs-mrr8xb9u?ref=gh&utm_campaign=livespectabs-mrr8xb9u-nodejs) |
 | [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) | multiplayer browser game | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/iris-trivia-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin) |
 
