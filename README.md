@@ -396,10 +396,11 @@ _Learning platforms, flashcards and knowledge tools._
 
 _Multiplayer games, puzzles and interactive experiences._
 
-**[Open source browser games →](categories/games.md)** (2 apps)
+**[Open source browser games →](categories/games.md)** (3 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Arc — Crossword Puzzle Game](https://github.com/Cenius-ai/arc-crossword-puzzle-game-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/arc-crossword-puzzle-game-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/arc-crossword-puzzle-game?ref=gh&utm_campaign=arc-crossword-puzzle-game-webapp) |
 | [LiveSpecTabs mrr8xb9u](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/livespectabs-mrr8xb9u-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/livespectabs-mrr8xb9u?ref=gh&utm_campaign=livespectabs-mrr8xb9u-nodejs) |
 | [Iris Trivia](https://github.com/Cenius-ai/iris-trivia-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/iris-trivia-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris-trivia?ref=gh&utm_campaign=iris-trivia-kotlin) |
 
