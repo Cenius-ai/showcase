@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Aster](https://github.com/Cenius-ai/aster-nodejs) | photography web application | Node.js | [GIF](https://github.com/Cenius-ai/aster-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs) |
 | [Slate](https://github.com/Cenius-ai/slate-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/slate-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite) |
 | [Atlas](https://github.com/Cenius-ai/atlas-vite) | podcast web application | Vite | [GIF](https://github.com/Cenius-ai/atlas-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite) |
 | [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/grandmaster-chess-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite) |
