@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (51 apps)
+**[Open source business software →](categories/business-tools.md)** (52 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Aster](https://github.com/Cenius-ai/aster-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/aster-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs) |
 | [Slate](https://github.com/Cenius-ai/slate-vite) | Vite | [GIF](https://github.com/Cenius-ai/slate-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite) |
 | [Atlas](https://github.com/Cenius-ai/atlas-vite) | Vite | [GIF](https://github.com/Cenius-ai/atlas-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite) |
 | [Grandmaster Chess](https://github.com/Cenius-ai/grandmaster-chess-vite) | Vite | [GIF](https://github.com/Cenius-ai/grandmaster-chess-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grandmaster-chess?ref=gh&utm_campaign=grandmaster-chess-vite) |
