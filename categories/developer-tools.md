@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [BoardGameShelf](https://github.com/Cenius-ai/boardgameshelf-vite) | software library | Vite | [GIF](https://github.com/Cenius-ai/boardgameshelf-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/boardgameshelf?ref=gh&utm_campaign=boardgameshelf-vite) |
 | [CSV to JSON CLI](https://github.com/Cenius-ai/csv-to-json-cli-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/csv-to-json-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/csv-to-json-cli?ref=gh&utm_campaign=csv-to-json-cli-webapp) |
 | [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) | book software library | Go | [GIF](https://github.com/Cenius-ai/minimal-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang) |
 | [Book Catalog Web App](https://github.com/Cenius-ai/book-catalog-web-app-kotlin) | book software library | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/book-catalog-web-app-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/book-catalog-web-app-2?ref=gh&utm_campaign=book-catalog-web-app-kotlin) |
