@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/nimbuscrm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp) |
 | [Aster](https://github.com/Cenius-ai/aster-nodejs) | photography web application | Node.js | [GIF](https://github.com/Cenius-ai/aster-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs) |
 | [Slate](https://github.com/Cenius-ai/slate-vite) | web application | Vite | [GIF](https://github.com/Cenius-ai/slate-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite) |
 | [Atlas](https://github.com/Cenius-ai/atlas-vite) | podcast web application | Vite | [GIF](https://github.com/Cenius-ai/atlas-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/atlas?ref=gh&utm_campaign=atlas-vite) |
