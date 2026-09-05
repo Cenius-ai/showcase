@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Linework](https://github.com/Cenius-ai/linework-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/linework-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp) |
 | [Taskfield](https://github.com/Cenius-ai/taskfield-flask) | to-do list app | Flask | [GIF](https://github.com/Cenius-ai/taskfield-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskfield?ref=gh&utm_campaign=taskfield-flask) |
 | [Kanban Board SPA](https://github.com/Cenius-ai/kanban-board-spa-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-spa-3?ref=gh&utm_campaign=kanban-board-spa-vite) |
 | [Kanban Task Board](https://github.com/Cenius-ai/kanban-task-board-vite) | kanban board | Vite | [GIF](https://github.com/Cenius-ai/kanban-task-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-task-board?ref=gh&utm_campaign=kanban-task-board-vite) |
