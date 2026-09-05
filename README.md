@@ -110,10 +110,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (72 apps)
+**[Open source productivity apps →](categories/productivity.md)** (73 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang) |
 | [Linework](https://github.com/Cenius-ai/linework-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/linework-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp) |
 | [Taskfield](https://github.com/Cenius-ai/taskfield-flask) | Flask | [GIF](https://github.com/Cenius-ai/taskfield-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskfield?ref=gh&utm_campaign=taskfield-flask) |
 | [Kanban Board SPA](https://github.com/Cenius-ai/kanban-board-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/kanban-board-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kanban-board-spa-3?ref=gh&utm_campaign=kanban-board-spa-vite) |
@@ -191,10 +192,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (60 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (61 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskLane](https://github.com/Cenius-ai/tasklane-vite) | Vite | [GIF](https://github.com/Cenius-ai/tasklane-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite) |
 | [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) | Scala | [GIF](https://github.com/Cenius-ai/worksync-team-project-manager-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala) |
 | [Aster](https://github.com/Cenius-ai/aster-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/aster-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-3?ref=gh&utm_campaign=aster-webapp) |
 | [Loom](https://github.com/Cenius-ai/loom-vite) | Vite | [GIF](https://github.com/Cenius-ai/loom-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loom?ref=gh&utm_campaign=loom-vite) |
