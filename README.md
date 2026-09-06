@@ -193,10 +193,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (61 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (62 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) | Julia | [GIF](https://github.com/Cenius-ai/geniesprint-julia/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia) |
 | [TaskLane](https://github.com/Cenius-ai/tasklane-vite) | Vite | [GIF](https://github.com/Cenius-ai/tasklane-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite) |
 | [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) | Scala | [GIF](https://github.com/Cenius-ai/worksync-team-project-manager-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala) |
 | [Aster](https://github.com/Cenius-ai/aster-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/aster-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster-3?ref=gh&utm_campaign=aster-webapp) |
