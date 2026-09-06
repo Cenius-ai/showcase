@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (53 apps)
+**[Open source business software →](categories/business-tools.md)** (54 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simplezigshortener-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp) |
 | [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nimbuscrm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp) |
 | [Aster](https://github.com/Cenius-ai/aster-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/aster-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs) |
 | [Slate](https://github.com/Cenius-ai/slate-vite) | Vite | [GIF](https://github.com/Cenius-ai/slate-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slate-4?ref=gh&utm_campaign=slate-vite) |
