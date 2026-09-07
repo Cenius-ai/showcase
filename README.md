@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (55 apps)
+**[Open source business software →](categories/business-tools.md)** (56 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) | Go | [GIF](https://github.com/Cenius-ai/relay-crm-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang) |
 | [Erlang Contact & Company CRM](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/erlang-contact-company-crm?ref=gh&utm_campaign=erlang-contact-company-crm-webapp) |
 | [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/simplezigshortener-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp) |
 | [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/nimbuscrm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp) |
