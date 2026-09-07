@@ -113,10 +113,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (75 apps)
+**[Open source productivity apps →](categories/productivity.md)** (76 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskCraft](https://github.com/Cenius-ai/taskcraft-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/taskcraft-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskcraft?ref=gh&utm_campaign=taskcraft-webapp) |
 | [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/liveboard-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix) |
 | [Simple Task Todo Web App](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell) | Haskell | [GIF](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-task-todo-web-app?ref=gh&utm_campaign=simple-task-todo-web-app-haskell) |
 | [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang) |
