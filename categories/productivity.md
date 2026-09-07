@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) | kanban board | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/liveboard-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix) |
 | [Simple Task Todo Web App](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell) | to-do list app | Haskell | [GIF](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-task-todo-web-app?ref=gh&utm_campaign=simple-task-todo-web-app-haskell) |
 | [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) | to-do list app | V | [GIF](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang) |
 | [Linework](https://github.com/Cenius-ai/linework-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/linework-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp) |
