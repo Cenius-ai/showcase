@@ -4,6 +4,7 @@ Self-hostable CRMs, helpdesks, invoicing, inventory and other business tools —
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Erlang Contact & Company CRM](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/erlang-contact-company-crm?ref=gh&utm_campaign=erlang-contact-company-crm-webapp) |
 | [SimpleZigShortener](https://github.com/Cenius-ai/simplezigshortener-webapp) | web application | Full-stack app | [GIF](https://github.com/Cenius-ai/simplezigshortener-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simplezigshortener?ref=gh&utm_campaign=simplezigshortener-webapp) |
 | [NimbusCRM](https://github.com/Cenius-ai/nimbuscrm-webapp) | CRM system | Full-stack app | [GIF](https://github.com/Cenius-ai/nimbuscrm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/nimbuscrm?ref=gh&utm_campaign=nimbuscrm-webapp) |
 | [Aster](https://github.com/Cenius-ai/aster-nodejs) | photography web application | Node.js | [GIF](https://github.com/Cenius-ai/aster-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/aster?ref=gh&utm_campaign=aster-nodejs) |
