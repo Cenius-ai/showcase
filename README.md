@@ -113,10 +113,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (74 apps)
+**[Open source productivity apps →](categories/productivity.md)** (75 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/liveboard-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix) |
 | [Simple Task Todo Web App](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell) | Haskell | [GIF](https://github.com/Cenius-ai/simple-task-todo-web-app-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/simple-task-todo-web-app?ref=gh&utm_campaign=simple-task-todo-web-app-haskell) |
 | [TaskFlow — Personal Task Manager](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang) | V | [GIF](https://github.com/Cenius-ai/taskflow-personal-task-manager-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskflow-personal-task-manager?ref=gh&utm_campaign=taskflow-personal-task-manager-vlang) |
 | [Linework](https://github.com/Cenius-ai/linework-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/linework-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linework?ref=gh&utm_campaign=linework-webapp) |
@@ -196,10 +197,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (62 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (63 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TaskLane](https://github.com/Cenius-ai/tasklane-haskell) | Haskell | [GIF](https://github.com/Cenius-ai/tasklane-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane-2?ref=gh&utm_campaign=tasklane-haskell) |
 | [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) | Julia | [GIF](https://github.com/Cenius-ai/geniesprint-julia/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia) |
 | [TaskLane](https://github.com/Cenius-ai/tasklane-vite) | Vite | [GIF](https://github.com/Cenius-ai/tasklane-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite) |
 | [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) | Scala | [GIF](https://github.com/Cenius-ai/worksync-team-project-manager-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala) |
