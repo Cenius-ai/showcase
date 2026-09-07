@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TaskLane](https://github.com/Cenius-ai/tasklane-haskell) | monitoring dashboard | Haskell | [GIF](https://github.com/Cenius-ai/tasklane-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane-2?ref=gh&utm_campaign=tasklane-haskell) |
 | [GenieSprint](https://github.com/Cenius-ai/geniesprint-julia) | monitoring dashboard | Julia | [GIF](https://github.com/Cenius-ai/geniesprint-julia/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/geniesprint?ref=gh&utm_campaign=geniesprint-julia) |
 | [TaskLane](https://github.com/Cenius-ai/tasklane-vite) | monitoring dashboard | Vite | [GIF](https://github.com/Cenius-ai/tasklane-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane?ref=gh&utm_campaign=tasklane-vite) |
 | [Worksync — Team Project Manager](https://github.com/Cenius-ai/worksync-team-project-manager-scala) | monitoring dashboard | Scala | [GIF](https://github.com/Cenius-ai/worksync-team-project-manager-scala/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/worksync-team-project-manager?ref=gh&utm_campaign=worksync-team-project-manager-scala) |
