@@ -301,10 +301,12 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (57 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (59 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Onyx — Product Mockups AI Studio](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django) | Django | [GIF](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-product-mockups-ai-studio?ref=gh&utm_campaign=onyx-product-mockups-ai-studio-django) |
+| [Recipe Explorer](https://github.com/Cenius-ai/recipe-explorer-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-explorer-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-explorer?ref=gh&utm_campaign=recipe-explorer-vite) |
 | [Orbit Photography Portfolio](https://github.com/Cenius-ai/orbit-photography-portfolio-astro) | Astro | [GIF](https://github.com/Cenius-ai/orbit-photography-portfolio-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-photography-portfolio?ref=gh&utm_campaign=orbit-photography-portfolio-astro) |
 | [LinkStack Lite](https://github.com/Cenius-ai/linkstack-lite-vlang) | V | [GIF](https://github.com/Cenius-ai/linkstack-lite-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/linkstack-lite?ref=gh&utm_campaign=linkstack-lite-vlang) |
 | [Recipe Collection SPA](https://github.com/Cenius-ai/recipe-collection-spa-vite) | Vite | [GIF](https://github.com/Cenius-ai/recipe-collection-spa-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-collection-spa?ref=gh&utm_campaign=recipe-collection-spa-vite) |
