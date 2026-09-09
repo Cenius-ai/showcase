@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Harbor](https://github.com/Cenius-ai/harbor-webapp) | blog platform | Full-stack app | [GIF](https://github.com/Cenius-ai/harbor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp) |
 | [Onyx — Product Mockups AI Studio](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django) | photo gallery app | Django | [GIF](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-product-mockups-ai-studio?ref=gh&utm_campaign=onyx-product-mockups-ai-studio-django) |
 | [Recipe Explorer](https://github.com/Cenius-ai/recipe-explorer-vite) | recipe manager | Vite | [GIF](https://github.com/Cenius-ai/recipe-explorer-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/recipe-explorer?ref=gh&utm_campaign=recipe-explorer-vite) |
 | [Orbit Photography Portfolio](https://github.com/Cenius-ai/orbit-photography-portfolio-astro) | photography photo gallery app | Astro | [GIF](https://github.com/Cenius-ai/orbit-photography-portfolio-astro/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orbit-photography-portfolio?ref=gh&utm_campaign=orbit-photography-portfolio-astro) |
