@@ -4,6 +4,7 @@ Feeds, forums and chat platforms — run your own community, own your data. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Iris](https://github.com/Cenius-ai/iris-fastapi) | book social network app | FastAPI | [GIF](https://github.com/Cenius-ai/iris-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris?ref=gh&utm_campaign=iris-fastapi) |
 | [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) | chat application | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/teamchat-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix) |
 | [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | book social network app | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
 | [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | social network app | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
