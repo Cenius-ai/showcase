@@ -73,10 +73,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (31 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (32 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Peak](https://github.com/Cenius-ai/peak-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/peak-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak?ref=gh&utm_campaign=peak-kotlin) |
 | [Sage - Salon Booking Platform](https://github.com/Cenius-ai/sage-salon-booking-platform-vite) | Vite | [GIF](https://github.com/Cenius-ai/sage-salon-booking-platform-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage---salon-booking-platform?ref=gh&utm_campaign=sage-salon-booking-platform-vite) |
 | [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) | V | [GIF](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang) |
 | [Express EJS Bookstore](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/express-ejs-bookstore-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/express-ejs-bookstore?ref=gh&utm_campaign=express-ejs-bookstore-nodejs) |
@@ -370,10 +371,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (17 apps)
+**[Open source social network software →](categories/social.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Iris](https://github.com/Cenius-ai/iris-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/iris-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris?ref=gh&utm_campaign=iris-fastapi) |
 | [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/teamchat-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix) |
 | [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
 | [OrgSocial POC](https://github.com/Cenius-ai/orgsocial-poc-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/orgsocial-poc-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/orgsocial-poc?ref=gh&utm_campaign=orgsocial-poc-nodejs) |
