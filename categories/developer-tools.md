@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [wordcount — single-file CLI word counter](https://github.com/Cenius-ai/wordcount-single-file-cli-word-counter-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-single-file-cli-word-counter-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-single-file-cli-word-counter?ref=gh&utm_campaign=wordcount-single-file-cli-word-counter-webapp) |
 | [BoardGameShelf](https://github.com/Cenius-ai/boardgameshelf-vite) | software library | Vite | [GIF](https://github.com/Cenius-ai/boardgameshelf-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/boardgameshelf?ref=gh&utm_campaign=boardgameshelf-vite) |
 | [CSV to JSON CLI](https://github.com/Cenius-ai/csv-to-json-cli-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/csv-to-json-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/csv-to-json-cli?ref=gh&utm_campaign=csv-to-json-cli-webapp) |
 | [Minimal Book Catalog](https://github.com/Cenius-ai/minimal-book-catalog-golang) | book software library | Go | [GIF](https://github.com/Cenius-ai/minimal-book-catalog-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/minimal-book-catalog?ref=gh&utm_campaign=minimal-book-catalog-golang) |
