@@ -429,10 +429,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (17 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli?ref=gh&utm_campaign=wordcount-cli-webapp) |
 | [wordcount (single-file Python CLI)](https://github.com/Cenius-ai/wordcount-single-file-python-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-single-file-python-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-single-file-python-cli?ref=gh&utm_campaign=wordcount-single-file-python-cli-webapp) |
 | [wordcount — single-file word counter CLI](https://github.com/Cenius-ai/wordcount-single-file-word-counter-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-single-file-word-counter-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-single-file-word-counter-cli?ref=gh&utm_campaign=wordcount-single-file-word-counter-cli-webapp) |
 | [wc-py — single-file Python word counter CLI](https://github.com/Cenius-ai/wc-py-single-file-python-word-counter-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wc-py-single-file-python-word-counter-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wc-py-single-file-python-word-counter-cli?ref=gh&utm_campaign=wc-py-single-file-python-word-counter-cli-webapp) |
