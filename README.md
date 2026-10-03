@@ -402,10 +402,13 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (22 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (25 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [wc-py — single-file word count CLI](https://github.com/Cenius-ai/wc-py-single-file-word-count-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wc-py-single-file-word-count-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wc-py-single-file-word-count-cli?ref=gh&utm_campaign=wc-py-single-file-word-count-cli-webapp) |
+| [Scorekeep](https://github.com/Cenius-ai/scorekeep-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/scorekeep-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/scorekeep?ref=gh&utm_campaign=scorekeep-webapp) |
+| [Slakebind](https://github.com/Cenius-ai/slakebind-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/slakebind-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slakebind?ref=gh&utm_campaign=slakebind-webapp) |
 | [wordcount-cli](https://github.com/Cenius-ai/wordcount-cli-webapp-4) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-4/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-4?ref=gh&utm_campaign=wordcount-cli-webapp-4) |
 | [WordCount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-3) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-3/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-3?ref=gh&utm_campaign=wordcount-cli-webapp-3) |
 | [wordcount-cli](https://github.com/Cenius-ai/wordcount-cli-webapp-2) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-2/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-2?ref=gh&utm_campaign=wordcount-cli-webapp-2) |
