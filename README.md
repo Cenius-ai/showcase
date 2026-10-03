@@ -402,10 +402,12 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (28 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (30 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-7/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7) |
+| [Kilanvil](https://github.com/Cenius-ai/kilanvil-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kilanvil-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kilanvil?ref=gh&utm_campaign=kilanvil-webapp) |
 | [wordcount-cli](https://github.com/Cenius-ai/wordcount-cli-webapp-6) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-6/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-6?ref=gh&utm_campaign=wordcount-cli-webapp-6) |
 | [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-5) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-5/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-5?ref=gh&utm_campaign=wordcount-cli-webapp-5) |
 | [Grainwell — single-file CLI malt bill, mash timer and IBU calculator](https://github.com/Cenius-ai/grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator?ref=gh&utm_campaign=grainwell-single-file-cli-malt-bill-mash-timer-and-ibu-calculator-webapp) |
