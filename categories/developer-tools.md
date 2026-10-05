@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SapTap](https://github.com/Cenius-ai/saptap-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/saptap-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp) |
 | [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tidegrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp) |
 | [Sootprint](https://github.com/Cenius-ai/sootprint-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sootprint-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sootprint?ref=gh&utm_campaign=sootprint-webapp) |
 | [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-7/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7) |
