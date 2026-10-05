@@ -402,10 +402,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (32 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (33 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SapTap](https://github.com/Cenius-ai/saptap-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/saptap-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp) |
 | [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tidegrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp) |
 | [Sootprint](https://github.com/Cenius-ai/sootprint-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sootprint-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sootprint?ref=gh&utm_campaign=sootprint-webapp) |
 | [wordcount CLI](https://github.com/Cenius-ai/wordcount-cli-webapp-7) | Full-stack app | [GIF](https://github.com/Cenius-ai/wordcount-cli-webapp-7/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wordcount-cli-7?ref=gh&utm_campaign=wordcount-cli-webapp-7) |
