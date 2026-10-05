@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [RuneCast CLI](https://github.com/Cenius-ai/runecast-cli-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/runecast-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runecast-cli?ref=gh&utm_campaign=runecast-cli-webapp) |
 | [SapTap](https://github.com/Cenius-ai/saptap-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/saptap-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp) |
 | [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tidegrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp) |
 | [Sootprint](https://github.com/Cenius-ai/sootprint-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sootprint-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sootprint?ref=gh&utm_campaign=sootprint-webapp) |
