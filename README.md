@@ -402,10 +402,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (34 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (35 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [PetrichorLog](https://github.com/Cenius-ai/petrichorlog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/petrichorlog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/petrichorlog?ref=gh&utm_campaign=petrichorlog-webapp) |
 | [RuneCast CLI](https://github.com/Cenius-ai/runecast-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/runecast-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runecast-cli?ref=gh&utm_campaign=runecast-cli-webapp) |
 | [SapTap](https://github.com/Cenius-ai/saptap-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/saptap-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/saptap?ref=gh&utm_campaign=saptap-webapp) |
 | [Tidegrid](https://github.com/Cenius-ai/tidegrid-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tidegrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tidegrid?ref=gh&utm_campaign=tidegrid-webapp) |
