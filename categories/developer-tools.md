@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [ReefTally](https://github.com/Cenius-ai/reeftally-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/reeftally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reeftally?ref=gh&utm_campaign=reeftally-webapp) |
 | [KnotTutor](https://github.com/Cenius-ai/knottutor-webapp) | pet command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/knottutor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knottutor?ref=gh&utm_campaign=knottutor-webapp) |
 | [PetrichorLog](https://github.com/Cenius-ai/petrichorlog-webapp) | pet command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/petrichorlog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/petrichorlog?ref=gh&utm_campaign=petrichorlog-webapp) |
 | [RuneCast CLI](https://github.com/Cenius-ai/runecast-cli-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/runecast-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runecast-cli?ref=gh&utm_campaign=runecast-cli-webapp) |
