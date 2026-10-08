@@ -402,10 +402,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (38 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (39 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [FossilGrid](https://github.com/Cenius-ai/fossilgrid-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fossilgrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fossilgrid?ref=gh&utm_campaign=fossilgrid-webapp) |
 | [BeeswaxBind](https://github.com/Cenius-ai/beeswaxbind-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beeswaxbind-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beeswaxbind?ref=gh&utm_campaign=beeswaxbind-webapp) |
 | [ReefTally](https://github.com/Cenius-ai/reeftally-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/reeftally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reeftally?ref=gh&utm_campaign=reeftally-webapp) |
 | [KnotTutor](https://github.com/Cenius-ai/knottutor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/knottutor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/knottutor?ref=gh&utm_campaign=knottutor-webapp) |
