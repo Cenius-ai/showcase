@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SedgeID](https://github.com/Cenius-ai/sedgeid-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sedgeid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sedgeid?ref=gh&utm_campaign=sedgeid-webapp) |
 | [FossilGrid](https://github.com/Cenius-ai/fossilgrid-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/fossilgrid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fossilgrid?ref=gh&utm_campaign=fossilgrid-webapp) |
 | [BeeswaxBind](https://github.com/Cenius-ai/beeswaxbind-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/beeswaxbind-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beeswaxbind?ref=gh&utm_campaign=beeswaxbind-webapp) |
 | [ReefTally](https://github.com/Cenius-ai/reeftally-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/reeftally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reeftally?ref=gh&utm_campaign=reeftally-webapp) |
