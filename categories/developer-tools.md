@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Fernery](https://github.com/Cenius-ai/fernery-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/fernery-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp) |
 | [Plumbline](https://github.com/Cenius-ai/plumbline-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/plumbline-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/plumbline?ref=gh&utm_campaign=plumbline-webapp) |
 | [BirdBand](https://github.com/Cenius-ai/birdband-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/birdband-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/birdband?ref=gh&utm_campaign=birdband-webapp) |
 | [SedgeID](https://github.com/Cenius-ai/sedgeid-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sedgeid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sedgeid?ref=gh&utm_campaign=sedgeid-webapp) |
