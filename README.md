@@ -402,10 +402,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (42 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (43 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Fernery](https://github.com/Cenius-ai/fernery-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fernery-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp) |
 | [Plumbline](https://github.com/Cenius-ai/plumbline-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/plumbline-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/plumbline?ref=gh&utm_campaign=plumbline-webapp) |
 | [BirdBand](https://github.com/Cenius-ai/birdband-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/birdband-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/birdband?ref=gh&utm_campaign=birdband-webapp) |
 | [SedgeID](https://github.com/Cenius-ai/sedgeid-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sedgeid-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sedgeid?ref=gh&utm_campaign=sedgeid-webapp) |
