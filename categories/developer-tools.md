@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Chartroom](https://github.com/Cenius-ai/chartroom-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/chartroom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/chartroom?ref=gh&utm_campaign=chartroom-webapp) |
 | [Loomlight](https://github.com/Cenius-ai/loomlight-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/loomlight-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loomlight?ref=gh&utm_campaign=loomlight-webapp) |
 | [LithoLog](https://github.com/Cenius-ai/litholog-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/litholog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/litholog?ref=gh&utm_campaign=litholog-webapp) |
 | [Fernery](https://github.com/Cenius-ai/fernery-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/fernery-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp) |
