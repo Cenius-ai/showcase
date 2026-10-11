@@ -403,10 +403,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (44 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (45 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Loomlight](https://github.com/Cenius-ai/loomlight-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/loomlight-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loomlight?ref=gh&utm_campaign=loomlight-webapp) |
 | [LithoLog](https://github.com/Cenius-ai/litholog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/litholog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/litholog?ref=gh&utm_campaign=litholog-webapp) |
 | [Fernery](https://github.com/Cenius-ai/fernery-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fernery-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fernery?ref=gh&utm_campaign=fernery-webapp) |
 | [Plumbline](https://github.com/Cenius-ai/plumbline-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/plumbline-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/plumbline?ref=gh&utm_campaign=plumbline-webapp) |
