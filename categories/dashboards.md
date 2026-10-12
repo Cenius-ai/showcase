@@ -4,6 +4,7 @@ Analytics suites, log viewers and monitoring dashboards — self-hostable observ
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Beekeeping Swarm Call Dispatcher](https://github.com/Cenius-ai/beekeeping-swarm-call-dispatcher-webapp) | volunteer monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/beekeeping-swarm-call-dispatcher-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beekeeping-swarm-call-dispatcher?ref=gh&utm_campaign=beekeeping-swarm-call-dispatcher-webapp) |
 | [RetailPulse Dashboard](https://github.com/Cenius-ai/retailpulse-dashboard-webapp) | monitoring dashboard | Full-stack app | [GIF](https://github.com/Cenius-ai/retailpulse-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/retailpulse-dashboard?ref=gh&utm_campaign=retailpulse-dashboard-webapp) |
 | [Sales Analytics Dashboard](https://github.com/Cenius-ai/sales-analytics-dashboard) | monitoring dashboard | R/Shiny | [GIF](https://github.com/Cenius-ai/sales-analytics-dashboard/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sales-analytics-dashboard-3?ref=gh&utm_campaign=sales-analytics-dashboard) |
 | [TaskLane](https://github.com/Cenius-ai/tasklane-haskell) | monitoring dashboard | Haskell | [GIF](https://github.com/Cenius-ai/tasklane-haskell/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tasklane-2?ref=gh&utm_campaign=tasklane-haskell) |
