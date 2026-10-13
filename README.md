@@ -404,10 +404,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (48 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (49 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TatamiFit — Tatami Mat Layout Planner (CLI)](https://github.com/Cenius-ai/tatamifit-tatami-mat-layout-planner-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tatamifit-tatami-mat-layout-planner-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tatamifit-tatami-mat-layout-planner-cli?ref=gh&utm_campaign=tatamifit-tatami-mat-layout-planner-cli-webapp) |
 | [Seismolog](https://github.com/Cenius-ai/seismolog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/seismolog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/seismolog?ref=gh&utm_campaign=seismolog-webapp) |
 | [Radioglow](https://github.com/Cenius-ai/radioglow-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/radioglow-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/radioglow?ref=gh&utm_campaign=radioglow-webapp) |
 | [Chartroom](https://github.com/Cenius-ai/chartroom-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/chartroom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/chartroom?ref=gh&utm_campaign=chartroom-webapp) |
