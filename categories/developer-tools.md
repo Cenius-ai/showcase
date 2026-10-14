@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [LockpickLog](https://github.com/Cenius-ai/lockpicklog-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/lockpicklog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lockpicklog?ref=gh&utm_campaign=lockpicklog-webapp) |
 | [BonsaiWire](https://github.com/Cenius-ai/bonsaiwire-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/bonsaiwire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bonsaiwire?ref=gh&utm_campaign=bonsaiwire-webapp) |
 | [TatamiFit — Tatami Mat Layout Planner (CLI)](https://github.com/Cenius-ai/tatamifit-tatami-mat-layout-planner-cli-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tatamifit-tatami-mat-layout-planner-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tatamifit-tatami-mat-layout-planner-cli?ref=gh&utm_campaign=tatamifit-tatami-mat-layout-planner-cli-webapp) |
 | [Seismolog](https://github.com/Cenius-ai/seismolog-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/seismolog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/seismolog?ref=gh&utm_campaign=seismolog-webapp) |
