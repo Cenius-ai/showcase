@@ -404,10 +404,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (52 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (53 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pitchcatch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp) |
 | [Corkage](https://github.com/Cenius-ai/corkage-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/corkage-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/corkage?ref=gh&utm_campaign=corkage-webapp) |
 | [LockpickLog](https://github.com/Cenius-ai/lockpicklog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/lockpicklog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lockpicklog?ref=gh&utm_campaign=lockpicklog-webapp) |
 | [BonsaiWire](https://github.com/Cenius-ai/bonsaiwire-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bonsaiwire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bonsaiwire?ref=gh&utm_campaign=bonsaiwire-webapp) |
