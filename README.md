@@ -405,10 +405,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (54 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (55 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Grapevined](https://github.com/Cenius-ai/grapevined-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/grapevined-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grapevined?ref=gh&utm_campaign=grapevined-webapp) |
 | [Slurrymix](https://github.com/Cenius-ai/slurrymix-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/slurrymix-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slurrymix?ref=gh&utm_campaign=slurrymix-webapp) |
 | [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pitchcatch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp) |
 | [Corkage](https://github.com/Cenius-ai/corkage-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/corkage-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/corkage?ref=gh&utm_campaign=corkage-webapp) |
