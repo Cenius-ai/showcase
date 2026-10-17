@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Parfleche](https://github.com/Cenius-ai/parfleche-webapp) | recipe command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/parfleche-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/parfleche?ref=gh&utm_campaign=parfleche-webapp) |
 | [Grapevined](https://github.com/Cenius-ai/grapevined-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/grapevined-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grapevined?ref=gh&utm_campaign=grapevined-webapp) |
 | [Slurrymix](https://github.com/Cenius-ai/slurrymix-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/slurrymix-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/slurrymix?ref=gh&utm_campaign=slurrymix-webapp) |
 | [Pitchcatch](https://github.com/Cenius-ai/pitchcatch-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/pitchcatch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pitchcatch?ref=gh&utm_campaign=pitchcatch-webapp) |
