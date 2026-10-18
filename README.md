@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (56 apps)
+**[Open source business software →](categories/business-tools.md)** (57 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Mosaic Tile Studio Orders](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mosaic-tile-studio-orders?ref=gh&utm_campaign=mosaic-tile-studio-orders-nodejs) |
 | [Harbour Mooring Waitlist Board](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbour-mooring-waitlist-board?ref=gh&utm_campaign=harbour-mooring-waitlist-board-vite) |
 | [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) | Go | [GIF](https://github.com/Cenius-ai/relay-crm-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang) |
 | [Erlang Contact & Company CRM](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/erlang-contact-company-crm-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/erlang-contact-company-crm?ref=gh&utm_campaign=erlang-contact-company-crm-webapp) |
@@ -73,10 +74,12 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (27 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (29 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Carillon Recital Rota](https://github.com/Cenius-ai/carillon-recital-rota-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/carillon-recital-rota-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/carillon-recital-rota?ref=gh&utm_campaign=carillon-recital-rota-nodejs) |
+| [Allotment Seed Swap Counter](https://github.com/Cenius-ai/allotment-seed-swap-counter-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/allotment-seed-swap-counter-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/allotment-seed-swap-counter?ref=gh&utm_campaign=allotment-seed-swap-counter-nodejs) |
 | [Peak](https://github.com/Cenius-ai/peak-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/peak-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak?ref=gh&utm_campaign=peak-kotlin) |
 | [Sage - Salon Booking Platform](https://github.com/Cenius-ai/sage-salon-booking-platform-vite) | Vite | [GIF](https://github.com/Cenius-ai/sage-salon-booking-platform-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sage---salon-booking-platform?ref=gh&utm_campaign=sage-salon-booking-platform-vite) |
 | [Mist - Local Services Multi-Vendor Marketplace](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang) | V | [GIF](https://github.com/Cenius-ai/mist-local-services-multi-vendor-marketplace-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mist---local-services-multi-vendor-marketplace?ref=gh&utm_campaign=mist-local-services-multi-vendor-marketplace-vlang) |
