@@ -409,10 +409,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (58 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (59 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kilnmark](https://github.com/Cenius-ai/kilnmark-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kilnmark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kilnmark?ref=gh&utm_campaign=kilnmark-webapp) |
 | [Tallowmark](https://github.com/Cenius-ai/tallowmark-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tallowmark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tallowmark?ref=gh&utm_campaign=tallowmark-webapp) |
 | [Dowsel](https://github.com/Cenius-ai/dowsel-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/dowsel-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/dowsel?ref=gh&utm_campaign=dowsel-webapp) |
 | [Parfleche](https://github.com/Cenius-ai/parfleche-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/parfleche-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/parfleche?ref=gh&utm_campaign=parfleche-webapp) |
