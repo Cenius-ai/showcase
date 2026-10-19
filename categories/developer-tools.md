@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [InkBlend](https://github.com/Cenius-ai/inkblend-webapp) | recipe command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/inkblend-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inkblend?ref=gh&utm_campaign=inkblend-webapp) |
 | [EquestrianFence](https://github.com/Cenius-ai/equestrianfence-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/equestrianfence-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/equestrianfence?ref=gh&utm_campaign=equestrianfence-webapp) |
 | [Hollowpipe](https://github.com/Cenius-ai/hollowpipe-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/hollowpipe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hollowpipe?ref=gh&utm_campaign=hollowpipe-webapp) |
 | [Kilnmark](https://github.com/Cenius-ai/kilnmark-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/kilnmark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kilnmark?ref=gh&utm_campaign=kilnmark-webapp) |
