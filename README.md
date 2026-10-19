@@ -411,10 +411,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (60 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (61 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [EquestrianFence](https://github.com/Cenius-ai/equestrianfence-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/equestrianfence-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/equestrianfence?ref=gh&utm_campaign=equestrianfence-webapp) |
 | [Hollowpipe](https://github.com/Cenius-ai/hollowpipe-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/hollowpipe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hollowpipe?ref=gh&utm_campaign=hollowpipe-webapp) |
 | [Kilnmark](https://github.com/Cenius-ai/kilnmark-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kilnmark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kilnmark?ref=gh&utm_campaign=kilnmark-webapp) |
 | [Tallowmark](https://github.com/Cenius-ai/tallowmark-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tallowmark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tallowmark?ref=gh&utm_campaign=tallowmark-webapp) |
