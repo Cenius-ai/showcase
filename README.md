@@ -189,10 +189,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (66 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (67 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Drystone Cobble Street Survey](https://github.com/Cenius-ai/drystone-cobble-street-survey-vlang) | V | [GIF](https://github.com/Cenius-ai/drystone-cobble-street-survey-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/drystone-cobble-street-survey?ref=gh&utm_campaign=drystone-cobble-street-survey-vlang) |
 | [Mushroom Foray Spore Print Matcher](https://github.com/Cenius-ai/mushroom-foray-spore-print-matcher-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/mushroom-foray-spore-print-matcher-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mushroom-foray-spore-print-matcher?ref=gh&utm_campaign=mushroom-foray-spore-print-matcher-webapp) |
 | [Lifeboat Crew Callout Roster](https://github.com/Cenius-ai/lifeboat-crew-callout-roster-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/lifeboat-crew-callout-roster-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lifeboat-crew-callout-roster?ref=gh&utm_campaign=lifeboat-crew-callout-roster-webapp) |
 | [Beekeeping Swarm Call Dispatcher](https://github.com/Cenius-ai/beekeeping-swarm-call-dispatcher-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/beekeeping-swarm-call-dispatcher-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/beekeeping-swarm-call-dispatcher?ref=gh&utm_campaign=beekeeping-swarm-call-dispatcher-webapp) |
