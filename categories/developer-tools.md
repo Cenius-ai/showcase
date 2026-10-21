@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [CompassCairn](https://github.com/Cenius-ai/compasscairn-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/compasscairn-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/compasscairn?ref=gh&utm_campaign=compasscairn-webapp) |
 | [BrewBit](https://github.com/Cenius-ai/brewbit-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/brewbit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewbit?ref=gh&utm_campaign=brewbit-webapp) |
 | [GrainRate](https://github.com/Cenius-ai/grainrate-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/grainrate-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grainrate?ref=gh&utm_campaign=grainrate-webapp) |
 | [InkBlend](https://github.com/Cenius-ai/inkblend-webapp) | recipe command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/inkblend-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inkblend?ref=gh&utm_campaign=inkblend-webapp) |
