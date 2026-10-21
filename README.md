@@ -8,10 +8,11 @@ A curated index of complete, Apache-2.0-licensed applications generated on [ceni
 
 _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status pages._
 
-**[Open source business software →](categories/business-tools.md)** (57 apps)
+**[Open source business software →](categories/business-tools.md)** (58 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Wheelwright Workshop Orders](https://github.com/Cenius-ai/wheelwright-workshop-orders-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/wheelwright-workshop-orders-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wheelwright-workshop-orders?ref=gh&utm_campaign=wheelwright-workshop-orders-fastapi) |
 | [Mosaic Tile Studio Orders](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/mosaic-tile-studio-orders-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mosaic-tile-studio-orders?ref=gh&utm_campaign=mosaic-tile-studio-orders-nodejs) |
 | [Harbour Mooring Waitlist Board](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite) | Vite | [GIF](https://github.com/Cenius-ai/harbour-mooring-waitlist-board-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbour-mooring-waitlist-board?ref=gh&utm_campaign=harbour-mooring-waitlist-board-vite) |
 | [Relay CRM](https://github.com/Cenius-ai/relay-crm-golang) | Go | [GIF](https://github.com/Cenius-ai/relay-crm-golang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/relay-crm?ref=gh&utm_campaign=relay-crm-golang) |
