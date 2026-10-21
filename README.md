@@ -414,10 +414,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (64 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (65 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [CompassCairn](https://github.com/Cenius-ai/compasscairn-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/compasscairn-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/compasscairn?ref=gh&utm_campaign=compasscairn-webapp) |
 | [BrewBit](https://github.com/Cenius-ai/brewbit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/brewbit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewbit?ref=gh&utm_campaign=brewbit-webapp) |
 | [GrainRate](https://github.com/Cenius-ai/grainrate-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/grainrate-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/grainrate?ref=gh&utm_campaign=grainrate-webapp) |
 | [InkBlend](https://github.com/Cenius-ai/inkblend-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/inkblend-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inkblend?ref=gh&utm_campaign=inkblend-webapp) |
