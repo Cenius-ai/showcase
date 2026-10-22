@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SparGauge](https://github.com/Cenius-ai/spargauge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/spargauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/spargauge?ref=gh&utm_campaign=spargauge-webapp) |
 | [AsteroidBelt](https://github.com/Cenius-ai/asteroidbelt-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/asteroidbelt-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/asteroidbelt?ref=gh&utm_campaign=asteroidbelt-webapp) |
 | [CompassCairn](https://github.com/Cenius-ai/compasscairn-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/compasscairn-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/compasscairn?ref=gh&utm_campaign=compasscairn-webapp) |
 | [BrewBit](https://github.com/Cenius-ai/brewbit-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/brewbit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/brewbit?ref=gh&utm_campaign=brewbit-webapp) |
