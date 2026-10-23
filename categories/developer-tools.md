@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TideLedger](https://github.com/Cenius-ai/tideledger-webapp) | log command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tideledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tideledger?ref=gh&utm_campaign=tideledger-webapp) |
 | [GristMill](https://github.com/Cenius-ai/gristmill-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/gristmill-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/gristmill?ref=gh&utm_campaign=gristmill-webapp) |
 | [SparGauge](https://github.com/Cenius-ai/spargauge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/spargauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/spargauge?ref=gh&utm_campaign=spargauge-webapp) |
 | [AsteroidBelt](https://github.com/Cenius-ai/asteroidbelt-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/asteroidbelt-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/asteroidbelt?ref=gh&utm_campaign=asteroidbelt-webapp) |
