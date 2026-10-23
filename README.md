@@ -75,10 +75,13 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (29 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (32 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Allotment Water Rota Planner](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/allotment-water-rota-planner?ref=gh&utm_campaign=allotment-water-rota-planner-nodejs) |
+| [Ferry Timetable Notice Board](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ferry-timetable-notice-board?ref=gh&utm_campaign=ferry-timetable-notice-board-nodejs) |
+| [Kiln Firing Schedule Desk](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite) | Vite | [GIF](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kiln-firing-schedule-desk?ref=gh&utm_campaign=kiln-firing-schedule-desk-vite) |
 | [Carillon Recital Rota](https://github.com/Cenius-ai/carillon-recital-rota-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/carillon-recital-rota-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/carillon-recital-rota?ref=gh&utm_campaign=carillon-recital-rota-nodejs) |
 | [Allotment Seed Swap Counter](https://github.com/Cenius-ai/allotment-seed-swap-counter-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/allotment-seed-swap-counter-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/allotment-seed-swap-counter?ref=gh&utm_campaign=allotment-seed-swap-counter-nodejs) |
 | [Peak](https://github.com/Cenius-ai/peak-kotlin) | Kotlin/Ktor | [GIF](https://github.com/Cenius-ai/peak-kotlin/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/peak?ref=gh&utm_campaign=peak-kotlin) |
