@@ -414,10 +414,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (67 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (68 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [GristMill](https://github.com/Cenius-ai/gristmill-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/gristmill-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/gristmill?ref=gh&utm_campaign=gristmill-webapp) |
 | [SparGauge](https://github.com/Cenius-ai/spargauge-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/spargauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/spargauge?ref=gh&utm_campaign=spargauge-webapp) |
 | [AsteroidBelt](https://github.com/Cenius-ai/asteroidbelt-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/asteroidbelt-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/asteroidbelt?ref=gh&utm_campaign=asteroidbelt-webapp) |
 | [CompassCairn](https://github.com/Cenius-ai/compasscairn-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/compasscairn-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/compasscairn?ref=gh&utm_campaign=compasscairn-webapp) |
