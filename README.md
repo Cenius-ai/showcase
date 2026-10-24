@@ -423,10 +423,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (70 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (71 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [TesseractAtlas](https://github.com/Cenius-ai/tesseractatlas-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tesseractatlas-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tesseractatlas?ref=gh&utm_campaign=tesseractatlas-webapp) |
 | [HiveSplit](https://github.com/Cenius-ai/hivesplit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/hivesplit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hivesplit?ref=gh&utm_campaign=hivesplit-webapp) |
 | [TideLedger](https://github.com/Cenius-ai/tideledger-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tideledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tideledger?ref=gh&utm_campaign=tideledger-webapp) |
 | [GristMill](https://github.com/Cenius-ai/gristmill-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/gristmill-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/gristmill?ref=gh&utm_campaign=gristmill-webapp) |
