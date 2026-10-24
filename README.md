@@ -194,10 +194,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (74 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (75 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Volcanic Gas Plume Explorer](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/volcanic-gas-plume-explorer?ref=gh&utm_campaign=volcanic-gas-plume-explorer-webapp) |
 | [Tram Depot Car Allocation Board](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tram-depot-car-allocation-board?ref=gh&utm_campaign=tram-depot-car-allocation-board-nodejs) |
 | [Rope Walk Cordage Orders](https://github.com/Cenius-ai/rope-walk-cordage-orders-vite) | Vite | [GIF](https://github.com/Cenius-ai/rope-walk-cordage-orders-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rope-walk-cordage-orders?ref=gh&utm_campaign=rope-walk-cordage-orders-vite) |
 | [Funicular Railway Operations Board](https://github.com/Cenius-ai/funicular-railway-operations-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/funicular-railway-operations-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/funicular-railway-operations-board?ref=gh&utm_campaign=funicular-railway-operations-board-nodejs) |
