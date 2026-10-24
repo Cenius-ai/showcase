@@ -193,10 +193,12 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (72 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (74 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Tram Depot Car Allocation Board](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tram-depot-car-allocation-board?ref=gh&utm_campaign=tram-depot-car-allocation-board-nodejs) |
+| [Rope Walk Cordage Orders](https://github.com/Cenius-ai/rope-walk-cordage-orders-vite) | Vite | [GIF](https://github.com/Cenius-ai/rope-walk-cordage-orders-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rope-walk-cordage-orders?ref=gh&utm_campaign=rope-walk-cordage-orders-vite) |
 | [Funicular Railway Operations Board](https://github.com/Cenius-ai/funicular-railway-operations-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/funicular-railway-operations-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/funicular-railway-operations-board?ref=gh&utm_campaign=funicular-railway-operations-board-nodejs) |
 | [Mushroom Spawn Run Analytics](https://github.com/Cenius-ai/mushroom-spawn-run-analytics-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/mushroom-spawn-run-analytics-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mushroom-spawn-run-analytics?ref=gh&utm_campaign=mushroom-spawn-run-analytics-webapp) |
 | [Tabletop Wargames Club Campaign](https://github.com/Cenius-ai/tabletop-wargames-club-campaign-vlang) | V | [GIF](https://github.com/Cenius-ai/tabletop-wargames-club-campaign-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tabletop-wargames-club-campaign?ref=gh&utm_campaign=tabletop-wargames-club-campaign-vlang) |
