@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [RuneTally2](https://github.com/Cenius-ai/runetally2-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/runetally2-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runetally2?ref=gh&utm_campaign=runetally2-webapp) |
 | [TesseractAtlas](https://github.com/Cenius-ai/tesseractatlas-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tesseractatlas-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tesseractatlas?ref=gh&utm_campaign=tesseractatlas-webapp) |
 | [HiveSplit](https://github.com/Cenius-ai/hivesplit-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/hivesplit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hivesplit?ref=gh&utm_campaign=hivesplit-webapp) |
 | [TideLedger](https://github.com/Cenius-ai/tideledger-webapp) | log command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tideledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tideledger?ref=gh&utm_campaign=tideledger-webapp) |
