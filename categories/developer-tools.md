@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [StaveRift](https://github.com/Cenius-ai/staverift-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/staverift-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/staverift?ref=gh&utm_campaign=staverift-webapp) |
 | [RuneTally2](https://github.com/Cenius-ai/runetally2-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/runetally2-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runetally2?ref=gh&utm_campaign=runetally2-webapp) |
 | [TesseractAtlas](https://github.com/Cenius-ai/tesseractatlas-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tesseractatlas-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tesseractatlas?ref=gh&utm_campaign=tesseractatlas-webapp) |
 | [HiveSplit](https://github.com/Cenius-ai/hivesplit-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/hivesplit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hivesplit?ref=gh&utm_campaign=hivesplit-webapp) |
