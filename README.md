@@ -423,10 +423,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (74 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (75 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SetlistStack](https://github.com/Cenius-ai/setliststack-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/setliststack-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/setliststack?ref=gh&utm_campaign=setliststack-webapp) |
 | [Stiltstep](https://github.com/Cenius-ai/stiltstep-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/stiltstep-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stiltstep?ref=gh&utm_campaign=stiltstep-webapp) |
 | [StaveRift](https://github.com/Cenius-ai/staverift-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/staverift-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/staverift?ref=gh&utm_campaign=staverift-webapp) |
 | [RuneTally2](https://github.com/Cenius-ai/runetally2-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/runetally2-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/runetally2?ref=gh&utm_campaign=runetally2-webapp) |
