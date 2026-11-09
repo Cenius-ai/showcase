@@ -4,6 +4,7 @@ Budgeting apps, portfolio trackers and money dashboards you own end-to-end. Ever
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Renewly Subscription Tracker](https://github.com/Cenius-ai/renewly-subscription-tracker-fastapi) | personal finance tracker | FastAPI | [GIF](https://github.com/Cenius-ai/renewly-subscription-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/renewly-subscription-tracker?ref=gh&utm_campaign=renewly-subscription-tracker-fastapi) |
 | [Meridian — Personal Finance Dashboard](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp) | expense personal finance tracker | Full-stack app | [GIF](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/meridian-personal-finance-dashboard?ref=gh&utm_campaign=meridian-personal-finance-dashboard-webapp) |
 | [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) | expense personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/budget-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite) |
 | [Lumen](https://github.com/Cenius-ai/lumen-vite) | personal finance tracker | Vite | [GIF](https://github.com/Cenius-ai/lumen-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lumen-5?ref=gh&utm_campaign=lumen-vite) |
