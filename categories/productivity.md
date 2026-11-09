@@ -4,6 +4,7 @@ Notes, kanban boards, wikis, bookmark managers and habit trackers you can self-h
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) | knowledge base app | Node.js | [GIF](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs) |
 | [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) | knowledge base app | Python | [GIF](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python) |
 | [TaskCraft](https://github.com/Cenius-ai/taskcraft-webapp) | to-do list app | Full-stack app | [GIF](https://github.com/Cenius-ai/taskcraft-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskcraft?ref=gh&utm_campaign=taskcraft-webapp) |
 | [LiveBoard](https://github.com/Cenius-ai/liveboard-phoenix) | kanban board | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/liveboard-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/liveboard?ref=gh&utm_campaign=liveboard-phoenix) |
