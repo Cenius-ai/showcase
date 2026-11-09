@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [IronBark](https://github.com/Cenius-ai/ironbark-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/ironbark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ironbark?ref=gh&utm_campaign=ironbark-webapp) |
 | [SetlistStack](https://github.com/Cenius-ai/setliststack-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/setliststack-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/setliststack?ref=gh&utm_campaign=setliststack-webapp) |
 | [Stiltstep](https://github.com/Cenius-ai/stiltstep-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/stiltstep-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stiltstep?ref=gh&utm_campaign=stiltstep-webapp) |
 | [StaveRift](https://github.com/Cenius-ai/staverift-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/staverift-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/staverift?ref=gh&utm_campaign=staverift-webapp) |
