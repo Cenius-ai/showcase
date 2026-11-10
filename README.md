@@ -428,10 +428,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (78 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (79 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [SourDoughClock](https://github.com/Cenius-ai/sourdoughclock-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sourdoughclock-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sourdoughclock?ref=gh&utm_campaign=sourdoughclock-webapp) |
 | [HopBaleCount](https://github.com/Cenius-ai/hopbalecount-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/hopbalecount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hopbalecount?ref=gh&utm_campaign=hopbalecount-webapp) |
 | [LoomLedge](https://github.com/Cenius-ai/loomledge-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/loomledge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loomledge?ref=gh&utm_campaign=loomledge-webapp) |
 | [IronBark](https://github.com/Cenius-ai/ironbark-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/ironbark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ironbark?ref=gh&utm_campaign=ironbark-webapp) |
