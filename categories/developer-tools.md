@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SourDoughClock](https://github.com/Cenius-ai/sourdoughclock-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sourdoughclock-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sourdoughclock?ref=gh&utm_campaign=sourdoughclock-webapp) |
 | [HopBaleCount](https://github.com/Cenius-ai/hopbalecount-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/hopbalecount-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hopbalecount?ref=gh&utm_campaign=hopbalecount-webapp) |
 | [LoomLedge](https://github.com/Cenius-ai/loomledge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/loomledge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/loomledge?ref=gh&utm_campaign=loomledge-webapp) |
 | [IronBark](https://github.com/Cenius-ai/ironbark-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/ironbark-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ironbark?ref=gh&utm_campaign=ironbark-webapp) |
