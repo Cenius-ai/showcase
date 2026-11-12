@@ -428,10 +428,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (81 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (82 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fretlevel-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp) |
 | [SporeLog](https://github.com/Cenius-ai/sporelog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sporelog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sporelog?ref=gh&utm_campaign=sporelog-webapp) |
 | [SporePrint](https://github.com/Cenius-ai/sporeprint-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sporeprint-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sporeprint?ref=gh&utm_campaign=sporeprint-webapp) |
 | [SourDoughClock](https://github.com/Cenius-ai/sourdoughclock-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sourdoughclock-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sourdoughclock?ref=gh&utm_campaign=sourdoughclock-webapp) |
