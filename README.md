@@ -198,10 +198,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (76 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (77 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Metricscope Time-Series Explorer](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricscope-time-series-explorer?ref=gh&utm_campaign=metricscope-time-series-explorer-webapp) |
 | [Hearth Homelab Start Page](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hearth-homelab-start-page?ref=gh&utm_campaign=hearth-homelab-start-page-webapp) |
 | [Volcanic Gas Plume Explorer](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/volcanic-gas-plume-explorer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/volcanic-gas-plume-explorer?ref=gh&utm_campaign=volcanic-gas-plume-explorer-webapp) |
 | [Tram Depot Car Allocation Board](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/tram-depot-car-allocation-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tram-depot-car-allocation-board?ref=gh&utm_campaign=tram-depot-car-allocation-board-nodejs) |
@@ -374,10 +375,11 @@ _Blogs, CMSs, galleries, podcasts, video and music apps._
 
 _Social feeds, forums, chat and community platforms._
 
-**[Open source social network software →](categories/social.md)** (17 apps)
+**[Open source social network software →](categories/social.md)** (18 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Commons Forum Board](https://github.com/Cenius-ai/commons-forum-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/commons-forum-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/commons-forum-board?ref=gh&utm_campaign=commons-forum-board-nodejs) |
 | [Iris](https://github.com/Cenius-ai/iris-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/iris-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/iris?ref=gh&utm_campaign=iris-fastapi) |
 | [TeamChat](https://github.com/Cenius-ai/teamchat-phoenix) | Elixir/Phoenix | [GIF](https://github.com/Cenius-ai/teamchat-phoenix/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamchat?ref=gh&utm_campaign=teamchat-phoenix) |
 | [Guestbook App](https://github.com/Cenius-ai/guestbook-app-flask) | Flask | [GIF](https://github.com/Cenius-ai/guestbook-app-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/guestbook-app?ref=gh&utm_campaign=guestbook-app-flask) |
