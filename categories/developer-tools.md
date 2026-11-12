@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SkepStack](https://github.com/Cenius-ai/skepstack-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/skepstack-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/skepstack?ref=gh&utm_campaign=skepstack-webapp) |
 | [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/fretlevel-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp) |
 | [SporeLog](https://github.com/Cenius-ai/sporelog-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sporelog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sporelog?ref=gh&utm_campaign=sporelog-webapp) |
 | [SporePrint](https://github.com/Cenius-ai/sporeprint-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sporeprint-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sporeprint?ref=gh&utm_campaign=sporeprint-webapp) |
