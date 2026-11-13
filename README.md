@@ -433,10 +433,12 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (84 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (86 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [InkFathom](https://github.com/Cenius-ai/inkfathom-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/inkfathom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inkfathom?ref=gh&utm_campaign=inkfathom-webapp) |
+| [Taceo — Latin Principal Parts & Case Ending Drill (single-file CLI)](https://github.com/Cenius-ai/taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taceo-latin-principal-parts-case-ending-drill-single-file-cli?ref=gh&utm_campaign=taceo-latin-principal-parts-case-ending-drill-single-file-cli-webapp) |
 | [TrekPermit](https://github.com/Cenius-ai/trekpermit-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/trekpermit-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/trekpermit?ref=gh&utm_campaign=trekpermit-webapp) |
 | [SkepStack](https://github.com/Cenius-ai/skepstack-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/skepstack-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/skepstack?ref=gh&utm_campaign=skepstack-webapp) |
 | [FretLevel](https://github.com/Cenius-ai/fretlevel-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/fretlevel-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/fretlevel?ref=gh&utm_campaign=fretlevel-webapp) |
