@@ -198,10 +198,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (78 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (79 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Wattwise Energy Usage Dashboard](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wattwise-energy-usage-dashboard?ref=gh&utm_campaign=wattwise-energy-usage-dashboard-webapp) |
 | [Polyglotter Translation Hub](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang) | V | [GIF](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/polyglotter-translation-hub?ref=gh&utm_campaign=polyglotter-translation-hub-vlang) |
 | [Metricscope Time-Series Explorer](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/metricscope-time-series-explorer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/metricscope-time-series-explorer?ref=gh&utm_campaign=metricscope-time-series-explorer-webapp) |
 | [Hearth Homelab Start Page](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/hearth-homelab-start-page-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/hearth-homelab-start-page?ref=gh&utm_campaign=hearth-homelab-start-page-webapp) |
