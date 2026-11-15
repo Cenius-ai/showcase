@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [BasketryStitch](https://github.com/Cenius-ai/basketrystitch-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/basketrystitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basketrystitch?ref=gh&utm_campaign=basketrystitch-webapp) |
 | [PermitRidge](https://github.com/Cenius-ai/permitridge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/permitridge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/permitridge?ref=gh&utm_campaign=permitridge-webapp) |
 | [BreadCrumb](https://github.com/Cenius-ai/breadcrumb-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/breadcrumb-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/breadcrumb?ref=gh&utm_campaign=breadcrumb-webapp) |
 | [InkFathom](https://github.com/Cenius-ai/inkfathom-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/inkfathom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/inkfathom?ref=gh&utm_campaign=inkfathom-webapp) |
