@@ -120,10 +120,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (70 apps)
+**[Open source productivity apps →](categories/productivity.md)** (71 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Sprintline Issue Tracker](https://github.com/Cenius-ai/sprintline-issue-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/sprintline-issue-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sprintline-issue-tracker?ref=gh&utm_campaign=sprintline-issue-tracker-vite) |
 | [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs) |
 | [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) | Python | [GIF](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python) |
 | [TaskCraft](https://github.com/Cenius-ai/taskcraft-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/taskcraft-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/taskcraft?ref=gh&utm_campaign=taskcraft-webapp) |
@@ -289,10 +290,11 @@ _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
 _Budgeting apps, crypto trackers and money dashboards._
 
-**[Open source finance software →](categories/finance.md)** (21 apps)
+**[Open source finance software →](categories/finance.md)** (22 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Spendflow Expense Reports](https://github.com/Cenius-ai/spendflow-expense-reports-vite) | Vite | [GIF](https://github.com/Cenius-ai/spendflow-expense-reports-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/spendflow-expense-reports?ref=gh&utm_campaign=spendflow-expense-reports-vite) |
 | [Renewly Subscription Tracker](https://github.com/Cenius-ai/renewly-subscription-tracker-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/renewly-subscription-tracker-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/renewly-subscription-tracker?ref=gh&utm_campaign=renewly-subscription-tracker-fastapi) |
 | [Meridian — Personal Finance Dashboard](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/meridian-personal-finance-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/meridian-personal-finance-dashboard?ref=gh&utm_campaign=meridian-personal-finance-dashboard-webapp) |
 | [Budget Tracker](https://github.com/Cenius-ai/budget-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/budget-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/budget-tracker?ref=gh&utm_campaign=budget-tracker-vite) |
