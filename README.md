@@ -78,10 +78,11 @@ _CRMs, helpdesks, invoicing, inventory, point-of-sale, hiring boards and status 
 
 _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
-**[Open source e-commerce platforms →](categories/ecommerce.md)** (32 apps)
+**[Open source e-commerce platforms →](categories/ecommerce.md)** (33 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Zonebuddy Meeting Time Planner](https://github.com/Cenius-ai/zonebuddy-meeting-time-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/zonebuddy-meeting-time-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/zonebuddy-meeting-time-planner?ref=gh&utm_campaign=zonebuddy-meeting-time-planner-nodejs) |
 | [Allotment Water Rota Planner](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/allotment-water-rota-planner-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/allotment-water-rota-planner?ref=gh&utm_campaign=allotment-water-rota-planner-nodejs) |
 | [Ferry Timetable Notice Board](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/ferry-timetable-notice-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ferry-timetable-notice-board?ref=gh&utm_campaign=ferry-timetable-notice-board-nodejs) |
 | [Kiln Firing Schedule Desk](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite) | Vite | [GIF](https://github.com/Cenius-ai/kiln-firing-schedule-desk-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kiln-firing-schedule-desk?ref=gh&utm_campaign=kiln-firing-schedule-desk-vite) |
@@ -198,10 +199,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (80 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (81 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Formdrop Form Backend Inbox](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/formdrop-form-backend-inbox?ref=gh&utm_campaign=formdrop-form-backend-inbox-nodejs) |
 | [Reviewlens Sentiment Analyzer](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reviewlens-sentiment-analyzer?ref=gh&utm_campaign=reviewlens-sentiment-analyzer-webapp) |
 | [Wattwise Energy Usage Dashboard](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wattwise-energy-usage-dashboard?ref=gh&utm_campaign=wattwise-energy-usage-dashboard-webapp) |
 | [Polyglotter Translation Hub](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang) | V | [GIF](https://github.com/Cenius-ai/polyglotter-translation-hub-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/polyglotter-translation-hub?ref=gh&utm_campaign=polyglotter-translation-hub-vlang) |
