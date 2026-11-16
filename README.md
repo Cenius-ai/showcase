@@ -439,10 +439,12 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (91 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (93 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [StitchGauge](https://github.com/Cenius-ai/stitchgauge-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/stitchgauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stitchgauge?ref=gh&utm_campaign=stitchgauge-webapp) |
+| [TideClock](https://github.com/Cenius-ai/tideclock-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tideclock-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tideclock?ref=gh&utm_campaign=tideclock-webapp) |
 | [CometTrain](https://github.com/Cenius-ai/comettrain-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/comettrain-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/comettrain?ref=gh&utm_campaign=comettrain-webapp) |
 | [DeadReckon](https://github.com/Cenius-ai/deadreckon-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/deadreckon-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deadreckon?ref=gh&utm_campaign=deadreckon-webapp) |
 | [BasketryStitch](https://github.com/Cenius-ai/basketrystitch-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/basketrystitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basketrystitch?ref=gh&utm_campaign=basketrystitch-webapp) |
