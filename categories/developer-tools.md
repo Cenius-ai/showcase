@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [CometTrain](https://github.com/Cenius-ai/comettrain-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/comettrain-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/comettrain?ref=gh&utm_campaign=comettrain-webapp) |
 | [DeadReckon](https://github.com/Cenius-ai/deadreckon-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/deadreckon-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/deadreckon?ref=gh&utm_campaign=deadreckon-webapp) |
 | [BasketryStitch](https://github.com/Cenius-ai/basketrystitch-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/basketrystitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basketrystitch?ref=gh&utm_campaign=basketrystitch-webapp) |
 | [PermitRidge](https://github.com/Cenius-ai/permitridge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/permitridge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/permitridge?ref=gh&utm_campaign=permitridge-webapp) |
