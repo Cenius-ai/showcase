@@ -439,10 +439,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (93 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (94 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BonsaiLog](https://github.com/Cenius-ai/bonsailog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bonsailog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bonsailog?ref=gh&utm_campaign=bonsailog-webapp) |
 | [StitchGauge](https://github.com/Cenius-ai/stitchgauge-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/stitchgauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/stitchgauge?ref=gh&utm_campaign=stitchgauge-webapp) |
 | [TideClock](https://github.com/Cenius-ai/tideclock-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tideclock-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tideclock?ref=gh&utm_campaign=tideclock-webapp) |
 | [CometTrain](https://github.com/Cenius-ai/comettrain-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/comettrain-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/comettrain?ref=gh&utm_campaign=comettrain-webapp) |
