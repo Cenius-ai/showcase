@@ -200,10 +200,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (81 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (82 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Pipewatch Airflow DAG Run Monitor](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pipewatch-airflow-dag-run-monitor?ref=gh&utm_campaign=pipewatch-airflow-dag-run-monitor-webapp) |
 | [Formdrop Form Backend Inbox](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/formdrop-form-backend-inbox-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/formdrop-form-backend-inbox?ref=gh&utm_campaign=formdrop-form-backend-inbox-nodejs) |
 | [Reviewlens Sentiment Analyzer](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/reviewlens-sentiment-analyzer-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/reviewlens-sentiment-analyzer?ref=gh&utm_campaign=reviewlens-sentiment-analyzer-webapp) |
 | [Wattwise Energy Usage Dashboard](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/wattwise-energy-usage-dashboard-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/wattwise-energy-usage-dashboard?ref=gh&utm_campaign=wattwise-energy-usage-dashboard-webapp) |
