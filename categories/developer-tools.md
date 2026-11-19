@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [BraidCord](https://github.com/Cenius-ai/braidcord-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/braidcord-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/braidcord?ref=gh&utm_campaign=braidcord-webapp) |
 | [MorseWire](https://github.com/Cenius-ai/morsewire-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/morsewire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/morsewire?ref=gh&utm_campaign=morsewire-webapp) |
 | [VaneAlign](https://github.com/Cenius-ai/vanealign-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/vanealign-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vanealign?ref=gh&utm_campaign=vanealign-webapp) |
 | [FoamTrail](https://github.com/Cenius-ai/foamtrail-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/foamtrail-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/foamtrail?ref=gh&utm_campaign=foamtrail-webapp) |
