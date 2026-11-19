@@ -441,10 +441,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (97 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (98 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BraidCord](https://github.com/Cenius-ai/braidcord-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/braidcord-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/braidcord?ref=gh&utm_campaign=braidcord-webapp) |
 | [MorseWire](https://github.com/Cenius-ai/morsewire-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/morsewire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/morsewire?ref=gh&utm_campaign=morsewire-webapp) |
 | [VaneAlign](https://github.com/Cenius-ai/vanealign-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/vanealign-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vanealign?ref=gh&utm_campaign=vanealign-webapp) |
 | [FoamTrail](https://github.com/Cenius-ai/foamtrail-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/foamtrail-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/foamtrail?ref=gh&utm_campaign=foamtrail-webapp) |
