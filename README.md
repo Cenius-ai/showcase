@@ -441,10 +441,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (96 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (97 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [MorseWire](https://github.com/Cenius-ai/morsewire-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/morsewire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/morsewire?ref=gh&utm_campaign=morsewire-webapp) |
 | [VaneAlign](https://github.com/Cenius-ai/vanealign-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/vanealign-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vanealign?ref=gh&utm_campaign=vanealign-webapp) |
 | [FoamTrail](https://github.com/Cenius-ai/foamtrail-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/foamtrail-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/foamtrail?ref=gh&utm_campaign=foamtrail-webapp) |
 | [BonsaiLog](https://github.com/Cenius-ai/bonsailog-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bonsailog-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bonsailog?ref=gh&utm_campaign=bonsailog-webapp) |
