@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [TesseraLoom](https://github.com/Cenius-ai/tesseraloom-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tesseraloom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tesseraloom?ref=gh&utm_campaign=tesseraloom-webapp) |
 | [AnuranCall](https://github.com/Cenius-ai/anurancall-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/anurancall-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/anurancall?ref=gh&utm_campaign=anurancall-webapp) |
 | [BraidCord](https://github.com/Cenius-ai/braidcord-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/braidcord-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/braidcord?ref=gh&utm_campaign=braidcord-webapp) |
 | [MorseWire](https://github.com/Cenius-ai/morsewire-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/morsewire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/morsewire?ref=gh&utm_campaign=morsewire-webapp) |
