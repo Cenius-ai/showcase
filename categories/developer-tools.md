@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [AnuranCall](https://github.com/Cenius-ai/anurancall-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/anurancall-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/anurancall?ref=gh&utm_campaign=anurancall-webapp) |
 | [BraidCord](https://github.com/Cenius-ai/braidcord-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/braidcord-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/braidcord?ref=gh&utm_campaign=braidcord-webapp) |
 | [MorseWire](https://github.com/Cenius-ai/morsewire-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/morsewire-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/morsewire?ref=gh&utm_campaign=morsewire-webapp) |
 | [VaneAlign](https://github.com/Cenius-ai/vanealign-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/vanealign-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/vanealign?ref=gh&utm_campaign=vanealign-webapp) |
