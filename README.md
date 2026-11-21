@@ -442,10 +442,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (102 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (103 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [RimfireHold](https://github.com/Cenius-ai/rimfirehold-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/rimfirehold-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rimfirehold?ref=gh&utm_campaign=rimfirehold-webapp) |
 | [AstroArc](https://github.com/Cenius-ai/astroarc-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/astroarc-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/astroarc?ref=gh&utm_campaign=astroarc-webapp) |
 | [Pultrude](https://github.com/Cenius-ai/pultrude-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pultrude-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pultrude?ref=gh&utm_campaign=pultrude-webapp) |
 | [TesseraLoom](https://github.com/Cenius-ai/tesseraloom-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tesseraloom-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tesseraloom?ref=gh&utm_campaign=tesseraloom-webapp) |
