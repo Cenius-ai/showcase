@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [SextantArc](https://github.com/Cenius-ai/sextantarc-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sextantarc-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sextantarc?ref=gh&utm_campaign=sextantarc-webapp) |
 | [RimfireHold](https://github.com/Cenius-ai/rimfirehold-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/rimfirehold-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/rimfirehold?ref=gh&utm_campaign=rimfirehold-webapp) |
 | [AstroArc](https://github.com/Cenius-ai/astroarc-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/astroarc-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/astroarc?ref=gh&utm_campaign=astroarc-webapp) |
 | [Pultrude](https://github.com/Cenius-ai/pultrude-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/pultrude-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pultrude?ref=gh&utm_campaign=pultrude-webapp) |
