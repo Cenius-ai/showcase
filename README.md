@@ -442,10 +442,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (106 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (107 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BellowsTally](https://github.com/Cenius-ai/bellowstally-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/bellowstally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bellowstally?ref=gh&utm_campaign=bellowstally-webapp) |
 | [SparVarnish](https://github.com/Cenius-ai/sparvarnish-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sparvarnish-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sparvarnish?ref=gh&utm_campaign=sparvarnish-webapp) |
 | [BalteusBelt](https://github.com/Cenius-ai/balteusbelt-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/balteusbelt-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/balteusbelt?ref=gh&utm_campaign=balteusbelt-webapp) |
 | [SextantArc](https://github.com/Cenius-ai/sextantarc-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sextantarc-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sextantarc?ref=gh&utm_campaign=sextantarc-webapp) |
