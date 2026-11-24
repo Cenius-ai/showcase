@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [PalynoGrain](https://github.com/Cenius-ai/palynograin-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/palynograin-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/palynograin?ref=gh&utm_campaign=palynograin-webapp) |
 | [CastleHopp](https://github.com/Cenius-ai/castlehopp-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/castlehopp-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/castlehopp?ref=gh&utm_campaign=castlehopp-webapp) |
 | [BellowsTally](https://github.com/Cenius-ai/bellowstally-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/bellowstally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/bellowstally?ref=gh&utm_campaign=bellowstally-webapp) |
 | [SparVarnish](https://github.com/Cenius-ai/sparvarnish-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sparvarnish-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sparvarnish?ref=gh&utm_campaign=sparvarnish-webapp) |
