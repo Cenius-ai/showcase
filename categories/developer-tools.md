@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Coggly](https://github.com/Cenius-ai/coggly-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/coggly-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coggly?ref=gh&utm_campaign=coggly-webapp) |
 | [Biblist](https://github.com/Cenius-ai/biblist-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/biblist-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/biblist?ref=gh&utm_campaign=biblist-webapp) |
 | [PalynoGrain](https://github.com/Cenius-ai/palynograin-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/palynograin-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/palynograin?ref=gh&utm_campaign=palynograin-webapp) |
 | [CastleHopp](https://github.com/Cenius-ai/castlehopp-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/castlehopp-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/castlehopp?ref=gh&utm_campaign=castlehopp-webapp) |
