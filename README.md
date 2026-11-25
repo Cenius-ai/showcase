@@ -446,10 +446,12 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (111 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (113 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [BasaltLedger](https://github.com/Cenius-ai/basaltledger-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/basaltledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basaltledger?ref=gh&utm_campaign=basaltledger-webapp) |
+| [Tarpitch](https://github.com/Cenius-ai/tarpitch-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tarpitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tarpitch?ref=gh&utm_campaign=tarpitch-webapp) |
 | [Coggly](https://github.com/Cenius-ai/coggly-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/coggly-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coggly?ref=gh&utm_campaign=coggly-webapp) |
 | [Biblist](https://github.com/Cenius-ai/biblist-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/biblist-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/biblist?ref=gh&utm_campaign=biblist-webapp) |
 | [PalynoGrain](https://github.com/Cenius-ai/palynograin-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/palynograin-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/palynograin?ref=gh&utm_campaign=palynograin-webapp) |
