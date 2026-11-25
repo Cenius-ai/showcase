@@ -326,10 +326,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (53 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (54 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Mealgrid Weekly Meal Planner](https://github.com/Cenius-ai/mealgrid-weekly-meal-planner-fastapi) | FastAPI | [GIF](https://github.com/Cenius-ai/mealgrid-weekly-meal-planner-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mealgrid-weekly-meal-planner?ref=gh&utm_campaign=mealgrid-weekly-meal-planner-fastapi) |
 | [Feedharbor Offline RSS Reader](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask) | Flask | [GIF](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/feedharbor-offline-rss-reader?ref=gh&utm_campaign=feedharbor-offline-rss-reader-flask) |
 | [Ladle Kitchen Cookbook](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django) | Django | [GIF](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ladle-kitchen-cookbook?ref=gh&utm_campaign=ladle-kitchen-cookbook-django) |
 | [Harbor](https://github.com/Cenius-ai/harbor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/harbor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp) |
