@@ -4,6 +4,7 @@ Blogs, CMSs, galleries, podcast and video apps — publish on your own terms. Ev
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [Mealgrid Weekly Meal Planner](https://github.com/Cenius-ai/mealgrid-weekly-meal-planner-fastapi) | recipe manager | FastAPI | [GIF](https://github.com/Cenius-ai/mealgrid-weekly-meal-planner-fastapi/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/mealgrid-weekly-meal-planner?ref=gh&utm_campaign=mealgrid-weekly-meal-planner-fastapi) |
 | [Feedharbor Offline RSS Reader](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask) | blog platform | Flask | [GIF](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/feedharbor-offline-rss-reader?ref=gh&utm_campaign=feedharbor-offline-rss-reader-flask) |
 | [Ladle Kitchen Cookbook](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django) | recipe manager | Django | [GIF](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ladle-kitchen-cookbook?ref=gh&utm_campaign=ladle-kitchen-cookbook-django) |
 | [Harbor](https://github.com/Cenius-ai/harbor-webapp) | blog platform | Full-stack app | [GIF](https://github.com/Cenius-ai/harbor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp) |
