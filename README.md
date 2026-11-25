@@ -120,10 +120,12 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (71 apps)
+**[Open source productivity apps →](categories/productivity.md)** (73 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Teamretro Sprint Retrospective Board](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamretro-sprint-retrospective-board?ref=gh&utm_campaign=teamretro-sprint-retrospective-board-nodejs) |
+| [Citeshelf Reference Librarian](https://github.com/Cenius-ai/citeshelf-reference-librarian-django) | Django | [GIF](https://github.com/Cenius-ai/citeshelf-reference-librarian-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/citeshelf-reference-librarian?ref=gh&utm_campaign=citeshelf-reference-librarian-django) |
 | [Sprintline Issue Tracker](https://github.com/Cenius-ai/sprintline-issue-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/sprintline-issue-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sprintline-issue-tracker?ref=gh&utm_campaign=sprintline-issue-tracker-vite) |
 | [Askwell Q and A Forum](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/askwell-q-and-a-forum-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/askwell-q-and-a-forum?ref=gh&utm_campaign=askwell-q-and-a-forum-nodejs) |
 | [Shipwreck Dive Site Almanac](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python) | Python | [GIF](https://github.com/Cenius-ai/shipwreck-dive-site-almanac-python/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shipwreck-dive-site-almanac?ref=gh&utm_campaign=shipwreck-dive-site-almanac-python) |
@@ -324,10 +326,11 @@ _Budgeting apps, crypto trackers and money dashboards._
 
 _Blogs, CMSs, galleries, podcasts, video and music apps._
 
-**[Open source CMS and media apps →](categories/content-media.md)** (52 apps)
+**[Open source CMS and media apps →](categories/content-media.md)** (53 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Feedharbor Offline RSS Reader](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask) | Flask | [GIF](https://github.com/Cenius-ai/feedharbor-offline-rss-reader-flask/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/feedharbor-offline-rss-reader?ref=gh&utm_campaign=feedharbor-offline-rss-reader-flask) |
 | [Ladle Kitchen Cookbook](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django) | Django | [GIF](https://github.com/Cenius-ai/ladle-kitchen-cookbook-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/ladle-kitchen-cookbook?ref=gh&utm_campaign=ladle-kitchen-cookbook-django) |
 | [Harbor](https://github.com/Cenius-ai/harbor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/harbor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/harbor?ref=gh&utm_campaign=harbor-webapp) |
 | [Onyx — Product Mockups AI Studio](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django) | Django | [GIF](https://github.com/Cenius-ai/onyx-product-mockups-ai-studio-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/onyx-product-mockups-ai-studio?ref=gh&utm_campaign=onyx-product-mockups-ai-studio-django) |
