@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [CleatStomp](https://github.com/Cenius-ai/cleatstomp-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/cleatstomp-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cleatstomp?ref=gh&utm_campaign=cleatstomp-webapp) |
 | [BasaltLedger](https://github.com/Cenius-ai/basaltledger-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/basaltledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basaltledger?ref=gh&utm_campaign=basaltledger-webapp) |
 | [Tarpitch](https://github.com/Cenius-ai/tarpitch-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/tarpitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tarpitch?ref=gh&utm_campaign=tarpitch-webapp) |
 | [Coggly](https://github.com/Cenius-ai/coggly-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/coggly-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/coggly?ref=gh&utm_campaign=coggly-webapp) |
