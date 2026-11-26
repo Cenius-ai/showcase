@@ -446,10 +446,12 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (114 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (116 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/camlobe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp) |
+| [GraftWhip](https://github.com/Cenius-ai/graftwhip-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/graftwhip-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/graftwhip?ref=gh&utm_campaign=graftwhip-webapp) |
 | [CleatStomp](https://github.com/Cenius-ai/cleatstomp-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/cleatstomp-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cleatstomp?ref=gh&utm_campaign=cleatstomp-webapp) |
 | [BasaltLedger](https://github.com/Cenius-ai/basaltledger-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/basaltledger-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/basaltledger?ref=gh&utm_campaign=basaltledger-webapp) |
 | [Tarpitch](https://github.com/Cenius-ai/tarpitch-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/tarpitch-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/tarpitch?ref=gh&utm_campaign=tarpitch-webapp) |
