@@ -120,10 +120,11 @@ _Storefronts, multi-vendor marketplaces, booking and event platforms._
 
 _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
-**[Open source productivity apps →](categories/productivity.md)** (73 apps)
+**[Open source productivity apps →](categories/productivity.md)** (74 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Lineagemap Model Docs](https://github.com/Cenius-ai/lineagemap-model-docs-vlang) | V | [GIF](https://github.com/Cenius-ai/lineagemap-model-docs-vlang/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lineagemap-model-docs?ref=gh&utm_campaign=lineagemap-model-docs-vlang) |
 | [Teamretro Sprint Retrospective Board](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/teamretro-sprint-retrospective-board-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/teamretro-sprint-retrospective-board?ref=gh&utm_campaign=teamretro-sprint-retrospective-board-nodejs) |
 | [Citeshelf Reference Librarian](https://github.com/Cenius-ai/citeshelf-reference-librarian-django) | Django | [GIF](https://github.com/Cenius-ai/citeshelf-reference-librarian-django/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/citeshelf-reference-librarian?ref=gh&utm_campaign=citeshelf-reference-librarian-django) |
 | [Sprintline Issue Tracker](https://github.com/Cenius-ai/sprintline-issue-tracker-vite) | Vite | [GIF](https://github.com/Cenius-ai/sprintline-issue-tracker-vite/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sprintline-issue-tracker?ref=gh&utm_campaign=sprintline-issue-tracker-vite) |
