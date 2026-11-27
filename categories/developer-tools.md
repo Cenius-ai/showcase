@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [LestGauge](https://github.com/Cenius-ai/lestgauge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/lestgauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lestgauge?ref=gh&utm_campaign=lestgauge-webapp) |
 | [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/camlobe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp) |
 | [GraftWhip](https://github.com/Cenius-ai/graftwhip-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/graftwhip-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/graftwhip?ref=gh&utm_campaign=graftwhip-webapp) |
 | [CleatStomp](https://github.com/Cenius-ai/cleatstomp-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/cleatstomp-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/cleatstomp?ref=gh&utm_campaign=cleatstomp-webapp) |
