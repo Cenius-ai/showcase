@@ -202,10 +202,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (84 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (85 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Kafkalens Topic Browser](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kafkalens-topic-browser?ref=gh&utm_campaign=kafkalens-topic-browser-webapp) |
 | [Datacheck Quality Monitor](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/datacheck-quality-monitor?ref=gh&utm_campaign=datacheck-quality-monitor-webapp) |
 | [Shiftboard Support Queue Analytics](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shiftboard-support-queue-analytics?ref=gh&utm_campaign=shiftboard-support-queue-analytics-webapp) |
 | [Pipewatch Airflow DAG Run Monitor](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/pipewatch-airflow-dag-run-monitor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/pipewatch-airflow-dag-run-monitor?ref=gh&utm_campaign=pipewatch-airflow-dag-run-monitor-webapp) |
