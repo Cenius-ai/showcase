@@ -4,6 +4,7 @@ API gateways, snippet managers, CLIs and backend building blocks. Every app belo
 
 | App | What it is | Stack | Demo | Remix |
 |---|---|---|---|---|
+| [KubbsTally](https://github.com/Cenius-ai/kubbstally-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/kubbstally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kubbstally?ref=gh&utm_campaign=kubbstally-webapp) |
 | [SloydBench](https://github.com/Cenius-ai/sloydbench-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/sloydbench-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sloydbench?ref=gh&utm_campaign=sloydbench-webapp) |
 | [LestGauge](https://github.com/Cenius-ai/lestgauge-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/lestgauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lestgauge?ref=gh&utm_campaign=lestgauge-webapp) |
 | [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) | command-line tool | Full-stack app | [GIF](https://github.com/Cenius-ai/camlobe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp) |
