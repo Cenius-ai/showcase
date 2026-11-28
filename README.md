@@ -204,10 +204,11 @@ _Notes, kanban boards, wikis, whiteboards, habit trackers and personal drives._
 
 _Analytics suites, log explorers, IoT panels and monitoring dashboards._
 
-**[Open source dashboard software →](categories/dashboards.md)** (85 apps)
+**[Open source dashboard software →](categories/dashboards.md)** (86 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [Huddlecast Async Standup](https://github.com/Cenius-ai/huddlecast-async-standup-nodejs) | Node.js | [GIF](https://github.com/Cenius-ai/huddlecast-async-standup-nodejs/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/huddlecast-async-standup?ref=gh&utm_campaign=huddlecast-async-standup-nodejs) |
 | [Kafkalens Topic Browser](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kafkalens-topic-browser-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kafkalens-topic-browser?ref=gh&utm_campaign=kafkalens-topic-browser-webapp) |
 | [Datacheck Quality Monitor](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/datacheck-quality-monitor-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/datacheck-quality-monitor?ref=gh&utm_campaign=datacheck-quality-monitor-webapp) |
 | [Shiftboard Support Queue Analytics](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/shiftboard-support-queue-analytics-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/shiftboard-support-queue-analytics?ref=gh&utm_campaign=shiftboard-support-queue-analytics-webapp) |
@@ -449,10 +450,11 @@ _Multiplayer games, puzzles and interactive experiences._
 
 _API gateways, snippet managers, CLIs, services and backend building blocks._
 
-**[Open source developer tools →](categories/developer-tools.md)** (118 apps)
+**[Open source developer tools →](categories/developer-tools.md)** (119 apps)
 
 | App | Stack | Demo | Remix |
 |---|---|---|---|
+| [KubbsTally](https://github.com/Cenius-ai/kubbstally-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/kubbstally-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/kubbstally?ref=gh&utm_campaign=kubbstally-webapp) |
 | [SloydBench](https://github.com/Cenius-ai/sloydbench-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/sloydbench-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/sloydbench?ref=gh&utm_campaign=sloydbench-webapp) |
 | [LestGauge](https://github.com/Cenius-ai/lestgauge-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/lestgauge-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/lestgauge?ref=gh&utm_campaign=lestgauge-webapp) |
 | [CamLobe](https://github.com/Cenius-ai/camlobe-webapp) | Full-stack app | [GIF](https://github.com/Cenius-ai/camlobe-webapp/blob/main/.github/media/hero.gif) | [open on cenius.ai](https://cenius.ai/marketplace/p/camlobe?ref=gh&utm_campaign=camlobe-webapp) |
